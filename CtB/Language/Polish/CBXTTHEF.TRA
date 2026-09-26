@@ -1,0 +1,251 @@
+@1   = ~Co, kolo? Czego?~ ~Co, laska? Czego?~
+@2   = ~Na nic mi się nie przydasz. Spadówa, nim napytasz sobie biedy.~
+@3   = ~Wyglądasz jako tako. Jak myślisz, kolo, moglibyśmy założyć spółę?~ ~Wyglądasz jako tako. Jak myślisz, laska, mogłybyśmy założyć spółę?~
+@4   = ~Widzi mi się, że wyglądasz nieźle, ale czy tak samo kminisz?~
+@5   = ~Ty filujesz moje plery, ja filuję twoje.~ 
+@6   = ~Filujesz moje plery, ale swoje musisz filować sama.~
+@7   = ~Myślę, że mnie nie ufilujesz. Nie zaufam ci w takim razie.~
+@8   = ~Wybacz, nie zrozumiałem ani słowa z tego, co powiedziałaś.~ ~Wybacz, nie zrozumiałam ani słowa z tego, co powiedziałaś.~
+@9   = ~Teraz tak gadasz, kolo, ale skąd mam wiedzieć jak będzie naprawdę. Jak mi udowodnisz, że jesteś coś wart?~ ~Teraz tak gadasz, laska, ale skąd mam wiedzieć jak będzie naprawdę. Jak mi udowodnisz, że jesteś coś warta?~
+@10  = ~Laska, jestem mistrzem gildii złodziejskiej w Athkatli.~ ~Laska, jestem mistrzynią gildii złodziejskiej w Athkatli.~
+@11  = ~Niewiele wiesz, laska. Rozwaliłem gildię złodziei w Athkatli.~ ~Niewiele wiesz, laska. Rozwaliłam gildię złodziei w Athkatli.~
+@12  = ~Niczego nie zamierzam udowadniać. A tym bardziej z tobą o tym gadać.~
+@13  = ~Opędzlowano Targ Przygód, laska, a my nieźle się przy okazji obłowiliśmy.~
+@14  = ~Nic z tego, kolo. Nie kupuję tego. A teraz spadaj, zanim napytasz sobie biedy.~ ~Nic z tego, laska. Nie kupuję tego. A teraz spadaj, zanim napytasz sobie biedy.~
+@15  = ~Nic z tego, kolo. Nie kupuję tego. Odwal się, dopóki nie zrobisz czegoś, o czym będzie można pogadać.~ ~Nic z tego, laska. Nie kupuję tego. Odwal się, dopóki nie zrobisz czegoś, o czym będzie można pogadać.~
+@16  = ~To byłeś ty? Nielicha sprawa, kolo. Gadasz zatem, że to ty załatwiłeś Linvaila. A skąd mam wiedzieć, że nie zrobisz tego ze mną, co?~ ~To byłaś ty? Nielicha sprawa, laska. Gadasz zatem, że to ty załatwiłaś Linvaila. A skąd mam wiedzieć, że nie zrobisz tego ze mną, co?~
+@17  = ~Słowo. Nie utrupię cię.~
+@18  = ~Sięgnę po kosę przeciw tobie tylko, jeśli mnie do tego zmusisz.~
+@19  = ~Tego nie wiesz. Moja kosa zadba o to, żebyś nie wystąpiła przeciwko mnie.~ 
+@20  = ~Nieźle, kolo. To się będzie liczyć. Gadasz zatem, że jesteś mistrzem w złodziejskiej norze. Skąd mam wiedzieć, że nie zrobisz mnie w bambuko, co?~ ~Nieźle, laska. To się będzie liczyć. Gadasz zatem, że jesteś mistrzynią w złodziejskiej norze. Skąd mam wiedzieć, że nie zrobisz mnie w bambuko, co?~
+@21  = ~Słowo. Nie przekręcę cię.~
+@22  = ~Przekręcę cię tylko wtedy, kiedy ty będziesz kręcić mnie.~
+@23  = ~Tego nie wiesz. To powstrzyma cię przed kręceniem mnie.~
+@24  = ~Ech, spóła z tobą będzie chyba kłopotliwa. Ale niech będzie, kolo. Zaryzykuję.~ ~Ech, spóła z tobą będzie chyba kłopotliwa. Ale niech będzie, laska. Zaryzykuję.~
+@25  = ~Ech, chyba spóła z tobą może mnie doprowadzić do śmierci. Ale niech będzie, kolo. Zaryzykuję.~ ~Ech, chyba spóła z tobą może mnie doprowadzić do śmierci. Ale niech będzie, laska. Zaryzykuję.~
+@26  = ~Ech, spóła z tobą chyba nie wyjdzie mi na dobre. Ale niech będzie, kolo. Zaryzykuję.~ ~Ech, spóła z tobą chyba nie wyjdzie mi na dobre. Ale niech będzie, laska. Zaryzykuję.~
+@27  = ~Ech, spóła z tobą nic mi chyba nie da. Albo uczyni mnie bogaczem. Niech będzie, kolo. Zaryzykuję.~ ~Ech, spóła z tobą nic mi chyba nie da. Albo uczyni mnie bogaczem. Niech będzie, laska. Zaryzykuję.~
+@28  = ~Teraz tak mówisz, ale kto wie, jak to będzie? Nie zawsze można wierzyć komuś na słowo. Ale niech będzie, kolo. Zaryzykuję.~ ~Teraz tak mówisz, ale kto wie, jak to będzie? Nie zawsze można wierzyć komuś na słowo. Ale niech będzie, laska. Zaryzykuję.~
+@29  = ~Chcesz wiedzieć, o co mi chodzi, prawda? Zaraz ci to powiem, prosto z mostu. Mam upatrzonych kilka celów, niektóre bardzo łatwe.~
+@30  = ~Wszystko zależy od ciebie, kolo. Wchodzisz w to? Pomożesz mi z tym celami, żeby wyciągnąć z nich trochę towarku?~ ~Wszystko zależy od ciebie, laska. Wchodzisz w to? Pomożesz mi z tym celami, żeby wyciągnąć z nich trochę towarku?~
+@31  = ~Stoi. Pomogę ci.~
+@32  = ~Nie ma mowy, bym pomógł ci okraść twoje ofiary. Znajdź sobie innego pomagiera.~ ~Nie ma mowy, bym pomogła ci okraść twoje ofiary. Znajdź sobie innego pomagiera.~
+@33  = ~Wiedziałam, że ściemniasz. Zakład, że idziesz mnie sprzedać, co nie? Czas kitrać. Nara, kolo.~ ~Wiedziałam, że ściemniasz. Zakład, że idziesz mnie sprzedać, co nie? Czas kitrać. Nara, laska.~
+@34  = ~Ekstra, kolo! Jak ci nawijałam, mam parę celów na oku. O którym chcesz się dowiedzieć? Kruchta Lathandera, meta handlarzy niewolników, chawira władz czy chata Harfiarzy?~ ~Ekstra, laska! Jak ci nawijałam, mam parę celów na oku. O którym chcesz się dowiedzieć? Kruchta Lathandera, meta handlarzy niewolników, chawira władz czy chata Harfiarzy?~
+@35  = ~Nie mogę ci teraz pomóc. Może później~
+@36  = ~Powiedz mi o tej świątyni Lathandera.~
+@37  = ~O co chodzi z tymi handlarzami niewolników?~
+@38  = ~Naprawdę myślisz, że moglibyśmy obrobić budynek rządowy?~
+@39  = ~Zawsze chciałem odegrać się na tych Harfiarzach. Bierzmy się za nich.~ ~Zawsze chciałam odegrać się na tych Harfiarzach. Bierzmy się za nich.~
+@40  = ~Te cele są w porządku, ale może masz jeszcze jakieś inne?~
+@41  = ~Heh, kolo. To dopiero cel. Kruchta Lathandera. Ekstrałatwa do obrobienia, o ile nie natkniesz się na strażników.~ ~Heh, laska. To dopiero cel. Kruchta Lathandera. Ekstrałatwa do obrobienia, o ile nie natkniesz się na strażników.~
+@42  = ~Przykumałam, kiedy kimają. Możesz tam wejść, zabrać rzeczy i wynieść się, zanim ktokolwiek się zorientuje.~
+@43  = ~Nadal chcesz spróbować z kruchtą?~
+@44  = ~Pewnie, że chcę. Możemy okraść ich dzisiejszej nocy.~
+@45  = ~Dobra, kolo. Obrabiamy kruchtę. Tam się spotkamy. Przyjdź w nocy. Zdobędziemy sporo łupu.~ ~Dobra, laska. Obrabiamy kruchtę. Tam się spotkamy. Przyjdź w nocy. Zdobędziemy sporo łupu.~
+@46  = ~Jasna sprawa, kolo. Możemy się zająć łowcami niewolników. Wiesz gdzie jest ich meta, co? Z pewnością wiesz.~ ~Jasna sprawa, laska. Możemy się zająć łowcami niewolników. Wiesz gdzie jest ich meta, co? Z pewnością wiesz.~
+@47  = ~Filowałam ich jakiś czas i znam ich zwyczaje. Możemy ich wspólnie dorwać. Ja mogę stanąć na czatach, a ty zwędzisz im trochę rzeczy. Potem kitramy, zanim się połapią, że tam byliśmy.~
+@48  = ~Wiem, że mają mnóstwo złota, broni i innego dynksu. Jeśli nas nie capną, to nieźle się nachapiemy.~
+@49  = ~Nadal chcesz ich obrobić?~
+@50  = ~Jasne. Możemy teraz obrobić handlarzy niewolników.~
+@51  = ~W porzo. Spotykamy się przed frontowymi drzwiami w nocy. Wślizgnę się tam i otworzę ci je. Do zobaczenia na miejscu, kolo.~ ~W porzo. Spotykamy się przed frontowymi drzwiami w nocy. Wślizgnę się tam i otworzę ci je. Do zobaczenia na miejscu, laska.~
+@52  = ~Chawira władz? Będzie trudno, kolo, ale nie peniaj. Da się tam wkitrać. Jak już będziesz w środku, znajdziesz tam dwie figurki warte sporo siana. Ja mogę postać na czujce.~ ~Chawira władz? Będzie trudno, laska, ale nie peniaj. Da się tam wkitrać. Jak już będziesz w środku, znajdziesz tam dwie figurki warte sporo siana. Ja mogę postać na czujce.~
+@53  = ~To będzie trudne zadanie, ale oni w noc kimają wszyscy. Wciąż chcesz spróbować tej roboty?~
+@54  = ~Tak. Trzeba ich obrobić.~
+@55  = ~To twój wybór, kolo. Robimy to. Spotkamy się tam i dostaną to, na co zasłużyli.~ ~To twój wybór, laska. Robimy to. Spotkamy się tam i dostaną to, na co zasłużyli.~
+@56  = ~Nawijasz, jakbyś miał co do Harfiarzy. Możesz im dać to, na co sobie zasłużyli.~ ~Nawijasz, jakbyś miała co do Harfiarzy. Możesz im dać to, na co sobie zasłużyli.~
+@57  = ~Jeśli spotkasz się ze mną w nocy pod ich fortecą, to pokażę ci jak tam wejść. Muszą mieć niezłe fanty. Nadal chcesz ich okraść?~
+@58  = ~Nawijałem przecież, że tak! Co z tobą? Głucha jesteś?~ ~Nawijałam przecież, że tak! Co z tobą? Głucha jesteś?~
+@59  = ~Nie wpieniaj się tak. Pytam tylko, czy jesteś tego pewny. Dobra, kolo, walimy na Harfiarzy. Będę czekała na ciebie tej nocy w Dokach.~ ~Nie wpieniaj się tak. Pytam tylko, czy jesteś tego pewna. Dobra, laska, walimy na Harfiarzy. Będę czekała na ciebie tej nocy w Dokach.~
+@60  = ~Co jest? Zgubiłeś się? Kruchta jest tam. Ja postoję na czatach. Właź, złap co możesz i wyłaź.~ ~Co jest? Zgubiłeś się? Kruchta jest tam. Ja postoję na czatach. Właź, złap co możesz i wyłaź.~
+@61  = ~No, dobra robota, kolo. A teraz spadaj zanim cię przyfilują. Nie leź za mną. Ja spylam do Slumsów.~ ~No, dobra robota, laska. A teraz spadaj zanim cię przyfilują. Nie leź za mną. Ja spylam do Slumsów.~
+@62  = ~Ruchy, kolo! Nie mamy całej nocy. Znajdź co się da i przestań marnować czas.~ ~Ruchy, laska! Nie mamy całej nocy. Znajdź co się da i przestań marnować czas.~
+@63  = ~To niezły łup, kolo. Bierz to, ja przepiorę twoje siano. Wynośmy się z tej rudery. Później możesz się ze mną spotkać w Slumsach.~ ~To niezły łup, laska. Bierz to, ja przepiorę twoje siano. Wynośmy się z tej rudery. Później możesz się ze mną spotkać w Slumsach.~
+@64  = ~Teraz albo wcale, kolo. Właź do pałacu, łap figurki i wracaj. Ja postoję na czujce. A teraz pospiesz się.~ ~Teraz albo wcale, laska. Właź do pałacu, łap figurki i wracaj. Ja postoję na czujce. A teraz pospiesz się.~
+@65  = ~Wygląda na to, że ci przyfarciło. A teraz kitrajmy. Spotkamy się w Slumsach.~
+@66  = ~Czy to ci wygląda na fortecę Harfiarzy, kolo? Ja już uporałam się z zamkiem. Zdobądź jakiś łup, zanim nas przyfilują.~ ~Czy to ci wygląda na fortecę Harfiarzy, laska? Ja już uporałam się z zamkiem. Zdobądź jakiś łup, zanim nas przyfilują.~
+@67  = ~Dobra robota, kolo. Strażnik tędy przechodził, ale mnie nie wypatrzył. Wynośmy się stąd, zanim tu wróci. Widzimy się w Slumsach.~ ~Dobra robota, laska. Strażnik tędy przechodził, ale mnie nie wypatrzył. Wynośmy się stąd, zanim tu wróci. Widzimy się w Slumsach.~
+@68  = ~Jasna sprawa, kolo. Mam jeszcze na oku trzy robótki. Obserwowałam chawirę zakonu paladynów, metę jednego szlachciura - machera od sztuki - w pobliżu więzienia - założę się, że wiesz, gdzie to jest. Albo, jeśli by cię to interesowało, możemy pobawić się trochę w hieny cmentarne.~ ~Jasna sprawa, laska. Mam jeszcze na oku trzy robótki. Obserwowałam chawirę zakonu paladynów, metę jednego szlachciura - machera od sztuki - w pobliżu więzienia - założę się, że wiesz, gdzie to jest. Albo, jeśli by cię to interesowało, możemy pobawić się trochę w hieny cmentarne.~
+@69  = ~Jeszcze raz. Jakie to były cele?~
+@70  = ~Walimy na zakon.~
+@71  = ~Szabrowanie grobów będzie najłatwiejsze.~
+@72  = ~Taki gość to powinien mieć złota po pachy. Możemy go obrobić, o ile ma coś więcej niż sztukę.~
+@73  = ~Co? Na łeb ci padło? Słuchaj, kolo, bo nie będę więcej powtarzała. Jest kruchta Lathandera, meta handlarzy niewolników, chawira władz, chata Harfiarzy, ufny zakon paladynów, szabrowanie grobów, albo chata machera od sztuki.~ ~Co? Na łeb ci padło? Słuchaj, laska, bo nie będę więcej powtarzała. Jest kruchta Lathandera, meta handlarzy niewolników, chawira władz, chata Harfiarzy, ufny zakon paladynów, szabrowanie grobów, albo chata machera od sztuki.~
+@74  = ~Dobra, kolo. Uderzamy na paladynów. Są zbyt ufni i nigdy nie zamykają drzwi.~ ~Dobra, laska. Uderzamy na paladynów. Są zbyt ufni i nigdy nie zamykają drzwi.~
+@75  = ~Nie wiem, co tam można znaleźć, ale mogę stanąć dla ciebie na czatach. Wchodzisz w to?~
+@76  = ~Tak, myślę, że to dobry cel.~
+@77  = ~Możemy to zrobić, ale pamiętaj, by założyć ciemne ubrania. I żadnych hałaśliwych zbroi.~
+@78  = ~Tracimy nockę. Właź do świątyni, złap co możesz i wyłaź.~
+@79  = ~Świętoszkowaci paladyni zasłużyli sobie, by to stracić. Chodź, ulatniamy się stąd. Spotykamy się w Slumsach.~
+@80  = ~Szabrowanie grobów to ryzykowna zabawa, kolo. Nigdy nie wiadomo, co się znajdzie. Twój wybór, dopóki ja dostaję swoją działkę.~ ~Szabrowanie grobów to ryzykowna zabawa, laska. Nigdy nie wiadomo, co się znajdzie. Twój wybór, dopóki ja dostaję swoją działkę.~
+@81  = ~Tak, zróbmy to.~
+@82  = ~Jeśli jesteś pewny, to tam się spotkamy. Może będziesz chciał przedtem się doposażyć. Nigdy nie wiesz, jakie bestie możesz tam spotkać.~ ~Jeśli jesteś pewna, to tam się spotkamy. Może będziesz chciała przedtem się doposażyć. Nigdy nie wiesz, jakie bestie możesz tam spotkać.~
+@83  = ~Są jeszcze groby do obrobienia. Pospiesz się, kolo. Nie chcę tutaj przestać całej nocy.~ ~Są jeszcze groby do obrobienia. Pospiesz się, laska. Nie chcę tutaj przestać całej nocy.~
+@84  = ~To niezłe łupy, kolo. Teraz się rozdzielamy. Będę w Slumsach.~ ~To niezłe łupy, laska. Teraz się rozdzielamy. Będę w Slumsach.~
+@85  = ~Racja, kolo. To pewne jak Selune, że ten szlachciur ma wiele cennych śmieci walających się po chałupie. Możemy się włamać, złapać fanty i wydostać wraz z łupem.~ ~Racja, laska. To pewne jak Selune, że ten szlachciur ma wiele cennych śmieci walających się po chałupie. Możemy się włamać, złapać fanty i wydostać wraz z łupem.~
+@86  = ~Jesteś pewny, że chcesz go okraść?~ ~Jesteś pewna, że chcesz go okraść?~
+@87  = ~Ta, walimy na szlachciura.~
+@88  = ~Jasna sprawa, kolo. Tam się spotkamy. Przyjdź, jak się przygotujesz.~ ~Jasna sprawa, laska. Tam się spotkamy. Przyjdź, jak się przygotujesz.~
+@89  = ~Pospiesz się, o Jysstev i jego żona nie będą spać wiecznie. Przynajmniej dopóki nie poderżniesz im gardeł.~ ~Pospiesz się, laska. Jysstev i jego żona nie będą spać wiecznie. Przynajmniej dopóki nie poderżniesz im gardeł.~
+@90  = ~No dobra. Wygląda na to, że Jysstev i jego żona nie doszukają się jutro z rana paru monet. No dalej, kolo, wynosimy się stąd. Spotykamy się w Slumsach.~ ~No dobra. Wygląda na to, że Jysstev i jego żona nie doszukają się jutro z rana paru monet. No dalej, laska, wynosimy się stąd. Spotykamy się w Slumsach.~
+@91  = ~Nieźle, jak na jedną nockę, co kolo? Możesz zatrzymać fanty, ale ja biorę swój udział - czterdzieści procent zysków.~ ~Nieźle, jak na jedną nockę, co laska? Możesz zatrzymać fanty, ale ja biorę swój udział - czterdzieści procent zysków.~
+@92  = ~To przekupi paru strażników, albo wystarczy mi na kufelek czy dwa, co nie, kolo? W każdym razie, chcesz żebym tu została, czy wróciła do Brynnlaw, zanim coś jeszcze obrobimy?~ ~To przekupi paru strażników, albo wystarczy mi na kufelek czy dwa, co nie, laska? W każdym razie, chcesz żebym tu została, czy wróciła do Brynnlaw, zanim coś jeszcze obrobimy?~
+@93  = ~Poczekaj lepiej tutaj.~
+@94  = ~Jeśli chcesz, to możemy uderzyć na kogoś innego już teraz.~
+@95  = ~Wracaj lepiej do Brynnlaw. Nie chcesz chyba, żeby ktoś cię tu znalazł.~
+@96  = ~Racja. Nieźle pomyślane, kolo. Będę na ciebie czekać tutaj.~ ~Racja. Nieźle pomyślane, laska. Będę na ciebie czekać tutaj.~
+@97  = ~Gotów na kolejną robótkę, kolo?~ ~Gotowa na kolejną robótkę, laska?~
+@98  = ~Skoro tego właśnie chcesz, kolo.~ ~Skoro tego właśnie chcesz, laska.~
+@99  = ~Jest więcej niż wystarczająco celów do obrobienia, jeśli jesteś gotów, kolo.~ ~Jest więcej niż wystarczająco celów do obrobienia, jeśli jesteś gotowa, laska.~
+@100 = ~Walimy na zakon paladynów.~
+@101 = ~Racja. Nieźle pomyślane, kolo. Będę na ciebie czekała w Brynnlaw, jeśli zechcesz kogoś obrobić.~ ~Racja. Nieźle pomyślane, laska. Będę na ciebie czekała w Brynnlaw, jeśli zechcesz kogoś obrobić.~
+@102 = ~Ech, wybacz kolo, ale cele mi się właśnie skończyły. Obrobiliśmy już miejsca, które znałam. Myślę też, że nie powinniśmy teraz niczego innego próbować. Chodzą słuchy, że straże wzmocniły patrole, a ja na pewno nie chcę trafić do paki.~ ~Ech, wybacz laska, ale cele mi się właśnie skończyły. Obrobiłyśmy już miejsca, które znałam. Myślę też, że nie powinnyśmy teraz niczego innego próbować. Chodzą słuchy, że straże wzmocniły patrole, a ja na pewno nie chcę trafić do paki.~
+@103 = ~Jestem pewna, że możesz coś zrobić z tym trefnym towarem. Jeśli o mnie chodzi, to zmykam z Amn. Narka, kolo.~ ~Jestem pewna, że możesz coś zrobić z tym trefnym towarem. Jeśli o mnie chodzi, to zmykam z Amn. Narka, laska.~
+@104 = ~Jasne, kolo. Poczekam tu, dopóki nie będziesz gotowy na następny skok.~ ~Jasne, laska. Poczekam tu, dopóki nie będziesz gotowa na następny skok.~
+@105 = ~Wygląda na to, że nie masz wystarczająco dużo złota, by dać mi mój udział. Nie martw się, możesz mi zabulić, kiedy będziesz mieć. W każdym razie, chcesz żebym tu została, czy wróciła do Brynnlaw, zanim coś jeszcze obrobimy?~
+@106 = ~Co jest? Dostałeś czymś w łeb? Głupszyś niż stos łajna. Mówiłam, że wyglądasz nieźle, ale czy tak samo kminisz?~ ~Co jest? Dostałaś czymś w łeb? Głupszaś niż stos łajna. Mówiłam, że wyglądasz nieźle, ale czy tak samo kminisz?~
+@107 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy świątynię Lathandera, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała mi też, że powinny się tam znajdować przynajmniej trzy wartościowe przedmioty. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy świątynię Lathandera, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała mi też, że powinny się tam znajdować przynajmniej trzy wartościowe przedmioty. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~
+@108 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę handlarzy niewolników, planujemy włamać się do niej. Wyrbrin spodziewa się, że dzisiejszej nocy będzie pusta, powiedziała też, że powinno się tam znajdować pięć cennych łupów. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę handlarzy niewolników, planujemy włamać się do niej. Wyrbrin spodziewa się, że dzisiejszej nocy będzie pusta, powiedziała też, że powinno się tam znajdować pięć cennych łupów. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~
+@109 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy budynek rządowy. Wyrbrin uważa, że dzisiejszej nocy nikogo tam nie będzie, ale musimy uważać, by nikt nie zadzwonił na alarm. Oczekuje, że znajdziemy tam dwa rzadkie dzieła sztuki.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy budynek rządowy. Wyrbrin uważa, że dzisiejszej nocy nikogo tam nie będzie, ale musimy uważać, by nikt nie zadzwonił na alarm. Oczekuje, że znajdziemy tam dwa rzadkie dzieła sztuki.~
+@110 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Harfiarzy, na dole, nieopodal Doków Athkatli. Horton chce się tam ze mną spotkać, spodziewa się znaleźć cztery przedmioty, które mogą zainteresować pasera. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je paserowi.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Harfiarzy, na dole, nieopodal Doków Athkatli. Horton chce się tam ze mną spotkać, spodziewa się znaleźć cztery przedmioty, które mogą zainteresować pasera. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je paserowi.~
+@111 = ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważony włamałem się do Świątyni Lathandera. Udało mi się zwędzić błogosławiony symbol Lathandera, statuę Lathandera i błogosławione bransolety. Wyrbrin zabrała swoją część łupu, 10000 złota, a ja zatrzymałem przedmioty. Może moglibyśmy obrobić kolejny z jej celów, kiedy znów się spotkamy. Powiedziała, że możemy się spotkać w Slumsach Athkatli.~ ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważona włamałam się do Świątyni Lathandera. Udało mi się zwędzić błogosławiony symbol Lathandera, statuę Lathandera i błogosławione bransolety. Wyrbrin zabrała swoją część łupu, 10000 złota, a ja zatrzymałam przedmioty. Może moglibyśmy obrobić kolejny z jej celów, kiedy nasze drogi ponownie się skrzyżują. Powiedziała, że możemy się spotkać w Slumsach Athkatli.~
+@112 = ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważony włamałem się do siedziby handlarzy niewolników. Udało mi się ukraść pięć przedmiotów, co jest niezłym znaleziskiem, w tym srebrny sztylet, hełm kradzieży i dużo złota. Oczywiście Wyrbrin otrzymała swoją część, 21600 sztuk złota, a ja zatrzymałem dla siebie łupy.~ ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważona włamałam się do siedziby handlarzy niewolników. Udało mi się ukraść pięć przedmiotów, co jest niezłym znaleziskiem, w tym srebrny sztylet, hełm kradzieży i dużo złota. Oczywiście Wyrbrin otrzymała swoją część, 21600 sztuk złota, a ja zatrzymałam dla siebie łupy.~
+@113 = ~Obrabianie celów
+
+Obrabowałem budynek rządu Athkatli, z pomocą niziołki-złodziejki, zwącej się Horton, wykradłem posąg Mystry i posąg smoka. Dzieła są bardzo wartościowe, Wyrbrin wzięła swoją część, czyli 320000 sztuk złota.~ ~Obrabianie celów
+
+Obrabowałam budynek rządu Athkatli, z pomocą niziołki-złodziejki, zwącej się Horton, wykradłam posąg Mystry i posąg smoka. Dzieła są bardzo wartościowe, Wyrbrin wzięła swoją część, czyli 320000 sztuk złota.~
+@114 = ~Obrabianie celów
+
+Włamałem się do siedziby Harfiarzy i wyszedłem z czterema skradzionymi przedmiotami: harfą, klepsydrą, księżycowym ostrzem i morgenszternem. Horton dostała swoją część, 136000 sztuk złota, a ja jeszcze nie zdecydowałem, co zrobię z przedmiotami.~ ~Obrabianie celów
+
+Włamałam się do siedziby Harfiarzy i wyszłam z czterema skradzionymi przedmiotami: harfą, klepsydrą, księżycowym ostrzem i morgenszternem. Horton dostała swoją część, 136000 sztuk złota, a ja jeszcze nie zdecydowałam, co zrobię z przedmiotami.~
+@115 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Zakonu Promiennego Serca. Wyrbrin uważa, że nikogo tam nie będzie i mógłbym się wymknąć z czymś wartościowym. Nie ma pojęcia co mogę tam znaleźć, ale myśli, że będzie to można sprzedać.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Zakonu Promiennego Serca. Wyrbrin uważa, że nikogo tam nie będzie i mogłabym się wymknąć z czymś wartościowym. Nie ma pojęcia co mogę tam znaleźć, ale myśli, że będzie to można sprzedać.~
+@116 = ~Obrabianie celów
+
+Włamałem się do siedziby Zakonu Promiennego Serca, ale udało mi się ukraść tylko kielich. Podzieliłem się łupem z Wyrbrin oddając jej 4800 sztuk złota.~ ~Obrabianie celów
+
+Włamałam się do siedziby Zakonu Promiennego Serca, ale udało mi się ukraść tylko kielich. Podzieliłam się łupem z Wyrbrin oddając jej 4800 sztuk złota.~
+@117 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy jakieś krypty na cmentarzu. Nie wie, co możemy tam znaleźć i spodziewa się kłopotów w przynajmniej kilku z nich, więc poleciła mi dobrze się uzbroić.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy jakieś krypty na cmentarzu. Nie wie, co możemy tam znaleźć i spodziewa się kłopotów w przynajmniej kilku z nich, więc poleciła mi dobrze się uzbroić.~
+@118 = ~Obrabianie celów
+
+Podczas rabowania grobów przeszukałem wiele krypt, ale udało mi się ukraść zaledwie kilka broni i zbroję. Miałem nadzieję, że będzie to bardziej zyskowne, ale dałem Wyrbrin 3200 sztuk złota, jako jej część.~ ~Obrabianie celów
+
+Podczas rabowania grobów przeszukałam wiele krypt, ale udało mi się ukraść zaledwie kilka broni i zbroję. Miałam nadzieję, że będzie to bardziej zyskowne, ale dałam Wyrbrin 3200 sztuk złota, jako jej część.~
+@119 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy posiadłość szlachecką w Athkatli, z powołania członka władz, z imienia Jyssteva. Wyrbrin powiedziała, że szlachcic i jego żona będą spać, mam więc uważać, żeby ich nie obudzić. Myśli, że znajduje się tam kilka przedmiotów, które moglibyśmy sprzedać.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy posiadłość szlachecką w Athkatli, z powołania członka władz, z imienia Jyssteva. Wyrbrin powiedziała, że szlachcic i jego żona będą spać, mam więc uważać, żeby ich nie obudzić. Myśli, że znajduje się tam kilka przedmiotów, które moglibyśmy sprzedać.~
+@120 = ~Obrabianie celów
+
+Jysstevowi i jego żonie, dwojgu możnym z Amn, będzie brakowało kilku rzeczy, kiedy się obudzą. Z Wyrbrin Horton na straży, ukradłem z ich willi szatę Zakapturzonego Czarodzieja i posążek. Wyrbrin odebrała swoją część, 30000 sztuk złota.~ ~Obrabianie celów
+
+Jysstevowi i jego żonie, dwojgu możnym z Amn, będzie brakowało kilku rzeczy, kiedy się obudzą. Z Wyrbrin Horton na straży, ukradłam z ich willi szatę Zakapturzonego Czarodzieja i posążek. Wyrbrin odebrała swoją część, 30000 sztuk złota.~
+@121 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy świątynię Lathandera, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała mi też, że powinny się tam znajdować przynajmniej trzy wartościowe przedmioty. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy świątynię Lathandera, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała mi też, że powinny się tam znajdować przynajmniej trzy wartościowe przedmioty. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~
+@122 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę handlarzy niewolników, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała też, że powinno się tam znajdować pięć cennych łupów. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę handlarzy niewolników, planujemy włamać się do niej. Wyrbrin spodziewa się, że będzie dzisiaj pusta, powiedziała też, że powinno się tam znajdować pięć cennych łupów. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~
+@123 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy budynek rządowy. Wyrbrin uważa, że dzisiejszej nocy będzie pusty, jednak musimy uważać, by nikt nie zadzwonił na alarm. Oczekuje, że znajdziemy tam dwa rzadkie dzieła sztuki.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy budynek rządowy. Wyrbrin uważa, że dzisiejszej nocy będzie pusty, jednak musimy uważać, by nikt nie zadzwonił na alarm. Oczekuje, że znajdziemy tam dwa rzadkie dzieła sztuki.~
+@124 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Harfiarzy, na dole, nieopodal Doków Athkatli. Horton chce się tam ze mną spotkać spodziewa się znaleźć cztery przedmioty, które mogą zainteresować pasera. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Harfiarzy, na dole, nieopodal Doków Athkatli. Horton chce się tam ze mną spotkać spodziewa się znaleźć cztery przedmioty, które mogą zainteresować pasera. Nie wie, czym dokładnie one są, ale oczekuje, że zarobimy niezłą sumkę sprzedając je.~
+@125 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Zakonu Promiennego Serca. Wyrbrin uważa, że nikogo tam nie będzie i mógłbym się wymknąć z czymś wartościowym. Nie ma pojęcia co mogę tam znaleźć, ale myśli, że będzie to można sprzedać.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy siedzibę Zakonu Promiennego Serca. Wyrbrin uważa, że nikogo tam nie będzie i mogłabym się wymknąć z czymś wartościowym. Nie ma pojęcia co mogę tam znaleźć, ale myśli, że będzie to można sprzedać.~
+@127 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy jakieś krypty na cmentarzu. Nie wie, co możemy tam znaleźć i spodziewa się kłopotów w przynajmniej kilku z nich, więc poleciła mi dobrze się uzbroić.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy jakieś krypty na cmentarzu. Nie wie, co możemy tam znaleźć i spodziewa się kłopotów w przynajmniej kilku z nich, więc poleciła mi dobrze się uzbroić.~
+@128 = ~Obrabianie celów
+
+Poznałem i przyłączyłem do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałem jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy posiadłość szlachecką w Athkatli, z powołania członka władz, z imienia Jyssteva. Wyrbrin powiedziała, że szlachcic i jego żona będą spać, mam więc uważać, żeby ich nie obudzić. Myśli, że znajduje się tam kilka przedmiotów, które moglibyśmy sprzedać.~ ~Obrabianie celów
+
+Poznałam i przyłączyłam do drużyny niziołkę, która jest wyśmienitą włamywaczką - bo i który niziołek nie jest złodziejem? - znaną jako Wyrbrin. Zaufałam jej instynktom, kiedy tylko się poznaliśmy. Właściwie to uważam, że jej zdolności jako włamywacza są przyzwoite, ponadto powiedziała mi, że namierzała "cele", to znaczy lukratywne interesy lub bogate domy w Athkatli. Z miejsc, które miała na oku, wybraliśmy posiadłość szlachecką w Athkatli, z powołania członka władz, z imienia Jyssteva. Wyrbrin powiedziała, że szlachcic i jego żona będą spać, mam więc uważać, żeby ich nie obudzić. Myśli, że znajduje się tam kilka przedmiotów, które moglibyśmy sprzedać.~
+@129 = ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważony włamałem się do świątyni Lathandera. Udało mi się zwędzić błogosławiony symbol Lathandera, statuę Lathandera i błogosławione bransolety. Wyrbrin dostanie część monet, 10000 złota, kiedy tylko będę je miał, a ja zatrzymałem przedmioty. Może moglibyśmy obrobić kolejny z jej celów, kiedy nasze drogi ponownie się skrzyżują.~ ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważona włamałam się do świątyni Lathandera. Udało mi się zwędzić błogosławiony symbol Lathandera, statuę Lathandera i błogosławione bransolety. Wyrbrin dostanie część monet, 10000 złota, kiedy tylko będę je miała, a ja zatrzymałam przedmioty. Może moglibyśmy obrobić kolejny z jej celów, kiedy nasze drogi ponownie się skrzyżują.~
+@130 = ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważony włamałem się do siedziby handlarzy niewolników. Udało mi się ukraść pięć przedmiotów, co jest niezłym znaleziskiem, w tym srebrny sztylet, hełm kradzieży i dużo złota. Oczywiście, kiedy tylko będę miał wystarczającą ilość monet, oddam Wyrbrin jej część, 21600 sztuk złota, łup zatrzymałem dla siebie.~ ~Obrabianie celów
+
+Z niziołką-złodziejką stojącą na straży, niezauważona włamałam się do siedziby handlarzy niewolników. Udało mi się ukraść pięć przedmiotów, co jest niezłym znaleziskiem, w tym srebrny sztylet, hełm kradzieży i dużo złota. Oczywiście, kiedy tylko będę miała wystarczającą ilość monet, oddam Wyrbrin jej część, 21600 sztuk złota, łup zatrzymałam dla siebie.~
+@131 = ~Obrabianie celów
+
+Obrabowałem budynek rządu Athkatli, z pomocą niziołki-złodziejki, zwącej się Horton, wykradłem posąg Mystry i posąg smoka. Dzieła są bardzo wartościowe, Wyrbrin wkrótce dostanie swoją część, czyli 320000 sztuk złota.~ ~Obrabianie celów
+
+Obrabowałam budynek rządu Athkatli, z pomocą niziołki-złodziejki, zwącej się Horton, wykradłam posąg Mystry i posąg smoka. Dzieła są bardzo wartościowe, Wyrbrin wkrótce dostanie swoją część, czyli 320000 sztuk złota.~
+@132 = ~Obrabianie celów
+
+Włamałem się do siedziby Zakonu Promiennego Serca, ale udało mi się ukraść tylko kielich. Będę musiał oddać Wyrbrin 4800 sztuk złota, kiedy tylko sprzedam łup.~ ~Obrabianie celów
+
+Włamałam się do siedziby Zakonu Promiennego Serca, ale udało mi się ukraść tylko kielich. Będę musiała oddać Wyrbrin 4800 sztuk złota, kiedy tylko sprzedam łup.~
+@133 = ~Obrabianie celów
+
+Włamałem się do siedziby Harfiarzy i wyszedłem z czterema skradzionymi przedmiotami: harfą, klepsydrą, księżycowym ostrzem i morgenszternem. Horton dostanie swoją część, 136000 sztuk złota, kiedy tylko sprzedam przedmioty na czarnym rynku.~ ~Obrabianie celów
+
+Włamałam się do siedziby Harfiarzy i wyszłam z czterema skradzionymi przedmiotami: harfą, klepsydrą, księżycowym ostrzem i morgenszternem. Horton dostanie swoją część, 136000 sztuk złota, kiedy tylko sprzedam przedmioty na czarnym rynku.~
+@134 = ~Obrabianie celów
+
+Podczas rabowania grobów przeszukałem wiele krypt, ale udało mi się ukraść zaledwie kilka broni i zbroję. Miałem nadzieję, że będzie to bardziej zyskowne, ale będę musiał oddać Wyrbrin 3200 sztuk złota, jako jej część.~ ~Obrabianie celów
+
+Podczas rabowania grobów przeszukałam wiele krypt, ale udało mi się ukraść zaledwie kilka broni i zbroję. Miałam nadzieję, że będzie to bardziej zyskowne, ale będę musiała oddać Wyrbrin 3200 sztuk złota, jako jej część.~
+@135 = ~Obrabianie celów
+
+Jysstevowi i jego żonie, dwojgu możnym z Amn, będzie brakowało kilku rzeczy, kiedy się obudzą. Z Wyrbrin Horton na straży, ukradłem z ich willi szatę Zakapturzonego Czarodzieja i posążek. Wyrbrin dostanie swoją część - 30000 sztuk złota - później.~ ~Obrabianie celów
+
+Jysstevowi i jego żonie, dwojgu możnym z Amn, będzie brakowało kilku rzeczy, kiedy się obudzą. Z Wyrbrin Horton na straży, ukradłam z ich willi szatę Zakapturzonego Czarodzieja i posążek. Wyrbrin dostanie swoją część - 30000 sztuk złota - później.~
+@136 = ~Obrabianie celów
+
+Uderzyłem w jedno z obserwowanych przez Wyrbrin miejsc i zebraliśmy łup. Wyrbrin odeszła zaraz po akcji. Będzie na mnie czekała w Slumsach, powinienem unikać strażników i spotkać się z nią.~ ~Obrabianie celów
+
+Uderzyłam w jedno z obserwowanych przez Wyrbrin miejsc i zebraliśmy łup. Wyrbrin odeszła zaraz po akcji. Będzie na mnie czekała w Slumsach, powinnam unikać strażników i spotkać się z nią.~

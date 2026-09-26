@@ -1,0 +1,1870 @@
+@650006 = ~Ta potÄ™ĹĽna broĹ„ skĹ‚ada siÄ™ z trzonka o dĹ‚ugoĹ›ci od 120 do 150 cm i bardzo ciÄ™ĹĽkiego ostrza, ktĂłre moĹĽe znajdowaÄ‡ siÄ™ z jednej strony trzonka, lub dwĂłch takich ostrzy, po obu stronach. Jest to nieporÄ™czna broĹ„, ale doĹ›wiadczony wojownik moĹĽe nim zadawaÄ‡ straszliwe ciosy. Na olbrzymim ostrzu wyryto krasnoludzkie runy, dziÄ™ki czemu broĹ„ zostaĹ‚a silnie umagiczniona.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +10% odpornoĹ›ci na magiÄ™
+ +10% odpornoĹ›ci na ataki sieczne
+ +10% odpornoĹ›ci na ataki kĹ‚ute
+ +10% odpornoĹ›ci na ataki obuchowe
+ +10% odpornoĹ›ci na broĹ„ strzeleckÄ…
+ +2 do wszystkich rzutĂłw obronnych
+Waga: 10
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 2-rÄ™czna
+~
+@650008 = ~Ten miecz oburÄ™czny jest caĹ‚kiem cenny. Jest to magicznie wzmocniona broĹ„, dodajÄ…ca +3 do trafienia i obraĹĽeĹ„. OprĂłcz ostroĹ›ci i zbalansowania obdarza ona teĹĽ uĹĽywajÄ…cego magicznymi premiami. KaĹĽdy, kto dzierĹĽy Furcolo w rÄ™ku otrzymuje doĹ›Ä‡ znacznÄ… odpornoĹ›Ä‡ na magiÄ™, jest takĹĽe chroniony przed nieumarĹ‚ymi. BroĹ„ ta jest istotÄ… rozumnÄ… i raz na dzieĹ„ potrafi rzuciÄ‡ na swojego posiadacza CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡
+ +35% do odpornoĹ›ci na magiÄ™
+ Ochrona przed nieumarĹ‚ymi
+Waga: 15
+OpĂłĹşnienie: 10
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 14
+~ 
+@650014 = ~OgĂłrecznik wzmacnia dziaĹ‚anie adrenaliny. Podczas ĹĽucia jego korzeni, moc roĹ›liny zapewnia osobie premiÄ™ +2 do trafienia i obraĹĽeĹ„ oraz -2 do KP. W czasie przypĹ‚ywu adrenaliny, trwajÄ…cego zazwyczaj przez 60 sekund, osobnik ĹĽujÄ…cy ziele jest odporny na zauroczenia, zatrzymanie, strach, labirynt, uwiÄ™zienie, oszoĹ‚omienie oraz uĹ›pienie. Zyskuje rĂłwnieĹĽ tymczasowo 15 PĹ», co moĹĽe go potencjalnie zabiÄ‡, z chwilÄ… gdy przypĹ‚yw ustÄ…pi. JuĹĽ po wszystkim, przez pewien czas odczuwa lekkie zmÄ™czenie, otrzymujÄ…c karÄ™ -2 do trafieĹ„, obraĹĽeĹ„ oraz KP. 
+
+PARAMETRY: 
+
+Waga: 1
+~ 
+@650016 = ~JeĹĽĂłwka to silnie dziaĹ‚ajÄ…ce ziele. Jako napar, usuwa wszelkie toksyny z organizmu, zarĂłwno te naturalne jak i magiczne w swej naturze. Po zjedzeniu ziela przez osobÄ™ zatrutÄ…, natychmiast neutralizuje wszelkie trucizny i przywraca 10 PĹ». 
+
+PARAMETRY: 
+
+Waga: 1
+~
+@650018 = ~Chaparral Ĺ‚agodzi bĂłle reumatyczne. Po spoĹĽyciu ziela, dziaĹ‚a ono jak zaklÄ™cie Swoboda ruchĂłw. Sprawia, ĹĽe istota staje siÄ™ caĹ‚kowicie odporna na wszelkie efekty, zarĂłwno te magiczne, jak i zwykĹ‚e, ograniczajÄ…ce ruch czy teĹĽ dziaĹ‚anie. Czas trwania zaklÄ™cia wynosi 10 tur.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650020 = ~Krwawnik pomaga zatamowaÄ‡ krwawienie. PrzykĹ‚adajÄ…c na ranÄ™ okĹ‚ad z roĹ›liny zerwanej w stanie kwitnienia, sprawiamy, iĹĽ krew krzepnie, a wszelkie otarcia, skaleczenia, czy przebicia skĂłry zasklepiajÄ… siÄ™ szybciej. Nie pozwala on jednak na szybszÄ… regeneracjÄ™ ani uzdrowienie, nie chroni teĹĽ przed podobnymi obraĹĽeniami w przyszĹ‚oĹ›ci.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650022 = ~Nagietek Ĺ‚agodzi skutki oparzeĹ„. NakĹ‚adajÄ…c na skĂłrÄ™ grubÄ… papkÄ™ ze Ĺ›wieĹĽo zgniecionych owocĂłw nagietka, zmieszanych z niewielkÄ… iloĹ›ciÄ… wody, chronimy siÄ™ od ognia. Jagody te zapewniajÄ… tymczasowÄ…, godzinnÄ…, premiÄ™ 25% do odpornoĹ›ci na ogieĹ„.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650024 = ~Ziele krĂłlewskie pomaga przy zapaleniu krtani. Samo zioĹ‚o, rosnÄ…ce tylko jesieniÄ… w pĂłĹ‚nocnej Sembii, jest bardzo rzadkie, lecz mimo to moĹĽe zapewniÄ‡ czarujÄ…cemu niezwykle przydatnÄ… zdolnoĹ›Ä‡ w postaci ugĹ‚osowienia, dziaĹ‚ajÄ…cego podobnie jak zaklÄ™cie o takiej nazwie, na okres jednego dnia.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650026 = ~Lucerna jest doskonaĹ‚ym ĹşrĂłdĹ‚em wielu witamin. Regularne spoĹĽywanie ziela dostarcza organizmowi substancje odĹĽywcze, niezbÄ™dne do prawidĹ‚owego funkcjonowania. Po spoĹĽyciu, lucerna zwiÄ™ksza siĹ‚Ä™, kondycjÄ™ i zrÄ™cznoĹ›Ä‡ o jeden punkt na okres jednego dnia.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650028 = ~NawĹ‚oÄ‡ jest wykorzystywana do oczyszczania i leczenia ran. W poĹ‚Ä…czeniu z grzybem i innymi zioĹ‚ami, uzyskujemy papkÄ™ o kremowej konsystencji, przy czym liĹ›cie i kwiaty ziela powodujÄ… zwiÄ™kszenie liczy punktĂłw ĹĽycia o 12, lecz nie zapobiegajÄ… dalszym obraĹĽeniom.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650030 = ~Pokrzywa pozytywnie wpĹ‚ywa na zmysĹ‚ wzroku. Poprzez ĹĽucie roĹ›liny, zdolnoĹ›Ä‡ patrzenia oĹ›lepionej ofiary - znajdujÄ…cej siÄ™ pod wpĹ‚ywem OciemniaĹ‚oĹ›ci bÄ…dĹş BĹ‚yszczÄ…cego PyĹ‚u - moĹĽe byÄ‡ przywrĂłcona do normalnego stanu.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650032 = ~Malina wzmacnia serce i pobudza organizm. Zapewnia tymczasowÄ… zdolnoĹ›Ä‡ do wykrzesania z siebie ukrytych pokĹ‚adĂłw energii. ZjadajÄ…c jej owoce, moĹĽna nieznacznie zwiÄ™kszyÄ‡ szybkoĹ›Ä‡ poruszania siÄ™, a takĹĽe podwoiÄ‡ liczbÄ™ atakĂłw.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650034 = ~Alkohol otrzymywany z ekstraktu dÄ…brĂłwki ma jednÄ… zasadniczÄ… wĹ‚aĹ›ciwoĹ›Ä‡: powaĹĽnie odurza osobÄ™ na 8 godzin.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650036 = ~ZarĂłwno owoce jaĹ‚owca, jak i ekstrakty z jego liĹ›ci, powodujÄ… halucynacje u spoĹĽywajÄ…cej je osoby, ktĂłra odczuwa silne lÄ™ki i widzi zagroĹĽenia, ktĂłre w rzeczywistoĹ›ci mogÄ… nie istnieÄ‡.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650040 = ~Czerwony korzeĹ„ brodaczki jest pomocny w problemach ukĹ‚adu oddechowego. StosujÄ…c to zioĹ‚o, uĹ‚atwiamy oczyszczenie zatok z wszelkich szkodliwych toksyn, gazĂłw i drobin pyĹ‚u.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650042 = ~Ekstrakt chmielu jest skuteczny w leczeniu nerwowoĹ›ci. Premia energetyczna, jakÄ… ziele zapewnia, zmniejsza potrzebÄ™ snu u istoty. Jednak jest to tylko tymczasowa zdolnoĹ›Ä‡, a jej stosowanie naleĹĽy konsultowaÄ‡ z medykiem bÄ…dĹş zielarzem.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650044 = ~Gotu kola wzmacnia czujnoĹ›Ä‡ fizycznÄ… i umysĹ‚owÄ…. KorzyĹ›ci dla uĹĽytkownika, pĹ‚ynÄ…ce z tego purpurowo kwitnÄ…cego zioĹ‚a, warte sÄ… ceny, ktĂłrÄ… naleĹĽy zapĹ‚aciÄ‡ za tak rzadki okaz. WĹ‚aĹ›ciwe spoĹĽycie zioĹ‚a obniĹĽa KP uĹĽytkownika o 6 pkt i dodaje 3 pkt do wszystkich rzutĂłw obronnych. Ponadto, Gotu Kola umoĹĽliwia ulepszone poruszanie siÄ™ i unikanie obraĹĽeĹ„ od zwykĹ‚ych pociskĂłw.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650046 = ~PodbiaĹ‚ to doĹ›Ä‡ pospolite zioĹ‚o, spotykane w wiÄ™kszoĹ›ci obszarĂłw zielonych Faerunu. Wytwarza on rĂłwnieĹĽ bardzo trujÄ…ce nasiona, poszukiwane przez wielu zĹ‚odziei i zabĂłjcĂłw. Nasiona podbiaĹ‚u mogÄ… powodowaÄ‡ utratÄ™ 2 PĹ» wskutek obraĹĽeĹ„ od trucizny u kaĹĽdego, kto je spoĹĽyje. Nie majÄ… ĹĽadnego smaku, co sprawia, ĹĽe sÄ… czÄ™sto wykorzystywane do zatruwania poĹĽywienia.
+
+PARAMETRY:
+
+Waga: 1
+~
+@650108 = ~Te strzaĹ‚y zostaĹ‚y obdarzone magiÄ… podczas tworzenia. WyglÄ…dajÄ… na troszkÄ™ prostsze od zwykĹ‚ych i wydajÄ… siÄ™ niemal ĹĽyÄ‡ wĹ‚asnym ĹĽyciem, kiedy zostajÄ… wystrzelone i zbliĹĽajÄ… siÄ™ do celu z zabĂłjczÄ… celnoĹ›ciÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +3
+TraK0: +3
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Waga: 0
+Wyrzutnia: Ĺ‚uk
+~
+@650109 = ~StrzaĹ‚a +4~
+@650110 = ~Te strzaĹ‚y zostaĹ‚y obdarzone magiÄ… podczas tworzenia. WyglÄ…dajÄ… na troszkÄ™ prostsze od zwykĹ‚ych i wydajÄ… siÄ™ niemal ĹĽyÄ‡ wĹ‚asnym ĹĽyciem, kiedy zostajÄ… wystrzelone i zbliĹĽajÄ… siÄ™ do celu z zabĂłjczÄ… celnoĹ›ciÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +4
+TraK0: +4
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Waga: 0
+Wyrzutnia: Ĺ‚uk
+~
+@650112 = ~Lekkie, a mimo to wytrzymaĹ‚e Ĺ‚uski Niebieskiego Smoka zapewniajÄ… doskonaĹ‚Ä… ochronÄ™ przed orÄ™ĹĽem wykorzystujÄ…cym elektrycznoĹ›Ä‡ i przed wszystkimi jej formami.
+
+PARAMETRY:
+
+Klasa Pancerza: -1
+Specjalne:
+ +90% do odpornoĹ›ci na wszystkie bĹ‚yskawice i ataki elektryczne
+Waga: 20
+Wymagana siĹ‚a: 15
+~
+@650113 = ~Lekkie, a mimo to wytrzymaĹ‚e Ĺ‚uski Darammarethy S'oolouny Crommadary Ammanthy Kuleery, znanej jako Aksamitnostopa, zapewniajÄ… doskonalszÄ… ochronÄ™ przed orÄ™ĹĽem wykorzystujÄ…cym elektrycznoĹ›Ä‡ i przed wszystkimi jej formami niĹĽ zwykĹ‚a Zbroja pĹ‚ytowa niebieskiego smoka.
+
+PARAMETRY:
+
+Klasa Pancerza: -2
+Specjalne:
+ 100% do odpornoĹ›ci na wszystkie bĹ‚yskawice i ataki elektryczne
+Waga: 17
+Wymagana siĹ‚a: 12
+~
+@650248 = ~RÄ™kawice te zostaĹ‚y prawdopodobnie stworzone w staroĹĽytnym Netherilu by wspieraÄ‡ mistrzĂłw sztuk magicznych. Podania o nich gĹ‚oszÄ…, ĹĽe byli zdolni rzucaÄ‡ kolejny czar natychmiast po zakoĹ„czeniu poprzedniego, jednak szczegĂłĹ‚y pozostajÄ… zbadane jedynie pobieĹĽnie.
+
+PARAMETRY:
+
+Specjalne:
+ PoprawiajÄ… prÄ™dkoĹ›Ä‡ rzucania czaru o 2
+Waga: 2
+~
+@650251 = ~Miecz obusieczny jest poĹ‚Ä…czeniem miecza dĹ‚ugiego z siĹ‚Ä… i efektywnoĹ›ciÄ… miecza oburÄ™cznego. PĹ‚atnerze zawsze prĂłbowali ulepszaÄ‡ istniejÄ…ce odmiany orÄ™ĹĽa, dlatego w czasie prĂłb nad udoskonaleniem miecza dĹ‚ugiego wydĹ‚uĹĽono jego ostrze. To samo zrobiono z rÄ™kojeĹ›ciÄ…, gdyĹĽ do wĹ‚aĹ›ciwego uĹĽycia tej broni byĹ‚y niezbÄ™dne obie rÄ™ce.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12
+Typ obraĹĽeĹ„: sieczne
+Waga: 12
+OpĂłĹşnienie: 8
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@650252 = ~Miecz obusieczny jest poĹ‚Ä…czeniem miecza dĹ‚ugiego z siĹ‚Ä… i efektywnoĹ›ciÄ… miecza oburÄ™cznego. PĹ‚atnerze zawsze prĂłbowali ulepszaÄ‡ istniejÄ…ce odmiany orÄ™ĹĽa, dlatego w czasie prĂłb nad udoskonaleniem miecza dĹ‚ugiego wydĹ‚uĹĽono jego ostrze. To samo zrobiono z rÄ™kojeĹ›ciÄ…, gdyĹĽ do wĹ‚aĹ›ciwego uĹĽycia tej broni byĹ‚y niezbÄ™dne obie rÄ™ce.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12 +2
+TraK0: +2
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ PodwĂłjne obraĹĽenia przeciwko smokom
+Waga: 12
+OpĂłĹşnienie: 8
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@650256 = ~Kolczuga jest wykonana z przeplatajÄ…cych siÄ™ metalowych kĂłĹ‚eczek. Zawsze nakĹ‚ada siÄ™ jÄ… na kubrak z pikowanego materiaĹ‚u; ma to zapobiec bolesnym otarciom i zĹ‚agodziÄ‡ siĹ‚Ä™ ciosĂłw. Magiczne wzmocnienie tej zbroi sprawia, ĹĽe zapewnia ona dodatkowÄ… ochronÄ™.
+
+PARAMETRY:
+
+Klasa Pancerza: 1
+Waga: 10
+Wymagana siĹ‚a: 8
+~
+@650260 = ~PĹ‚aszcz ochrony +3: 'Tarcza Ducha'
+PowiadajÄ…, iĹĽ w pĹ‚aszczu tym skupia siÄ™ duchowa energia chroniÄ…ca noszÄ…cÄ… go osobÄ™. Nieustannie powracajÄ… plotki gĹ‚oszÄ…ce, ĹĽe w szacie tej uwiÄ™ziony jest wampir, nie moĹĽna jednak tego udowodniÄ‡ nie niszczÄ…c przedmiotu.
+
+PARAMETRY:
+
+Specjalne:
+ +3 do Klasy Pancerza
+ +3 do rzutĂłw obronnych
+Waga: 3
+~
+@650262 = ~Ta makabryczna kolekcja ludzkich i pĂłĹ‚ludzkich skalpĂłw zszyta w ciÄ™ĹĽki materiaĹ‚ nadaje kaĹĽdemu wojownikowi, zĹ‚odziejowi czy przedstawicielowi innej klasy naprawdÄ™ wĹ‚adczy wyglÄ…d. ChociaĹĽ ubranie to nie zapewnia ĹĽadnych specjalnych premii, osoba noszÄ…ca ten pĹ‚aszcz bÄ™dzie wydawaÄ‡ siÄ™ mniej sympatyczna, a jej pojawienie siÄ™ bÄ™dzie wywieraÄ‡ niezapomniane wraĹĽenie.
+
+PARAMETRY:
+
+Specjalne:
+ KaĹĽde zaĹ‚oĹĽenie powoduje obniĹĽenie reputacji o 1
+ -1 do charyzmy
+Waga: 4
+Wymagana siĹ‚a: 3
+~
+@650264 = ~PierĹ›cieĹ„ jest potÄ™ĹĽnym i staroĹĽytnym artefaktem z bogatÄ… i szczegĂłĹ‚owÄ… historiÄ…. MÄ™drcy i studenci w caĹ‚ych Krainach spÄ™dzili setki godzin na zbieraniu i ukĹ‚adaniu dziejĂłw tego przedmiotu, a nawet dziĹ› jeszcze nie wiadomo o nim wszystkiego. JednakĹĽe jedna rzecz jest dobrze znana wielu: pierĹ›cieĹ„ ten pozwala kontrolowaÄ‡ smoki.
+AktywujÄ…c pierĹ›cieĹ„ noszÄ…cy moĹĽe przyzwaÄ‡ sobie do pomocy smoka, a konkretnie okreĹ›lonego przedstawiciela tego gatunku, najprawdopodobniej nie bÄ™dzie on rodzaju "metalicznego" (czytaj: "zĹ‚ego"). PierĹ›cienia moĹĽna uĹĽyÄ‡ tylko ograniczonÄ… iloĹ›Ä‡ razy, przy czym nie moĹĽna sprawdziÄ‡ ile Ĺ‚adunkĂłw pozostaĹ‚o.
+
+PARAMETRY:
+
+Specjalne:
+ Pozwala przyzwaÄ‡ smoka (czerwonego, czarnego, zielonego lub ĹĽĂłĹ‚tego), ktĂłry bÄ™dzie pomagaĹ‚ przyzywajÄ…cemu
+~
+@650272 = ~ChociaĹĽ ten egzemplarz wyglÄ…da jak caĹ‚kiem zwyczajny kij, ma w rzeczywistoĹ›ci parÄ™ magicznych wĹ‚aĹ›ciwoĹ›ci. Po pierwsze przy trafieniu zadaje celowi dodatkowe 1K4 punktĂłw obraĹĽeĹ„. Po drugie noszenie w rÄ™ku tego kostura powoduje automatyczne rozmycie konturĂłw postaci, co nieco utrudnia przeciwnikom, oraz sojusznikom, patrzenie na dzierĹĽÄ…cego. Po trzecie wreszcie przedmiot pozwala swojemu posiadaczowi kaĹĽdego dnia trzykrotnie staÄ‡ siÄ™ niewidzialnym. Kostur Ĺ‚aduje siÄ™ automatycznie po upĹ‚ywie okreĹ›lonego okresu czasu.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1K4 pkt. obraĹĽeĹ„ obuchowych
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ UĹĽywajÄ…cy znajduje siÄ™ pod wpĹ‚ywem Rozmycia
+ Trzy razy dziennie pozwala rzucaÄ‡ NiewidzialnoĹ›Ä‡
+Waga: 4
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650276 = ~Typowy sztylet do rzucania ma spiczaste, zwykle obusieczne ostrze, w przeciwieĹ„stwie do noĹĽa, ktĂłry jest jednosieczny i trochÄ™ krĂłtszy niĹĽ sztylet. W przeciwieĹ„stwie do typowego sztyletu, ten ma mniejszÄ… rÄ™kojeĹ›Ä‡ i jest doskonale wywaĹĽony. Na kaĹĽdy z tych sztyletĂłw naĹ‚oĹĽona zostaĹ‚a cienka warstwa potÄ™ĹĽnej magii, ktĂłra czyni zeĹ„ w rÄ™kach wyszkolonych zabĂłjcĂłw Ĺ›miercionoĹ›ne dla magĂłw narzÄ™dzie.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Specjalne:
+ Przy kaĹĽdym trafieniu rozprasza magiczne osĹ‚ony celu
+Waga: 1
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@650277 = ~Sztylet ten jest caĹ‚kiem cenny. Jest to magicznie wzmocniona broĹ„, dodajÄ…ca +3 do trafienia i obraĹĽeĹ„. OprĂłcz ostroĹ›ci i zbalansowania obdarza ona teĹĽ uĹĽywajÄ…cego magicznymi premiami. KaĹĽdy, kto dzierĹĽy Furcolo w rÄ™ku otrzymuje doĹ›Ä‡ znacznÄ… odpornoĹ›Ä‡ na magiÄ™, jest takĹĽe chroniony przed nieumarĹ‚ymi. Sztylet ten jest istotÄ… rozumnÄ… i raz na dzieĹ„ potrafi rzuciÄ‡ na swojego posiadacza CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +3
+TraK0: +3
+Typ obraĹĽeĹ„: kĹ‚ute
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡
+ +35% do odpornoĹ›ci na magiÄ™
+ Ochrona przed nieumarĹ‚ymi
+Waga: 1
+OpĂłĹşnienie: 0
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@650279 = ~DzierĹĽÄ…cy ten sztylet staje siÄ™ odporny na zwykĹ‚Ä…, nieumagicznionÄ… broĹ„ dystansowÄ…. OprĂłcz tego dodaje maĹ‚Ä… premiÄ™ do trafienia i obraĹĽeĹ„, nie posiada teĹĽ zwiÄ™kszonych obostrzeĹ„ dla uĹĽywajÄ…cych.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +1
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Specjalne:
+ Ochrona przed pociskami
+Waga: 1
+OpĂłĹşnienie: 1
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@650285 = ~WiÄ™kszoĹ›Ä‡ druidĂłw jest niezdolna do uĹĽywania ostrej broni, a ten miecz stanowi od tej reguĹ‚y wyjÄ…tek. Ten magiczny miecz nie tylko daje premie do trafienia i obraĹĽeĹ„, lecz takĹĽe pozwala rzucaÄ‡ zaklÄ™cia ze zwoju kapĹ‚ana: Szukanie puĹ‚apek, Rozproszenie magii i Uzdrowienie, jak gdyby uĹĽywajÄ…cy byĹ‚ 3-poziomowym druidem.
+Ten rozumny miecz jest takĹĽe obdarzony inteligencjÄ… rĂłwnÄ… 15, jest neutralny dobry, a jego ego wynosi 8. Ponadto potrafi siÄ™ komunikowaÄ‡ zarĂłwno we wspĂłlnym, jak i charakterologicznym.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ Szukanie puĹ‚apek, Rozproszenie magii, Uzdrowienie
+ TaĹ„czÄ…ca klinga moĹĽe atakowaÄ‡ samodzielnie przez 3 tury, posiadacz rĂłwnieĹĽ moĹĽe walczyÄ‡ mieczem w tym samym czasie
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 17
+Wymagana mÄ…droĹ›Ä‡: 16
+~
+@650289 = ~Nieznana jest przeszĹ‚oĹ›Ä‡ tej broni. DaĹ‚y ci jÄ… trzy napotkane w maĹ‚ym gaju na poĹ‚udnie od WrĂłt Baldura wojowniczki-druidki. Druidki te chciaĹ‚y, by kij ten zostaĹ‚ naprawiony, udaĹ‚o ci siÄ™ tego dokonaÄ‡, a teraz masz go im odnieĹ›Ä‡ do gaju mieszczÄ…cego siÄ™ na pĂłĹ‚noc od Amn. Ten szczegĂłlny kij daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +4 punkty do biegĹ‚oĹ›ci w kijach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 25%
+Waga: 7
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650290 = ~Nieznana jest przeszĹ‚oĹ›Ä‡ tej broni. DaĹ‚y ci jÄ… trzy napotkane w maĹ‚ym gaju na poĹ‚udnie od WrĂłt Baldura wojowniczki-druidki. Druidki te chciaĹ‚y, by kij ten zostaĹ‚ naprawiony, udaĹ‚o ci siÄ™ tego dokonaÄ‡, a one podarowaĹ‚y go tobie, w dodatku potÄ™ĹĽnie wzmocnionego w porĂłwnaniu do stanu poczÄ…tkowego. Ten szczegĂłlny kij daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w kijach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 7
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650300 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. KsiÄ™ĹĽycowe Ostrza same wybierajÄ… swego wĹ‚aĹ›ciciela. Tylko elf moĹĽe uĹĽyÄ‡ tego ostrza, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +4
+TraK0: +4
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +2 do Klasy Pancerza
+ +4 punkty do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 25%
+Waga: 3
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650301 = ~Sinoniebieski kamieĹ„~
+@650302 = ~Sinoniebieski kamieĹ„ Ioun~
+@650303 = ~Ten zabarwiony na niebiesko kamieĹ„ najprawdopodobniej wyciÄ™to z labradorytu (odmiana skalenia). Labradoryty sÄ… kamieniami w kolorach od jasno do ciemnoszarego, ktĂłre majÄ… ĹĽyĹ‚ki w rĂłĹĽnych kolorach. Te "ĹĽyĹ‚ki" sÄ… zazwyczaj bĹ‚Ä™kitne, ale mogÄ… byÄ‡ we wszystkich kolorach.~
+@650304 = ~Ten kamieĹ„ Ioun Ĺ›wieci ciemnoniebieskÄ… barwÄ…, podsuwajÄ…c na myĹ›l przeĹ‚amywane fale oceanu. Ten sinoniebieski kamieĹ„ Ioun obdarza go noszÄ…cego zdolnoĹ›ciÄ… rozpraszania nastÄ™pujÄ…cych czarĂłw: Odbity obraz, NiewidzialnoĹ›Ä‡, Lustrzane odbicie, NiewykrywalnoĹ›Ä‡, Ulepszona niewidzialnoĹ›Ä‡, Drzwi z cienia, Zwodniczy sobowtĂłr, Projekcja duplikatu i MamidĹ‚o.
+
+PARAMETRY:
+
+Klasa Pancerza: bez zmian 
+Specjalne:
+ Pozwala rzucaÄ‡ Prawdziwe widzenie 
+Waga: 2
+~
+@650308 = ~NiezwykĹ‚e wĹ‚aĹ›ciwoĹ›ci tego obdarzonego niezwykle potÄ™ĹĽnymi zaklÄ™ciami pĹ‚aszcza Ĺ›wiadczÄ… o tym, ĹĽe ochrona ciaĹ‚a moĹĽe przybieraÄ‡ rĂłĹĽne formy - miÄ™dzy innymi krycie siÄ™ przed wzrokiem wroga i ucieczkÄ™.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do Klasy Pancerza
+ +2 do rzutĂłw obronnych
+ Raz dziennie pozwala rzucaÄ‡ Ulepszone przyĹ›pieszenie ruchĂłw
+ Raz dziennie pozwala rzucaÄ‡ UlepszonÄ… niewidzialnoĹ›Ä‡
+Waga: 3
+~
+@650343 = ~Ta potÄ™ĹĽna broĹ„ skĹ‚ada siÄ™ z trzonka o dĹ‚ugoĹ›ci od 120 do 150 cm i bardzo ciÄ™ĹĽkiego ostrza. TopĂłr ten moĹĽe mieÄ‡ jedno ĹĽeleĹşce z jednej strony trzonka, lub dwa, po obu stronach. Jest to nieporÄ™czna broĹ„, ale doĹ›wiadczony wojownik moĹĽe nim zadawaÄ‡ straszliwe ciosy. Krasnoludzkie runy wytrawiĹ‚y w tym toporze dodatkowe umagicznienie.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K12 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ Przy kaĹĽdym trafieniu rzuca na ofiarÄ™ PalÄ…cy wybuch: +2K6 pkt. obraĹĽeĹ„ od ognia i 25% szansa na +2K10 pkt. dodatkowych obraĹĽeĹ„ od ognia
+Waga: 30
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 17
+~
+@650345 = ~Ta potÄ™ĹĽna broĹ„ skĹ‚ada siÄ™ z trzonka o dĹ‚ugoĹ›ci od 120 do 150 cm i bardzo ciÄ™ĹĽkiego ostrza. TopĂłr ten moĹĽe mieÄ‡ jedno ĹĽeleĹşce z jednej strony trzonka, lub dwa, po obu stronach. Jest to nieporÄ™czna broĹ„, ale doĹ›wiadczony wojownik moĹĽe nim zadawaÄ‡ straszliwe ciosy. Krasnoludzkie runy wytrawiĹ‚y w tym toporze dodatkowe umagicznienie.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K12 +4
+TraK0: +4
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ Przy kaĹĽdym trafieniu rzuca na ofiarÄ™ PalÄ…cy wybuch: +1K6 pkt. obraĹĽeĹ„ od ognia i 10% szansa na +1K10 pkt. dodatkowych obraĹĽeĹ„ od ognia
+Waga: 25
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 16
+~
+@650354 = ~Miecz ten jest caĹ‚kiem cenny. Jest to magicznie wzmocniona broĹ„, dodajÄ…ca +3 do trafienia i obraĹĽeĹ„. OprĂłcz ostroĹ›ci i zbalansowania obdarza ona teĹĽ uĹĽywajÄ…cego magicznymi premiami. KaĹĽdy, kto dzierĹĽy Furcolo w rÄ™ku otrzymuje doĹ›Ä‡ znacznÄ… odpornoĹ›Ä‡ na magiÄ™, jest takĹĽe chroniony przed nieumarĹ‚ymi. Miecz ten jest istotÄ… rozumnÄ… i raz na dzieĹ„ potrafi rzuciÄ‡ na swojego posiadacza CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡
+ +35% do odpornoĹ›ci na magiÄ™
+ Ochrona przed nieumarĹ‚ymi
+Waga: 4
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@650364 = ~Ten zakoĹ„czony wielkim kawaĹ‚kiem bursztynu, spiralny kij ze srebrnymi inkrustacjami pozwala raz dziennie rzuciÄ‡ Czarodziejskie oko, Leczenie chorĂłb i Prawdziwe widzenie.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ Czarodziejskie oko, Leczenie chorĂłb i Prawdziwe widzenie
+Waga: 4
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650366 = ~Kilka spoĹ›rĂłd tych naszyjnikĂłw magicznie wzmocnionego i zachowanego lodu zostaĹ‚o stworzonych przez na wpĂłĹ‚ oszalaĹ‚ego maga, ktĂłry podrĂłĹĽowaĹ‚ pomiÄ™dzy plemionami Ulutian, osiadĹ‚ymi na Wielkim Lodowcu. Dwa spoĹ›rĂłd lodowych krysztaĹ‚Ăłw rozmiaru ĹĽoĹ‚Ä™dzia sÄ… matowe, cztery zaĹ› przezroczyste. NoszÄ…cy moĹĽe oderwaÄ‡ klejnot i rzuciÄ‡ nim na odlegĹ‚oĹ›Ä‡ do 24 metrĂłw, zanim roztopi siÄ™ w jego dĹ‚oni po 1 turze. Kiedy krysztaĹ‚ osiÄ…gnie cel, eksploduje LodowÄ… nawaĹ‚nicÄ…. By mĂłc uĹĽyÄ‡ go prawidĹ‚owo, noszÄ…cy musi byÄ‡ wyszkolony w procach i mieÄ‡ wolnÄ… przegrĂłdkÄ™ na pociski.
+
+PARAMETRY:
+
+Specjalne:
+ Zawiera 6 krysztaĹ‚Ăłw lodu
+~
+@650369 = ~Ten przedmiot stworzono w Netheril. Nowe BerĹ‚a grzmotu miaĹ‚y po 50 Ĺ‚adunkĂłw, jednakĹĽe wiÄ™kszoĹ›Ä‡ z nich liczy sobie setki lat i przewaĹĽnie, w chwili odnalezienia, pozostaje tylko kilka Ĺ‚adunkĂłw.
+BerĹ‚o grzmotu nie wymaga identyfikacji i posiada nastÄ™pujÄ…ce moce:
+ - KaĹĽdy, kto trzyma to berĹ‚o jest odporny na ogieĹ„ i bĹ‚yskawice
+ - TrzymajÄ…cy berĹ‚o nie moĹĽe zostaÄ‡ pozbawiony przytomnoĹ›ci ani odrzucony przez ĹĽadnÄ… falÄ™ uderzeniowÄ…. UĹĽywajÄ…c go, otrzymuje poĹ‚owÄ™ obraĹĽeĹ„ od przedmiotĂłw wykorzystujÄ…cych siĹ‚Ä™ podmuchu, takich jak RĂłg grzmotu, wybuch prochu czy inna RĂłĹĽdĹĽka grzmotu (1/4 obraĹĽeĹ„ przy udanym rzucie obronnym)
+ - OgĹ‚uszenie: trzymajÄ…cy berĹ‚o moĹĽe ogĹ‚uszyÄ‡ cel przy ataku. Chroni przed tym skuteczny rzut przeciwko rĂłĹĽdĹĽkom, w przeciwnym jednak razie cel zostaje ogĹ‚uszony na 1K4 rund (skorzystanie z tej funkcji kaĹĽdorazowo kosztuje jeden Ĺ‚adunek)
+ - Fala uderzeniowa: trzymajÄ…cy berĹ‚o moĹĽe powaliÄ‡ przeciwnikĂłw bezdĹşwiÄ™cznÄ… falÄ… energii w postaci stoĹĽka o dĹ‚ugoĹ›ci 10 m. Zadaje ona 2K6 punktĂłw obraĹĽeĹ„, a dodatkowo cel musi wykonaÄ‡ rzut obronny przeciwko rĂłĹĽdĹĽkom albo straci przytomnoĹ›Ä‡ (skorzystanie z tej funkcji kaĹĽdorazowo kosztuje dwa Ĺ‚adunki)
+ - Uderzenie Mocy: trzymajÄ…cy berĹ‚o moĹĽe nim bezpoĹ›rednio zaatakowaÄ‡ cel. Udany atak wrÄ™cz zadaje 10K6 punktĂłw obraĹĽeĹ„, poĹ‚owÄ™ przy udanym rzucie obronnym przeciwko rĂłĹĽdĹĽkom (skorzystanie z tej funkcji kaĹĽdorazowo kosztuje cztery Ĺ‚adunki)
+
+PARAMETRY:
+
+Specjalne:
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, magiczny ogieĹ„ i elektrycznoĹ›Ä‡ na poziomie 100%
+ Ochrona przed Uderzeniem skrzydeĹ‚
+ Pozwala rzucaÄ‡ FalÄ™ uderzeniowÄ…
+ Pozwala rzucaÄ‡ Uderzenie Mocy
+Waga: 6
+Rodzaj biegĹ‚oĹ›ci: maczuga~
+@650380 = ~Nieznane jest pochodzenie tej tarczy, jednak dobrze poĹ‚Ä…czone materiaĹ‚y i umagicznienie czyniÄ… jÄ… jeszcze bardziej efektywnÄ… formÄ… obrony.
+
+PARAMETRY:
+
+Klasa Pancerza: +4
+Specjalne:
+ +2 do Klasy Pancerza przeciwko broni strzeleckiej
+Waga: 10
+Wymagana siĹ‚a: 10
+~
+@650387 = ~Amulet ten stanowi dzieĹ‚o elfĂłw i jest naturalnym uzupeĹ‚nieniem elfiego stanu zadumy, pozwalajÄ…cego im byÄ‡ odpornym na uĹ›pienie. Zaduma zachodzi u elfĂłw zazwyczaj w czasie dnia, podobnie do snu u ludzi czy innych zwierzÄ…t, chociaĹĽ elfia zaduma jest bardziej wspĂłlnotowym stanem, podczas ktĂłrego medytujÄ… przez kilka godzin, regenerujÄ…c i ciaĹ‚o i duszÄ™, ale bÄ™dÄ…c caĹ‚kowicie Ĺ›wiadomymi otoczenia i wydarzeĹ„, ktĂłre dziejÄ… siÄ™ wokĂłĹ‚ nich.
+Ten amulet, kiedy zostanie zaĹ‚oĹĽony przez jakiegokolwiek elfa, czy teĹĽ innÄ… istotÄ™, moĹĽe wstrzymaÄ‡ efekty zmÄ™czenia i magiczne Ĺ›rodki zmieniania stanu umysĹ‚u, do ktĂłrych zaliczyÄ‡ moĹĽna zauroczenie czy kontrolowanie umysĹ‚u. Amulet jednakĹĽe nie przywrĂłci ĹĽadnych rzuconych zaklÄ™Ä‡, ktĂłre muszÄ… byÄ‡ zapamiÄ™tane normalnie, podczas snu. RĂłwnieĹĽ rany muszÄ… byÄ‡ leczone normalnym snem, bowiem zaduma zapewnia tylko minimalnÄ… regeneracjÄ™ ciaĹ‚a.
+
+PARAMETRY:
+
+Specjalne: 
+ Ochrona przed nieprzytomnoĹ›ciÄ…
+ Ochrona przed zauroczeniem
+ Wstrzymuje zmÄ™czenie
+ Regeneruje 1 pkt. ĹĽycia co 5 tur
+~
+@650389 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <CHARNAME>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650390 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <PLAYER2>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650391 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <PLAYER3>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650392 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <PLAYER4>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650393 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <PLAYER5>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650394 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. To KsiÄ™ĹĽycowe ostrze posiada <PLAYER6>, stanowi ono dar elfich starcĂłw i akceptuje swego aktualnego posiadacza. Tylko wybrany przez KsiÄ™ĹĽycowe ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. To KsiÄ™ĹĽycowe Ostrze modyfikuje klasÄ™ pancerza posiadacza, pozwala uĹĽywaÄ‡ broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi i zapewnia ochronÄ™ przed licznymi rodzajami obraĹĽeĹ„: ogniem, zimnem, kwasem, elektrycznoĹ›ciÄ… i truciznÄ….
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650395 = ~Morgensztern ten jest caĹ‚kiem cenny. Jest to magicznie wzmocniona broĹ„, dodajÄ…ca +3 do trafienia i obraĹĽeĹ„. OprĂłcz ostroĹ›ci i zbalansowania obdarza ona teĹĽ uĹĽywajÄ…cego magicznymi premiami. KaĹĽdy, kto dzierĹĽy Furcolo w rÄ™ku otrzymuje doĹ›Ä‡ znacznÄ… odpornoĹ›Ä‡ na magiÄ™, jest takĹĽe chroniony przed nieumarĹ‚ymi. Morgensztern ten jest istotÄ… rozumnÄ… i raz na dzieĹ„ potrafi rzuciÄ‡ na swojego posiadacza CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K4 +3
+TraK0: +3
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ CaĹ‚kowitÄ… niewraĹĽliwoĹ›Ä‡
+ +35% do odpornoĹ›ci na magiÄ™
+ Ochrona przed nieumarĹ‚ymi
+Waga: 8
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: cep bojowy/morgensztern
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 11
+~
+@7650398 = ~Najpowszechniej uĹĽywany rodzaj topora bojowego skĹ‚ada siÄ™ ze styliska o dĹ‚ugoĹ›ci metra do pĂłĹ‚tora z osadzonym szerokim, pĂłĹ‚okrÄ…gĹ‚ym ostrzem, czÄ™sto zaopatrzonym rĂłwnieĹĽ w szpice, skierowane do tyĹ‚u i ku gĂłrze.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 7
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@7650399 = ~Ĺuki refleksyjne to Ĺ‚uki krĂłtkie lub dĹ‚ugie, ktĂłrych drzewce wykonano z kilku rodzajĂłw drewna. DziÄ™ki temu sÄ… bardziej sprÄ™ĹĽyste i majÄ… wiÄ™kszy zasiÄ™g. Wynaleziono je po dĹ‚ugich Ĺ‚ukach.
+
+PARAMETRY:
+
+TraK0: +2
+ObraĹĽenia: +1
+Waga: 10
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi Ĺ‚uk
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 18
+~
+@7650400 = ~DĹ‚ugi Ĺ‚uk jest podobny do krĂłtkiego, choÄ‡ o wiele od niego dĹ‚uĹĽszy. Mierzy, w zaleĹĽnoĹ›ci od wzrostu Ĺ‚ucznika, od 1,8 do znacznie powyĹĽej 2 metrĂłw. BroĹ„ ta ma wiÄ™kszy zasiÄ™g, dlatego pozwala na oddawanie znacznie celniejszych strzaĹ‚Ăłw.
+
+PARAMETRY:
+
+TraK0: +2
+Waga: 3
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi Ĺ‚uk
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@7650401 = ~Ĺuki krĂłtkie zostaĹ‚y wprowadzone jako pierwsze, choÄ‡ na poczÄ…tku nie byĹ‚y tak nazywane. Kategoria ta obejmuje wszystkie rodzaje tej broni, ktĂłre nie sÄ… Ĺ‚ukami dĹ‚ugimi. Ich drzewce majÄ… zazwyczaj okoĹ‚o 1,5 metra dĹ‚ugoĹ›ci. W ciÄ…gu lat prĂłbowano zwiÄ™kszyÄ‡ zasiÄ™g Ĺ‚ukĂłw. OsiÄ…gano to na dwa sposoby: zwiÄ™kszajÄ…c ich dĹ‚ugoĹ›Ä‡ lub czyniÄ…c bardziej sprÄ™ĹĽystymi. Ĺuki naleĹĽÄ…ce do pierwszej kategorii nazwano Ĺ‚ukami dĹ‚ugimi.
+
+PARAMETRY:
+
+TraK0: +1
+Waga: 2
+OpĂłĹşnienie: 6
+Rodzaj biegĹ‚oĹ›ci: krĂłtki Ĺ‚uk
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@650403 = ~Drakkas Ranul byĹ‚ samotnym, a przy tym bardzo przewraĹĽliwionym ksiÄ™ĹĽycowym elfem. W mĹ‚odym wieku zostaĹ‚ porwany przez grupÄ™ drowĂłw, a nastÄ™pnie przygotowywany do wystÄ™pĂłw na arenie gladiatorĂłw. PoczÄ…tkowo toczyĹ‚ walki z innymi ofiarami uprowadzeĹ„, jednak z czasem wszyscy jego towarzysze niedoli zmarli z powodu poniesionych ran i fatalnego traktowania. Wtedy zmuszany byĹ‚ do walki z potworami wybieranymi przez drowy. Drakkas nie poddawaĹ‚ siÄ™, chciaĹ‚ przetrwaÄ‡, a przy ĹĽyciu utrzymywaĹ‚a go coraz wiÄ™ksza nienawiĹ›Ä‡ do przeĹ›ladowcĂłw oraz nadzieja na ucieczkÄ™ i zemstÄ™.
+Wreszcie, pewnego dnia speĹ‚niĹ‚o siÄ™ jego marzenie. UdaĹ‚o mu siÄ™ wykraĹ›Ä‡ straĹĽnikowi klucz do celi i po cichu wymknÄ…Ä‡ siÄ™ do okrutnego Podmroku. ZdobyĹ‚ po drodze kilka sejmitarĂłw, ktĂłre bardzo przydaĹ‚y mu siÄ™ w czasie wÄ™drĂłwki po krÄ™tych Ĺ›cieĹĽkach Podmroku. Gdy tylko wydostaĹ‚ siÄ™ na powierzchniÄ™, natychmiast ruszyĹ‚ na poszukiwanie pozostaĹ‚ych ksiÄ™ĹĽycowych elfĂłw.
+Niestety, gdy odnalazĹ‚ swoich krewnych, ci nie chcieli mieÄ‡ z nim nic wspĂłlnego, przeraĹĽeni potwornymi bliznami Drakkasa wyniesionymi z wielu walk. RozĹĽalony i odrzucony elf postawiĹ‚ sobie za cel ĹĽycia dokonanie jak najbardziej dotkliwej zemsty na swoich porywaczach. RozpoczÄ…Ĺ‚ wiÄ™c naukÄ™ czarnej magii i intensywniej szkoliĹ‚ siÄ™ we wĹ‚adaniu rĂłĹĽnymi rodzajami broni. Kiedy uznaĹ‚, ĹĽe jest juĹĽ gotowy, podjÄ…Ĺ‚ siÄ™ pracy jako najemny ĹĽoĹ‚nierz, przeznaczajÄ…c zarobione pieniÄ…dze na zakup potrzebnego ekwipunku. Na jednej rzeczy zaleĹĽaĹ‚o mu najbardziej: kolczudze tak lekkiej, ĹĽe nie przeszkadzaĹ‚aby w rzucaniu zaklÄ™Ä‡. W koĹ„cu, szczÄ™Ĺ›cie siÄ™ do niego uĹ›miechnÄ™Ĺ‚o, gdy spotkaĹ‚ krasnoludzkiego pĹ‚atnerza, ktĂłry byĹ‚ w stanie sprostaÄ‡ jego wymaganiom. WkrĂłtce zbroja byĹ‚a gotowa i Drakkas mĂłgĹ‚ rozpoczÄ…Ä‡ swojÄ… zemstÄ™.
+Nie pokazaĹ‚ siÄ™ wiÄ™cej na oczy ludziom, ktĂłrzy go znali i wynajmowali jako najemnika. OdkÄ…d wszedĹ‚ do Podmroku, sĹ‚uch o nim zaginÄ…Ĺ‚. JednakĹĽe, jego niezwykĹ‚a zbroja w jakiĹ› sposĂłb wydostaĹ‚a siÄ™ na powierzchniÄ™. Nikt nie wie, jak do tego doszĹ‚o, choÄ‡ niektĂłrzy twierdzÄ…, ĹĽe powrĂłt kolczugi Drakkasa z Podmroku byĹ‚ subtelnÄ… wiadomoĹ›ciÄ… od drowĂłw. WiadomoĹ›ciÄ…, ktĂłrÄ… kaĹĽdy moĹĽe interpretowaÄ‡ na swĂłj sposĂłb.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Specjalne:
+ Pozwala na rzucanie czarĂłw kosztem odczuwania niewielkiego dyskomfortu
+ Pozwala na korzystanie z umiejÄ™tnoĹ›ci zĹ‚odziejskich
+ Jeden dodatkowy atak na rundÄ™
+ +3 do TraK0
+Waga: 30
+Wymagana siĹ‚a: 8
+~
+@7650404 = ~WiÄ™kszoĹ›Ä‡ maczug to po prostu kawaĹ‚ki twardego drewna, od strony uchwytu wÄ™ĹĽsze, zaĹ› po przeciwnej szersze. Ta prosta broĹ„ byĹ‚a uĹĽywana od czasĂłw, gdy czĹ‚owiek zaczÄ…Ĺ‚ stosowaÄ‡ narzÄ™dzia. KaĹĽdy moĹĽe znaleĹşÄ‡ gdzieĹ› mocny kawaĹ‚ek drewna i zaczÄ…Ä‡ nim machaÄ‡, stÄ…d teĹĽ popularnoĹ›Ä‡ i powszechnoĹ›Ä‡ maczug.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 3
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: maczuga
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650405 = ~Typowe sztylety posiadajÄ… ostro zakoĹ„czone, dwusieczne ostrza, w odrĂłĹĽnieniu od zwykĹ‚ych noĹĽy, ktĂłre sÄ… jednosieczne i nieco krĂłtsze.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 1
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@7650406 = ~StrzaĹ‚ka to maĹ‚y, Ĺ‚atwy do ukrycia pocisk, ktĂłry sĹ‚uĹĽy do rzucania, a nie wystrzeliwania z Ĺ‚uku, kuszy czy procy.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K3
+TraK0: +1
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Waga: 0
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: strzaĹ‚ka
+Typ broni: 1-rÄ™czna
+~
+@650408 = ~Typowe sztylety posiadajÄ… ostro zakoĹ„czone, dwusieczne ostrza, w odrĂłĹĽnieniu od zwykĹ‚ych noĹĽy, ktĂłre sÄ… jednosieczne i nieco krĂłtsze.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +4
+TraK0: +4
+Typ obraĹĽeĹ„: kĹ‚ute
+Specjalne:
+ Dwa razy dziennie pozwala rzucaÄ‡ Rozmycie
+Waga: 1
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@7650409 = ~Cep bojowy skĹ‚ada siÄ™ z solidnego drzewca, sĹ‚uĹĽÄ…cego za uchwyt, do ktĂłrego przymocowany jest bÄ…dĹş gruby metalowy prÄ™t, bÄ…dĹş nabijany ostrymi kawaĹ‚kami metalu lub kamieni drÄ…g, lub teĹĽ ĹĽelazna kula ze szpikulcami. Te dwa elementy Ĺ‚Ä…czono zwykle krĂłtkim Ĺ‚aĹ„cuchem lub mocnymi rzemieniami. BroĹ„ ta wywodzi siÄ™ od cepĂłw uĹĽywanych do mĹ‚Ăłcenia zboĹĽa.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 15
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: cep bojowy/morgensztern
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 13
+~
+@7650410 = ~Ta potÄ™ĹĽna broĹ„ skĹ‚ada siÄ™ z trzonka o dĹ‚ugoĹ›ci od 120 do 150 cm i bardzo ciÄ™ĹĽkiego ostrza. TopĂłr ten moĹĽe mieÄ‡ jedno ĹĽeleĹşce z jednej strony trzonka, lub dwa, po obu stronach. Jest to nieporÄ™czna broĹ„, ale doĹ›wiadczony wojownik moĹĽe nim zadawaÄ‡ straszliwe ciosy.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 5
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@650413 = ~Ta potÄ™ĹĽna broĹ„ skĹ‚ada siÄ™ z trzonka o dĹ‚ugoĹ›ci od 120 do 150 cm i bardzo ciÄ™ĹĽkiego ostrza. TopĂłr ten moĹĽe mieÄ‡ jedno ĹĽeleĹşce z jednej strony trzonka, lub dwa, po obu stronach. Jest to nieporÄ™czna broĹ„, ale doĹ›wiadczony wojownik moĹĽe nim zadawaÄ‡ straszliwe ciosy. Krasnoludzkie runy wytrawiĹ‚y w tym toporze dodatkowe umagicznienie.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ KaĹĽda trafiona istota musi wykonaÄ‡ rzut obronny przeciw czarom albo znajdzie siÄ™ pod wpĹ‚ywem czaru OciemniaĹ‚oĹ›Ä‡
+ +2K6 pkt. obraĹĽeĹ„ przeciwko istotom o charakterze dobrym
+Waga: 20
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 2-rÄ™czna
+~
+@7650414 = ~Halabarda to jeden z najczÄ™Ĺ›ciej uĹĽywanych rodzajĂłw broni drzewcowej, zakoĹ„czony zakrzywionym ostrzem w ksztaĹ‚cie topora na koĹ„cu 1,5 do 2,5 metrowego drzewca. Na przedĹ‚uĹĽeniu drzewca znajduje siÄ™ dĹ‚ugi szpic przypominajÄ…cy wĹ‚ĂłczniÄ™ lub pikÄ™. Po drugiej stronie ostrza znajduje siÄ™ hak do przebijania zbroi i Ĺ›ciÄ…gania konnych z siodĹ‚a. MoĹĽna powiedzieÄ‡, ĹĽe halabarda to skrzyĹĽowanie wĹ‚Ăłczni z toporem.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 15
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: halabarda
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 13
+~
+@7650415 = ~Konni rycerze nie mogÄ… efektywnie uĹĽywaÄ‡ dĹ‚ugich broni drzewcowych, co sprawiĹ‚o, ĹĽe wiele rodzajĂłw broni zostaĹ‚o zaopatrzonych w krĂłtsze drzewce, aby mogĹ‚y byÄ‡ uĹĽywane jednorÄ™cznie. Wekiery i cepy bojowe sÄ… dwoma tego typu rodzajami broni drzewcowych - mĹ‚ot bojowy kolejnym. CaĹ‚y jest wykonany ze stali, z dyskami, chroniÄ…cymi i wzmacniajÄ…cymi uchwyt. Dyski te sÄ… maĹ‚e i metalowe, czÄ™sto ukĹ‚adane w dekoracyjne ksztaĹ‚ty. Drzewce ma okoĹ‚o 60 cm dĹ‚ugoĹ›ci.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +1
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: mĹ‚ot bojowy
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@7650416 = ~Najpowszechniej uĹĽywany rodzaj topora bojowego skĹ‚ada siÄ™ ze styliska o dĹ‚ugoĹ›ci metra do pĂłĹ‚tora z osadzonym szerokim, pĂłĹ‚okrÄ…gĹ‚ym ostrzem, czÄ™sto zaopatrzonym rĂłwnieĹĽ w szpice, skierowane do tyĹ‚u i ku gĂłrze.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 7
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@650418 = ~Tak jak inne halabardy broĹ„ ta ma toporowaty trzonek, zatkniÄ™ty na drzewcu o dĹ‚ugoĹ›ci okoĹ‚o 2 metrĂłw. W przeciwieĹ„stwie do nich zostaĹ‚a obdarzona kilkoma magicznymi wĹ‚aĹ›ciwoĹ›ciami, ktĂłre czyniÄ… jÄ… bardziej efektywnÄ… w walce. Jej ostrze tnie ciaĹ‚o jak brzytwa, a zakoĹ„czony kolcem trzonek przechodzi przez pancerze jak przez masĹ‚o.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10
+Typ obraĹĽeĹ„: kĹ‚ute
+Specjalne:
+ PrzeklÄ™ta: +2K6 pkt. obraĹĽeĹ„ przeciw istotom o charakterze dobrym
+ Chaotyczna: +2K6 pkt. obraĹĽeĹ„ przeciw istotom o praworzÄ…dnym charakterze
+ NieszczÄ™sna: +2 do TraK0 i +2K6 +2 pkt. obraĹĽeĹ„ przeciw elfom
+ Wampiryczna: KaĹĽda trafiona istota musi wykonaÄ‡ rzut obronny przeciw czarom z modyfikatorem -2 albo utraci na rzecz dzierĹĽÄ…cego 1K4 PunktĂłw Ĺ»ycia
+Rodzaj biegĹ‚oĹ›ci: halabarda
+Typ broni: 2-rÄ™czna
+Waga: 14
+Wymagana siĹ‚a: 13
+~
+@650420 = ~StaroĹĽytne podania krasnoludĂłw opowiadajÄ… o czasach, gdy najszlachetniejszym metalem nie byĹ‚a krasnoludzka stal, ani ĹĽelazo z meteorytĂłw, nie mitryl wreszcie, a dykhast - stop tak silny, ĹĽe krawÄ™dzi ostrza nie mogĹ‚y stÄ™piÄ‡ znĂłj, ni walka i z powierzchniÄ… tak doskonaĹ‚Ä… i bĹ‚yszczÄ…cÄ…, ĹĽe mĂłgĹ‚by na niej byÄ‡ spostrzeĹĽony odlot smoka. Najstarsze z krasnoludĂłw z rozrzewnieniem i ze Ĺ‚zami w oczach mĂłwiÄ… o dykhastowych ostrzach, z rozdraĹĽnieniem spluwajÄ… na wzmiankÄ™ o "rozmaitych sĹ‚abych i bezwartoĹ›ciowych" metalach, z ktĂłrych obecnie ksztaĹ‚towane sÄ… bronie i zbroje.
+SÄ… jednakĹĽe wieĹ›ci ze staroĹĽytnej i tajnej Ĺ›wiÄ…tyni Chogoh Kyn zwanej, ĹĽe to tam, jak opowieĹ›ci podajÄ…, wciÄ…ĹĽ ostrza z dykhastu wykuwajÄ… w sposĂłb z dni dawno przeszĹ‚ych. Cena moĹĽe zdaÄ‡ siÄ™ wysokÄ…, lecz dla prawdziwego konesera nic nie moĹĽe siÄ™ rĂłwnaÄ‡ z chwaĹ‚Ä…, doskonaĹ‚oĹ›ciÄ…, peĹ‚niÄ… radoĹ›ci... dykhastu.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +6
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ 5% szansa na oĹ›lepienie celu (rzut obronny przeciw Ĺ›mierci z modyfikatorem -5 neguje)
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@7650421 = ~Wekiera jest w prostej linii spadkobierczyniÄ… zwykĹ‚ej maczugi. Jest to po prostu drewniany trzonek, na ktĂłrym zostaĹ‚a osadzona kamienna lub metalowa gĹ‚owica, uzbrojona w kolce, Ä‡wieki lub inne ostre zakoĹ„czenia.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 8
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: wekiera
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@7650422 = ~Morgensztern to drewniany trzonek, zakoĹ„czony metalowym okuciem z licznymi szpiczastymi Ä‡wiekami. BroĹ„ ta ma okoĹ‚o 1,20 do 1,30 metra dĹ‚ugoĹ›ci. RĂłĹĽne jej rodzaje posiadajÄ… kulistÄ…, owalnÄ… lub cylindrycznÄ… gĹ‚owicÄ™. Bez wzglÄ™du jednak na rodzaj, wiÄ™kszoĹ›Ä‡ morgenszternĂłw jest zakoĹ„czona dĹ‚ugim szpikulcem, przeznaczonym do kĹ‚ucia. 
+
+PARAMETRY:
+
+ObraĹĽenia: 2K4
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 12
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: cep bojowy/morgensztern
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 11
+~
+@650424 = ~Ĺuki krĂłtkie zostaĹ‚y wprowadzone jako pierwsze, choÄ‡ na poczÄ…tku nie byĹ‚y tak nazywane. Kategoria ta obejmuje wszystkie rodzaje tej broni, ktĂłre nie sÄ… Ĺ‚ukami dĹ‚ugimi. Ich drzewce majÄ… zazwyczaj okoĹ‚o 1,5 metra dĹ‚ugoĹ›ci. W ciÄ…gu lat prĂłbowano zwiÄ™kszyÄ‡ zasiÄ™g Ĺ‚ukĂłw. OsiÄ…gano to na dwa sposoby: zwiÄ™kszajÄ…c ich dĹ‚ugoĹ›Ä‡ lub czyniÄ…c bardziej sprÄ™ĹĽystymi. Ĺuki naleĹĽÄ…ce do pierwszej kategorii nazwano Ĺ‚ukami dĹ‚ugimi.
+
+PARAMETRY:
+
+ObraĹĽenia: +1 (pocisk)
+TraK0: +1
+Specjalne:
+ +15 do maksymalnych punktĂłw ĹĽycia
+ +1 do Klasy Pancerza
+Waga: 2
+Rodzaj biegĹ‚oĹ›ci: krĂłtki Ĺ‚uk
+Typ broni: 2-rÄ™czna
+~
+@7650425 = ~DĹ‚ugie, zakrzywione, jednosieczne ostrze jest charakterystyczne zarĂłwno dla szabli, jak i sejmitara, mimo iĹĽ pochodzÄ… z rĂłĹĽnych czÄ™Ĺ›ci Faerunu. Podczas gdy, ze wzglÄ™du na swÄ… wszechstronnoĹ›Ä‡, szabla byĹ‚a przeznaczona gĹ‚Ăłwnie dla jeĹşdĹşcĂłw, sejmitar jest bardziej zwiÄ…zany z tradycjami wschodu. "Szamszir", jak pierwotnie zostaĹ‚a nazwana ta broĹ„, jest dĹ‚uĹĽszy, jego ostrze jest bardziej zakrzywione i zakoĹ„czone wydĹ‚uĹĽonym, ostrym szpicem. W efekcie jest ona nieco wolniejsza, jednak bardziej skuteczna i zabĂłjcza w walce.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 4
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@7650426 = ~Proce istniejÄ… od poczÄ…tkĂłw zapisywanej historii. SÄ… wykonywane ze skĂłry lub rzemienia, zakoĹ„czonego woreczkiem, w ktĂłry wkĹ‚ada siÄ™ pocisk. Procarz chwyta oba koĹ„ce rzemienia i krÄ™ci procÄ… ponad swojÄ… gĹ‚owÄ…. Kiedy zostaje osiÄ…gniÄ™ta najwiÄ™ksza szybkoĹ›Ä‡, puszcza jeden ze sznurkĂłw kierujÄ…c pocisk w cel.
+
+PARAMETRY:
+
+TraK0: +1
+Waga: 0
+OpĂłĹşnienie: 6
+Rodzaj biegĹ‚oĹ›ci: proca
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@7650427 = ~WĹ‚Ăłcznia to jeden z najwczeĹ›niejszych rodzajĂłw broni, ktĂłrymi zaczÄ…Ĺ‚ posĹ‚ugiwaÄ‡ siÄ™ czĹ‚owiek. Pierwsze egzemplarze tej broni byĹ‚y wykonane z drewna i zaostrzone na koĹ„cu. Kiedy czĹ‚owiek nauczyĹ‚ siÄ™ wytapiaÄ‡ metale, groty wĹ‚Ăłczni byĹ‚y wytwarzane z ĹĽelaza i stali. W pewnym momencie zaczÄ™to eksperymentowaÄ‡ z rĂłĹĽnymi typami grotĂłw; w ten sposĂłb powstaĹ‚y rĂłĹĽne typy broni drzewcowej.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 5
+OpĂłĹşnienie: 6
+Rodzaj biegĹ‚oĹ›ci: wĹ‚Ăłcznia
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650428 = ~Kij to najprostsza i najmniej efektywna z broni drzewcowych. MoĹĽe mieÄ‡ dĹ‚ugoĹ›Ä‡ od 1,8 do grubo ponad 2 metrĂłw. Wykonuje siÄ™ go z dÄ™bowego drewna i czÄ™sto obija metalem na obu koĹ„cach. Do wĹ‚adania nim trzeba uĹĽywaÄ‡ obu rÄ…k.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 4
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650429 = ~Zwany jest rĂłwnieĹĽ "bÄ™kartem" - zawdziÄ™cza tÄ™ nazwÄ™ faktowi, ĹĽe jest skrzyĹĽowaniem miecza dĹ‚ugiego i oburÄ™cznego. Ma obusieczne ostrze i dĹ‚ugÄ… rÄ™kojeĹ›Ä‡, dziÄ™ki czemu moĹĽna go uĹĽywaÄ‡ jednÄ… rÄ™kÄ… lub oburÄ…cz. Jego dĹ‚ugoĹ›Ä‡ waha siÄ™ od 120 do 145 centymetrĂłw.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K4
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 10
+OpĂłĹşnienie: 8
+Rodzaj biegĹ‚oĹ›ci: miecz pĂłĹ‚torarÄ™czny
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 11
+~
+@7650430 = ~Miecz oburÄ™czny pochodzi od miecza dĹ‚ugiego. PĹ‚atnerze zawsze prĂłbowali ulepszaÄ‡ istniejÄ…ce odmiany orÄ™ĹĽa, dlatego w czasie prĂłb nad udoskonaleniem miecza dĹ‚ugiego wydĹ‚uĹĽono jego ostrze. To samo zrobiono z rÄ™kojeĹ›ciÄ…, gdyĹĽ do wĹ‚aĹ›ciwego uĹĽycia tej broni byĹ‚y niezbÄ™dne obie rÄ™ce. Miecze oburÄ™czne sĹ‚uĹĽyĹ‚y zazwyczaj do atakowania rycerzy na koniach i do przeĹ‚amywania formacji z pik.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 15
+OpĂłĹşnienie: 10
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 14
+~
+@7650431 = ~Katana to lekko zakrzywiony miecz o jednym ostrzu. SÄ… to prawdopodobnie najostrzejsze miecze jakie kiedykolwiek wykuto, proces ich tworzenia jest dĹ‚ugi, trzymany w tajemnicy i jest prawdziwÄ… sztukÄ…. To ostrze jest chyba najwaĹĽniejszÄ… czÄ™Ĺ›ciÄ… kultury Kara-Tur. DotkniÄ™cie czy wziÄ™cie do rÄ™ki katany samuraja to dla niego obraza i zawsze wywoĹ‚uje jego gniew. RzadkoĹ›ciÄ… jest by gaijin, czyli obcokrajowiec, posiadaĹ‚ taki miecz. Albo ten gaijin jest serdecznym przyjacielem waĹĽnego ministra, albo zamordowaĹ‚ samuraja.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: Katana
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@7650432 = ~Do tej kategorii zaliczajÄ… siÄ™ obusieczne miecze, miecze wojenne i wojskowe. Bardzo czÄ™sto miecze dĹ‚ugie sÄ… jednosieczne. Nie istnieje jedna wersja broni tego typu; sposĂłb wykonania i dĹ‚ugoĹ›Ä‡ zaleĹĽy od kultury, a nawet miejsca w obrÄ™bie jednego narodu, w ktĂłrym wykuto ostrze. Ich najczÄ™Ĺ›ciej wystÄ™pujÄ…cÄ… wspĂłlnÄ… cechÄ… jest dĹ‚ugoĹ›Ä‡, wahajÄ…ca siÄ™ od 90 do 110 cm. WiÄ™kszoĹ›Ä‡ mieczy dĹ‚ugich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego koĹ„ca, miecze te sĹ‚uĹĽÄ… do zadawania ran siecznych, a nie kĹ‚utych.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 4
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@7650433 = ~Miecz ninja, ninja-to, jest gorszej jakoĹ›ci niĹĽ inne klingi z Kara-Tur, takie jak katana. Ninja-to jest krĂłtki i ma proste ostrze, co sprawia, ĹĽe jest idealnym narzÄ™dziem podstÄ™pnych ninja. Ninja-to jest teĹĽ lepszy do walki w zamkniÄ™tych przestrzeniach, dajÄ…c czasem ninja przewagÄ™ nad samurajami uzbrojonymi w dĹ‚uĹĽszÄ… broĹ„.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 5
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@7650434 = ~Pierwszymi mieczami jakie pojawiĹ‚y siÄ™ byĹ‚y wĹ‚aĹ›nie krĂłtkie miecze. NajproĹ›ciej rzecz biorÄ…c, jest to sztylet o ostrzu tak dĹ‚ugim, ĹĽe nie moĹĽe byÄ‡ dĹ‚uĹĽej traktowany jak sztylet. Termin "krĂłtki miecz" nie istnieje w ĹĽadnych klasyfikacjach mieczy. Tutaj oznacza on dwusieczne ostrze o dĹ‚ugoĹ›ci okoĹ‚o 60 centymetrĂłw. Jego czubek jest zazwyczaj ostry, co sprawia, ĹĽe doskonale sĹ‚uĹĽy do zadawania ran kĹ‚utych.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: krĂłtki miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650435 = ~Wakizashi, czyli miecz pomocniczy, jest niezwykle waĹĽny dla samuraja. Nosi siÄ™ go przez caĹ‚y czas, nawet w mieszkaniu, spoczywa blisko samuraja gdy ten Ĺ›pi. Wykonany z rĂłwnÄ… pieczoĹ‚owitoĹ›ciÄ… co katana, krĂłtszy miecz, dĹ‚ugoĹ›ci 35-60 cm jest niebezpiecznÄ… broniÄ… w rÄ™kach wyszkolonego szermierza.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650436 = ~Konni rycerze nie mogÄ… efektywnie uĹĽywaÄ‡ dĹ‚ugich broni drzewcowych, co sprawiĹ‚o, ĹĽe wiele rodzajĂłw broni zostaĹ‚o zaopatrzonych w krĂłtsze drzewce, aby mogĹ‚y byÄ‡ uĹĽywane jednorÄ™cznie. Wekiery i cepy bojowe sÄ… dwoma tego typu rodzajami broni drzewcowych - mĹ‚ot bojowy kolejnym. CaĹ‚y jest wykonany ze stali, z dyskami, chroniÄ…cymi i wzmacniajÄ…cymi uchwyt. Dyski te sÄ… maĹ‚e i metalowe, czÄ™sto ukĹ‚adane w dekoracyjne ksztaĹ‚ty. Drzewce ma okoĹ‚o 60 cm dĹ‚ugoĹ›ci.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +1
+TraK0: +1
+Typ obraĹĽeĹ„: obuchowe
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: mĹ‚ot bojowy
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@7650437 = ~Toporek to lekka odmiana topora bojowego, sĹ‚uĹĽÄ…ca gĹ‚Ăłwnie do ciskania w przeciwnika z pewnej odlegĹ‚oĹ›ci. CiÄ™ĹĽar ostrza jest rĂłwnowaĹĽony do pewnego stopnia przez ostry szpic, skierowany do tyĹ‚u. KrĂłtkie stylisko jest zwykle ostro zakoĹ„czone zarĂłwno u doĹ‚u, jak i u gĂłry.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1
+TraK0: +1
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Waga: 5
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 4
+~
+@7650438 = ~Kusza jest Ĺ‚ukiem zatkniÄ™tym poprzecznie na drewnianym lub metalowym drzewcu. Zazwyczaj jest wykonana z jesionu albo cisu. Strzela pociskami, ktĂłre zwane sÄ… beĹ‚tami.
+
+PARAMETRY:
+
+ObraĹĽenia: +2 (pociski)
+TraK0: +1
+Waga: 14
+OpĂłĹşnienie: 10
+Rodzaj biegĹ‚oĹ›ci: kusza
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 12
+~
+@7650439 = ~Kusza to Ĺ‚uk zatkniÄ™ty poprzecznie na drewnianym lub metalowym drzewcu. Zazwyczaj wykonuje siÄ™ jÄ… z jesionu albo cisu. Strzela pociskami, ktĂłre zwane sÄ… beĹ‚tami.
+
+PARAMETRY:
+
+TraK0: +1
+Waga: 7
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: kusza
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 8
+~
+@650445 = ~Ta potÄ™ĹĽna broĹ„ zostaĹ‚a stworzona przez boskiego pĹ‚atnerza sfer. Dla wierzÄ…cych w Ragnarok ludzi PĂłĹ‚nocy mĹ‚ot ten odegraĹ‚ pewnÄ… rolÄ™ w starciu majÄ…cym na celu powstrzymaÄ‡ nadejĹ›cie Ragnaroku przed wyznaczonym mu czasem. Ten szczegĂłlny mĹ‚ot bojowy daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w mĹ‚otach bojowych
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: mĹ‚ot bojowy
+Typ broni: 1-rÄ™czna
+~
+@650449 = ~Jest to prosty kawaĹ‚ek kutego tytanu, twardego metalu sporej wartoĹ›ci, dĹ‚ugoĹ›ci ok. 75 cm. Ta metalowa laska moĹĽe byÄ‡ w razie potrzeby uĹĽywana jako prosta broĹ„, jednakĹĽe, jeĹ›li do tej maczugi doĹ‚Ä…czymy obuch czy teĹĽ inne zakoĹ„czenie, z Ĺ‚atwoĹ›ciÄ… moĹĽe zmieniÄ‡ siÄ™ w straszliwÄ… broĹ„ w rÄ™kach wyszkolonego posiadacza.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8
+Typ obraĹĽeĹ„: obuchowe
+Waga: 3
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: maczuga
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650450 = ~Ta potÄ™ĹĽna broĹ„ zostaĹ‚a stworzona przez boskiego pĹ‚atnerza sfer. Dla wierzÄ…cych w Ragnarok ludzi PĂłĹ‚nocy mĹ‚ot ten odegraĹ‚ pewnÄ… rolÄ™ w starciu majÄ…cym na celu powstrzymaÄ‡ nadejĹ›cie Ragnaroku przed wyznaczonym mu czasem. Ten szczegĂłlny mĹ‚ot bojowy daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +4
+TraK0: +4
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +4 punktĂłw do biegĹ‚oĹ›ci w mĹ‚otach bojowych
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 25%
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: mĹ‚ot bojowy
+Typ broni: 1-rÄ™czna
+~
+@650452 = ~Na pierwszy rzut oka kostur ten niczym nie rĂłĹĽni siÄ™ od wiÄ™kszoĹ›ci innych. Na tym jednakĹĽe wyryto liczne przypominajÄ…ce runy pieczÄ™cie, ktĂłre oblaĹ‚y go srebrzystÄ… otoczkÄ…. Ten kostur, mimo swoich ozdĂłb, wyglÄ…da na niezwykle waĹĽny. ByÄ‡ moĹĽe rozsÄ…dnym byĹ‚oby znaleĹşÄ‡ jego pierwotnego wĹ‚aĹ›ciciela, bÄ…dĹş jego plemiÄ™, moĹĽliwe, ĹĽe za przyniesienie tego swoistego totemu moĹĽna otrzymaÄ‡ nagrodÄ™.
+ChociaĹĽ rzeczywiĹ›cie sprawia wraĹĽenie zwykĹ‚ego kija, posiada kilka pomniejszych magicznych dodatkĂłw. Po pierwsze zadaje dodatkowe 1K4 punktĂłw obraĹĽeĹ„ obuchowych. Po drugie wĹ‚adajÄ…cy tym kosturem automatycznie otrzymuje premiÄ™ do TraK0. Po trzecie wreszcie kostur ten raz dziennie pozwala rzucaÄ‡ BĹ‚ogosĹ‚awieĹ„stwo. Kostur Ĺ‚aduje siÄ™ automatycznie po upĹ‚ywie okreĹ›lonego okresu czasu.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6
+Typ obraĹĽeĹ„: obuchowe
+Specjalne:
+ 1K4 pkt. dodatkowych obraĹĽeĹ„ obuchowych
+ +2 do TraK0
+ Raz dziennie pozwala rzucaÄ‡ BĹ‚ogosĹ‚awieĹ„stwo
+Waga: 4
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650458 = ~Polowanie na gorgony to bardzo niebezpieczny sport drowĂłw. CzÄ™sto po udanym polowaniu krew gorgony jest uĹĽywana do stworzenia nowego pancerza. Ten specjalny pancerz drowĂłw moĹĽe wytrzymaÄ‡ Ĺ›wiatĹ‚o sĹ‚oneczne na powierzchni.
+
+PARAMETRY:
+
+Klasa Pancerza: -2
+Specjalne:
+ +30% do odpornoĹ›ci na ogieĹ„ i kwas
+Waga: 20
+Wymagana siĹ‚a: 12
+~
+@650479 = ~Miecz obusieczny jest poĹ‚Ä…czeniem miecza dĹ‚ugiego z siĹ‚Ä… i efektywnoĹ›ciÄ… miecza oburÄ™cznego. PĹ‚atnerze zawsze prĂłbowali ulepszaÄ‡ istniejÄ…ce odmiany orÄ™ĹĽa, dlatego w czasie prĂłb nad udoskonaleniem miecza dĹ‚ugiego wydĹ‚uĹĽono jego ostrze. To samo zrobiono z rÄ™kojeĹ›ciÄ…, gdyĹĽ do wĹ‚aĹ›ciwego uĹĽycia tej broni byĹ‚y niezbÄ™dne obie rÄ™ce.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12
+Typ obraĹĽeĹ„: sieczne
+Waga: 12
+OpĂłĹşnienie: 8
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@650480 = ~To broĹ„ naleĹĽÄ…ca do Paddy'ego NiezĹ‚omnego. Jest niÄ… miecz obusieczny, wykonany specjalnie dla nizioĹ‚ka, jednak jego magiczne zdolnoĹ›ci staĹ‚y siÄ™ dostÄ™pnymi dlaĹ„ dopiero w Lasach Tethyru.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12 +2
+TraK0: +2
+Typ obraĹĽeĹ„: sieczne
+Waga: 5
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@650488 = ~PierĹ›cieĹ„ ochrony +3: 'PierĹ›cieĹ„ StraĹĽnika'
+StraĹĽnik byĹ‚ nieĹ›miertelnym wartownikiem, majÄ…cym chroniÄ‡ grobowiec, w ktĂłrym zĹ‚oĹĽono ciaĹ‚o ksiÄ™ĹĽniczki Akanal. Przez millennia szacunek dla miejsca pochĂłwku wyparowaĹ‚ z pamiÄ™ci krĂłlewskiej rodziny, i wielu poszukiwaczy przygĂłd prĂłbowaĹ‚o szczÄ™Ĺ›cia w starciu ze StraĹĽnikiem. Oczywistym byĹ‚o, ĹĽe w koĹ„cu zostanie pokonany, a kiedy tak siÄ™ staĹ‚o, pierĹ›cieĹ„ byĹ‚ jednym z wielu skarbĂłw wyniesiony z grobowca przez zwyciÄ™zcÄ™.
+
+PARAMETRY:
+
+Klasa Pancerza: +3
+Rzuty obronne: +3
+~
+@650492 = ~Nieznane sÄ… dzieje tej broni. DaĹ‚ ci jÄ… Ĺ‚owca Crowley z ĹĽyczeniem, by zostaĹ‚a naostrzona, co teĹĽ zostaĹ‚o uczynione, teraz zaĹ› niesiesz mu jÄ… do lasĂłw na pĂłĹ‚noc od Amn. Ten szczegĂłlny topĂłr daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +2 do Klasy Pancerza
+ +4 punktĂłw do biegĹ‚oĹ›ci w toporach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 25%
+Waga: 7
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+~
+@650513 = ~W Ĺ›wiÄ…tyniach Waukeen rozsianych po caĹ‚ym Faerunie moĹĽna znaleĹşÄ‡ kilkanaĹ›cie takich tarcz. KoĹ›ciĂłĹ‚ wytwarza te zbroje i sprzedaje przedsiÄ™biorczym poszukiwaczom przygĂłd. W zamian za moce ukryte w tarczach, sÄ… oni zobowiÄ…zani nie zakrywaÄ‡ tarcz z przodu i zachowywaÄ‡ je w pierwotnym stanie. JeĹĽeli nabywca tarczy nie zgadza siÄ™ na te warunki, wĂłwczas moc tarczy zanika. W ten sposĂłb dziesiÄ…tki poszukiwaczy przygĂłd przemierzajÄ… krainy krĂłlestwa, majÄ…c zĹ‚otÄ… podobiznÄ™ Waukeen na ramieniu.
+
+PARAMETRY:
+
+Klasa Pancerza: +3
+Specjalne:
+ +2 do rzutĂłw obronnych
+ +10% do odpornoĹ›ci na magiÄ™
+Waga: 4
+~
+@650515 = ~Jedynymi materialnymi czÄ™Ĺ›ciami tej lodowej broni sÄ… garda, rÄ™kojeĹ›Ä‡ i gaĹ‚ka na rÄ™kojeĹ›ci, ktĂłre zostaĹ‚y wykonane z lĹ›niÄ…cego srebra i stali. BroĹ„ powstaĹ‚a w roku 1099 KD, zaĹ› jej twĂłrczyniÄ… byĹ‚a wybranka bogini Auril, Ihanora Ĺaskawa. Ihanora przemierzyĹ‚a pĂłĹ‚nocne tereny, walczÄ…c nieustÄ™pliwie z tymi wszystkimi, ktĂłrzy usiĹ‚owali znaleĹşÄ‡ schronienie przed chĹ‚odem lub walczyli z jego oddziaĹ‚ywaniem. PodrĂłĹĽowaĹ‚a w kompanii yetich, lodowych olbrzymĂłw oraz biaĹ‚ego smoka, mroĹĽÄ…c wszystko dookoĹ‚a. Ihanora zostaĹ‚a pokonana w roku 1108 KD przez cieszÄ…cÄ… siÄ™ zĹ‚Ä… sĹ‚awÄ… BrygadÄ™ Czerwonej Maski, dowodzonÄ… przez bezwzglÄ™dnego zabĂłjcÄ™ znanego jako ZawziÄ™ty Harley.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K4 +2
+TraK0: +2
+Typ obraĹĽeĹ„: od zimna
+Specjalne: 
+ 2% szansa na zamienienie celu w bryĹ‚Ä™ lodu
+Waga: 10
+OpĂłĹşnienie: 6
+Rodzaj biegĹ‚oĹ›ci: miecz pĂłĹ‚torarÄ™czny
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@650518 = ~WĹ‚Ăłcznia to jeden z najwczeĹ›niejszych rodzajĂłw broni, ktĂłrymi zaczÄ…Ĺ‚ posĹ‚ugiwaÄ‡ siÄ™ czĹ‚owiek. Pierwsze egzemplarze tej broni byĹ‚y wykonane z drewna i zaostrzone na koĹ„cu. Kiedy czĹ‚owiek nauczyĹ‚ siÄ™ wytapiaÄ‡ metale, groty wĹ‚Ăłczni byĹ‚y wytwarzane z ĹĽelaza i stali. W pewnym momencie zaczÄ™to eksperymentowaÄ‡ z rĂłĹĽnymi typami grotĂłw; w ten sposĂłb powstaĹ‚y rĂłĹĽne typy broni drzewcowej. Ta wĹ‚Ăłcznia odbiega jednak nieco od standardu, z racji kilku ulepszeĹ„. Na grocie uczyniono kilka karb, by zwiÄ™kszyÄ‡ iloĹ›Ä‡ obraĹĽeĹ„ zadawanych, gdy grot jest wyjmowany z ciaĹ‚a ofiary, drzewce z kolei na caĹ‚ej dĹ‚ugoĹ›ci wzmocnione zostaĹ‚o stalowymi kĂłĹ‚kami, majÄ…cymi na celu zapobiec rozĹ‚amanie broni, a ktĂłre zaopatrzone zostaĹ‚y w maĹ‚e wysuniÄ™te pod rĂłĹĽnymi kÄ…tami ostrza. Grubszy koniec wetkniÄ™to w oprawÄ™ z lanego metalu, dziÄ™ki czemu moĹĽna niÄ… zadawaÄ‡ takĹĽe obraĹĽenia obuchowe.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +1 (kĹ‚ute)
+ 1K4 +1 (obuchowe)
+ 1K4 +1 (sieczne)
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+ZasiÄ™g: 70
+Waga: 5
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: wĹ‚Ăłcznia
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650525 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER1>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650526 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER2>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650527 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER3>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650528 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER4>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650529 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER5>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650530 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. TÄ™ KlingÄ™ Ĺ›piewnych czarĂłw posiada <PLAYER6>, stanowi ona dar Akademii BardĂłw w Silverymoon i akceptuje swego aktualnego posiadacza. Tylko wybrany przez Ostrze moĹĽe uĹĽyÄ‡ tej broni, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™
+
+PARAMETRY:
+
+ObraĹĽenia: 2K8 +5
+TraK0: +5
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +4 do Klasy Pancerza
+ +5 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 50%
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+~
+@650532 = ~Te ostrza pĹ‚atnerze stworzyli bardom, by mogli oni uĹĽywaÄ‡ naprawdÄ™ potÄ™ĹĽnych broni. Tylko bard moĹĽe uĹĽyÄ‡ tego ostrza, ktokolwiek inny sprĂłbuje dobyÄ‡ je z pochwy zostanie straszliwie poparzony, a nawet doszczÄ™tnie spalony. Ta szczegĂłlna Klinga Ĺ›piewnych czarĂłw daje swemu posiadaczowi premiÄ™ do Klasy Pancerza, pozwala uĹĽywaÄ‡ tej broni z biegĹ‚oĹ›ciÄ… rĂłwnÄ… mistrzowi, dodatkowo teĹĽ zapewnia czÄ™Ĺ›ciowe odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +4
+TraK0: +4
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +2 do Klasy Pancerza
+ +4 punktĂłw do biegĹ‚oĹ›ci w dĹ‚ugich mieczach
+ Ustala odpornoĹ›Ä‡ na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i truciznÄ™ na poziomie 25%
+Waga: 3
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: krĂłtki miecz
+Typ broni: 1-rÄ™czna
+~
+@650544 = ~Standardowy pĹ‚aszcz szermierza jest noszony przez wielu mistrzĂłw miecza, ktĂłrych kontentuje jego luĹşnoĹ›Ä‡ i obfitoĹ›Ä‡ faĹ‚d, ktĂłre mogÄ… zaplÄ…taÄ‡ wrogÄ… broĹ„ w grubÄ… tkaninÄ™. Ten pĹ‚aszcz zapewnia nieco ochrony przed broniÄ… siecznÄ… i kĹ‚utÄ…, ponadto raz na dzieĹ„ moĹĽe stawaÄ‡ siÄ™ "wetkniÄ™tym" w potÄ™ĹĽniejszÄ… osĹ‚onÄ™.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do Klasy Pancerza przeciw broniom siecznym i kĹ‚utym
+ +2 do rzutĂłw obronnych
+ Raz dziennie pozwala uĹĽyÄ‡ ochrony podobnej do Kamiennej skĂłry, chroniÄ…cej przed 5 najbliĹĽszymi atakami
+Waga: 6
+~
+@650548 = ~Szale sprawiedliwoĹ›ci: Ten krĂłtki miecz naleĹĽaĹ‚ do Tardetha Stepogrona z Kompanii OĹ›miorga. InteresujÄ…cy jest sposĂłb, w jaki znalazĹ‚ siÄ™ w twoim posiadaniu. Kupiony nielegalnie od pasera, podniesiony ze zwĹ‚ok zamordowanego Tardetha, czy teĹĽ zabrany - po wĹ›lizgniÄ™ciu siÄ™ do obozu Kompanii - z ich dobytku bez ich wiedzy?
+ByÄ‡ moĹĽe teĹĽ w ogĂłle go nie posiadasz, i najzwyczajniej w Ĺ›wiecie ulegasz zĹ‚udzeniu posiadania go, bowiem czytasz to dziÄ™ki magicznemu migotaniu w rozmiarze okoĹ‚o 1280 na 1024.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +3
+TraK0: +3
+Typ obraĹĽeĹ„: kĹ‚ute
+Specjalne:
+ Dwa dodatkowe ataki na rundÄ™
+ +3 punkty do biegĹ‚oĹ›ci w krĂłtkich mieczach
+ KaĹĽda trafiona istota musi wykonaÄ‡ rzut obronny przeciw rĂłĹĽdĹĽkom z modyfikatorem -2 albo zostanie spowolniona na okres jednej rundy
+Waga: 2
+OpĂłĹşnienie: 0
+Rodzaj biegĹ‚oĹ›ci: krĂłtki miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@7650549 = ~Najpowszechniej uĹĽywany rodzaj topora bojowego skĹ‚ada siÄ™ ze styliska o dĹ‚ugoĹ›ci metra do pĂłĹ‚tora z osadzonym szerokim, pĂłĹ‚okrÄ…gĹ‚ym ostrzem, czÄ™sto zaopatrzonym rĂłwnieĹĽ w szpice, skierowane do tyĹ‚u i ku gĂłrze.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Waga: 6
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@650551 = ~Kolczuga jest wykonana z przeplatajÄ…cych siÄ™ metalowych kĂłĹ‚eczek. Zawsze nakĹ‚ada siÄ™ jÄ… na kubrak z pikowanego materiaĹ‚u; ma to zapobiec bolesnym otarciom i zĹ‚agodziÄ‡ siĹ‚Ä™ ciosĂłw. Magiczne wzmocnienie tej zbroi sprawia, ĹĽe zapewnia ona dodatkowÄ… ochronÄ™. Ta potÄ™ĹĽna zbroja zostaĹ‚a wykuta przez Throma Mocarza w Hlondeth.
+
+PARAMETRY:
+
+Klasa Pancerza: 0
+Waga: 10
+Wymagana siĹ‚a: 8
+~
+@7650552 = ~Typowe sztylety posiadajÄ… ostro zakoĹ„czone, dwusieczne ostrza, w odrĂłĹĽnieniu od zwykĹ‚ych noĹĽy, ktĂłre sÄ… jednosieczne i nieco krĂłtsze. 
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +2
+TraK0: +4
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 1
+OpĂłĹşnienie: 1
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@7650553 = ~Cep bojowy skĹ‚ada siÄ™ z solidnego drzewca, sĹ‚uĹĽÄ…cego za uchwyt, do ktĂłrego przymocowany jest bÄ…dĹş gruby metalowy prÄ™t, bÄ…dĹş nabijany ostrymi kawaĹ‚kami metalu lub kamieni drÄ…g, lub teĹĽ ĹĽelazna kula ze szpikulcami. Te dwa elementy Ĺ‚Ä…czono zwykle krĂłtkim Ĺ‚aĹ„cuchem lub mocnymi rzemieniami. BroĹ„ ta wywodzi siÄ™ od cepĂłw uĹĽywanych do mĹ‚Ăłcenia zboĹĽa.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +5
+TraK0: +4
+Typ obraĹĽeĹ„: obuchowe
+Waga: 12
+OpĂłĹşnienie: 7
+Rodzaj biegĹ‚oĹ›ci: cep bojowy/morgensztern
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 13
+~
+@7650554 = ~Halabarda to jeden z najczÄ™Ĺ›ciej uĹĽywanych rodzajĂłw broni drzewcowej, zakoĹ„czony zakrzywionym ostrzem w ksztaĹ‚cie topora na koĹ„cu 1,5 do 2,5 metrowego drzewca. Na przedĹ‚uĹĽeniu drzewca znajduje siÄ™ dĹ‚ugi szpic przypominajÄ…cy wĹ‚ĂłczniÄ™ lub pikÄ™. Po drugiej stronie ostrza znajduje siÄ™ hak do przebijania zbroi i Ĺ›ciÄ…gania konnych z siodĹ‚a. MoĹĽna powiedzieÄ‡, ĹĽe halabarda to skrzyĹĽowanie wĹ‚Ăłczni z toporem.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12 +1
+TraK0: +2
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 13
+OpĂłĹşnienie: 8
+Rodzaj biegĹ‚oĹ›ci: halabarda
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 13
+~
+@650556 = ~Najlepsza (i najciÄ™ĹĽsza) zbroja, jakÄ… wojownik moĹĽe zdobyÄ‡ - zarĂłwno pod wzglÄ™dem wyglÄ…du, jak i ochrony, ktĂłrÄ… zapewnia. Jej znakomicie dopasowane, poĹ‚Ä…czone elementy z litego metalu sÄ… specjalnie modelowane, by jak najlepiej odbijaĹ‚y tak uderzenia broni rĂłĹĽnego typu, jak i strzaĹ‚y. Zwykle zbroja tego rodzaju jest bogato zdobiona - artystycznie grawerowana i upiÄ™kszana rĂłĹĽnymi dodatkami. Ten pancerz +5 zostaĹ‚ wykuty przez Throma Mocarza w Hlondeth.
+
+PARAMETRY:
+
+Klasa Pancerza: -4
+Waga: 20
+Wymagana siĹ‚a: 15
+~
+@650558 = ~Ta tarcza z dobrze dobranych komponentĂłw zostaĹ‚a wykuta przez Throma Mocarza w Hlondeth.
+
+PARAMETRY:
+
+Klasa Pancerza: +6
+Specjalne:
+ +2 do Klasy Pancerza przeciw broni strzeleckiej
+Waga: 10
+Wymagana siĹ‚a: 10
+~
+@7650559 = ~WĹ‚Ăłcznia to jeden z najwczeĹ›niejszych rodzajĂłw broni, ktĂłrymi zaczÄ…Ĺ‚ posĹ‚ugiwaÄ‡ siÄ™ czĹ‚owiek. Pierwsze egzemplarze tej broni byĹ‚y wykonane z drewna i zaostrzone na koĹ„cu. Kiedy czĹ‚owiek nauczyĹ‚ siÄ™ wytapiaÄ‡ metale, groty wĹ‚Ăłczni byĹ‚y wytwarzane z ĹĽelaza i stali. W pewnym momencie zaczÄ™to eksperymentowaÄ‡ z rĂłĹĽnymi typami grotĂłw; w ten sposĂłb powstaĹ‚y rĂłĹĽne typy broni drzewcowej.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10
+TraK0: +4
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 4
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: wĹ‚Ăłcznia 
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650561 = ~Zbroja paskowa jest odmianÄ… zbroi folgowej, w ktĂłrej metalowe pasy sÄ… przynitowane pionowo, a nie poziomo, do spodniej warstwy, miÄ™kkiej, szytej z materiaĹ‚u i skĂłry. PoniewaĹĽ zbroja ta nie jest zbyt elastyczna, w znacznym stopniu ogranicza w walce noszÄ…cego jÄ… wojownika. Ten egzemplarz zbroi wykuty zostaĹ‚ przez Throma Mocarza w Hlondeth i daje noszÄ…cemu premiÄ™ +4 do jego Klasy Pancerza.
+
+PARAMETRY:
+
+Klasa Pancerza: 1
+Waga: 10
+Wymagana siĹ‚a: 8
+~
+@7650562 = ~Do tej kategorii zaliczajÄ… siÄ™ obusieczne miecze, miecze wojenne i wojskowe. Bardzo czÄ™sto miecze dĹ‚ugie sÄ… jednosieczne. Nie istnieje jedna wersja broni tego typu; sposĂłb wykonania i dĹ‚ugoĹ›Ä‡ zaleĹĽy od kultury, a nawet miejsca w obrÄ™bie jednego narodu, w ktĂłrym wykuto ostrze. Ich najczÄ™Ĺ›ciej wystÄ™pujÄ…cÄ… wspĂłlnÄ… cechÄ… jest dĹ‚ugoĹ›Ä‡, wahajÄ…ca siÄ™ od 90 do 110 cm. WiÄ™kszoĹ›Ä‡ mieczy dĹ‚ugich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego koĹ„ca, miecze te sĹ‚uĹĽÄ… do zadawania ran siecznych, a nie kĹ‚utych. 
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Waga: 3
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@7650563 = ~Konni rycerze nie mogÄ… efektywnie uĹĽywaÄ‡ dĹ‚ugich broni drzewcowych, co sprawiĹ‚o, ĹĽe wiele rodzajĂłw broni zostaĹ‚o zaopatrzonych w krĂłtsze drzewce, aby mogĹ‚y byÄ‡ uĹĽywane jednorÄ™cznie. Wekiery i cepy bojowe sÄ… dwoma tego typu rodzajami broni drzewcowych - mĹ‚ot bojowy kolejnym. CaĹ‚y jest wykonany ze stali, z dyskami, chroniÄ…cymi i wzmacniajÄ…cymi uchwyt. Dyski te sÄ… maĹ‚e i metalowe, czÄ™sto ukĹ‚adane w dekoracyjne ksztaĹ‚ty. Drzewce ma okoĹ‚o 60 cm dĹ‚ugoĹ›ci.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K6 +3
+TraK0: +4
+Typ obraĹĽeĹ„: obuchowe
+Waga: 5
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: mĹ‚ot bojowy
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 9
+~
+@650566 = ~To pudeĹ‚ko z narzÄ™dziami zawiera rĂłĹĽnorakie maĹ‚e prĂłbniki, wytrychy, szczypce do ciÄ™cia drutu, pilniki, dĹ‚uta, noĹĽyce, duĹĽy wybĂłr maĹ‚ych wkrÄ™takĂłw, obcÄ™gi i wiele innych przydatnych dla zĹ‚odzieja narzÄ™dzi. Zestaw moĹĽe byÄ‡ uĹĽyteczny przy prĂłbie rozbrojenia puĹ‚apki, otwarcia zamka czy dokonania kradzieĹĽy, kiedy cel stanowi wyzwanie.
+
+PARAMETRY:
+
+Specjalne:
+ +30% do Otwierania zamkĂłw
+ +15% do Wykrywania puĹ‚apek
+ +15% do KradzieĹĽy kieszonkowej
+UĹĽycie: wĹ‚ĂłĹĽ do przegrĂłdki Tarczy
+~
+@650568 = ~NiezaleĹĽnie od tego czy miecz ten zostaĹ‚ stworzony do uĹĽywania w sĹ‚uĹĽbie Torma czy Tyra, ĹšmiaĹ‚ek, byĹ‚y poszukiwacz przygĂłd, ktĂłry obecnie handluje w sklepie z broniÄ… i zbrojami w Hlondeth, dobrze z nim sobie poczynaĹ‚ w swoich dawnych bojach. DziÄ™ki magii czy bĹ‚ogosĹ‚awieĹ„stwu, to cienkie i lekkie ostrze jest przepeĹ‚nione mocÄ…, ktĂłra daje uĹĽywajÄ…cemu zdolnoĹ›Ä‡ walki z takÄ… prÄ™dkoĹ›ciÄ… i gracjÄ…, jak gdyby sztuka walki mieczem upodobniĹ‚a siÄ™ do taĹ„ca.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +4
+TraK0: +4
+Specjalne: 
+ WĹ‚adajÄ…cy znajduje siÄ™ pod wpĹ‚ywem MĹ‚yĹ„ca, wliczajÄ…c w to karÄ™ -4 do trafienia i obraĹĽeĹ„
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 1
+OpĂłĹşnienie: 1
+Rodzaj biegĹ‚oĹ›ci: dĹ‚ugi miecz
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@650602 = ~U szczytu swej krĂłtkotrwaĹ‚ej chwaĹ‚y, elfie Miasto PieĹ›ni sĹ‚ynÄ™Ĺ‚o ze swej wspaniaĹ‚ej muzyki, teatru i magii. Elfowie z Cormanthyru stworzyli artefakty, rĂłwnie potÄ™ĹĽne, co i piÄ™kne, ktĂłre do dziĹ› sÄ… przedmiotem poszukiwaĹ„ Ĺ‚owcĂłw skarbĂłw i poszukiwaczy przygĂłd.
+Ta znakomicie wyrzeĹşbiona w drzewie rĂłĹĽanym, udekorowana zĹ‚otolistym filigranem, harfa, jest jednym z artefaktĂłw, ktĂłre demonstrujÄ… najwyĹĽszÄ… maestriÄ™ elfiego rÄ™kodzielnictwa. PomijajÄ…c zawartÄ… w niej magiÄ™, ta rÄ™cznie wykonana harfa jest przykĹ‚adem doskonaĹ‚oĹ›ci rzeĹşbienia w drewnie. UdowadniajÄ… to - nawet po upĹ‚ywie przeszĹ‚o piÄ™ciu stuleci - gĹ‚adkie jak szkĹ‚o krawÄ™dzie, idealnie wpasowane okucia, skomplikowane rytownictwo i lĹ›niÄ…ce wykoĹ„czenie. ZĹ‚ocenia, ktĂłre przyozdabiajÄ… harfÄ™, w ogĂłle nie zmatowiaĹ‚y, a delikatne zĹ‚ote struny migoczÄ…, gdy padnie na nie Ĺ›wiatĹ‚o.
+NiezaleĹĽnie od jakoĹ›ci wykonania tej harfy, zostaĹ‚a ona ongiĹ› wzmocniona magiÄ… przez kilku najpotÄ™ĹĽniejszych w Myth Drannor arcymagĂłw. ZĹ‚ote struny, wszystkie siedem spoĹ›rĂłd nich, wibrujÄ… w rezonansie ze Splotem. Przymioty poszczegĂłlnych strun nie mogÄ… zostaÄ‡ przewidziane, zanim harfa nie wybrzmi, po Faerunie porozrzucanych jest jednak relatywnie sporo harf z Myth Drannor, a wszystkie one majÄ… podobne wĹ‚aĹ›ciwoĹ›ci. CzÄ™Ĺ›Ä‡ z nich zostaĹ‚a poznana i zbadana, wliczajÄ…c w to zwiÄ™kszenie iloĹ›ci rzucanych zaklÄ™Ä‡ na rundÄ™, zmianÄ™ charakteru sĹ‚uchacza, moĹĽliwoĹ›Ä‡ staĹ‚ej gĹ‚uchoty, zwiÄ™kszenie liczby atakĂłw na rundÄ™ czy wzrost na staĹ‚e charyzmy.
+Kiedykolwiek ktĂłraĹ› ze strun harfy z Myth Drannor zostanie szarpniÄ™ta, spowoduje to jeden z powyĹĽszych skutkĂłw - bÄ…dĹş przedtem nieznany, losowy wybrany - ktĂłry obejmie sĹ‚uchacza lub sĹ‚uchaczy, na dobre czy na zĹ‚e. Uwolniona magia struny niszczy jÄ… w trakcie tego, a kiedy wszystkie zĹ‚ote struny zostanÄ… zagrane, harfa straci swoje magiczne wĹ‚aĹ›ciwoĹ›ci.
+
+*Finalista nagrody LpCB '02 (Loteria przedmiototwĂłrcza CBissona)~
+@650603 = ~U szczytu swej krĂłtkotrwaĹ‚ej chwaĹ‚y, elfie Miasto PieĹ›ni sĹ‚ynÄ™Ĺ‚o ze swej wspaniaĹ‚ej muzyki, teatru i magii. Elfowie z Cormanthyru stworzyli artefakty, rĂłwnie potÄ™ĹĽne, co i piÄ™kne, ktĂłre do dziĹ› sÄ… przedmiotem poszukiwaĹ„ Ĺ‚owcĂłw skarbĂłw i poszukiwaczy przygĂłd.
+Ta znakomicie wyrzeĹşbiona w drzewie rĂłĹĽanym, udekorowana zĹ‚otolistym filigranem, harfa, jest jednym z artefaktĂłw, ktĂłre demonstrujÄ… najwyĹĽszÄ… maestriÄ™ elfiego rÄ™kodzielnictwa. PomijajÄ…c zawartÄ… w niej magiÄ™, ta rÄ™cznie wykonana harfa jest przykĹ‚adem doskonaĹ‚oĹ›ci rzeĹşbienia w drewnie. UdowadniajÄ… to - nawet po upĹ‚ywie przeszĹ‚o piÄ™ciu stuleci - gĹ‚adkie jak szkĹ‚o krawÄ™dzie, idealnie wpasowane okucia, skomplikowane rytownictwo i lĹ›niÄ…ce wykoĹ„czenie. ZĹ‚ocenia, ktĂłre przyozdabiajÄ… harfÄ™, w ogĂłle nie zmatowiaĹ‚y, a delikatne zĹ‚ote struny migoczÄ…, gdy padnie na nie Ĺ›wiatĹ‚o.
+NiezaleĹĽnie od jakoĹ›ci wykonania tej harfy, zostaĹ‚a ona ongiĹ› wzmocniona magiÄ… przez kilku najpotÄ™ĹĽniejszych w Myth Drannor arcymagĂłw. ZĹ‚ote struny, wszystkie szeĹ›Ä‡ spoĹ›rĂłd nich, wibrujÄ… w rezonansie ze Splotem. Przymioty poszczegĂłlnych strun nie mogÄ… zostaÄ‡ przewidziane, zanim harfa nie wybrzmi, po Faerunie porozrzucanych jest jednak relatywnie sporo harf z Myth Drannor, a wszystkie one majÄ… podobne wĹ‚aĹ›ciwoĹ›ci. CzÄ™Ĺ›Ä‡ z nich zostaĹ‚a poznana i zbadana, wliczajÄ…c w to zwiÄ™kszenie iloĹ›ci rzucanych zaklÄ™Ä‡ na rundÄ™, zmianÄ™ charakteru sĹ‚uchacza, moĹĽliwoĹ›Ä‡ staĹ‚ej gĹ‚uchoty, zwiÄ™kszenie liczby atakĂłw na rundÄ™ czy wzrost na staĹ‚e charyzmy.
+Kiedykolwiek ktĂłraĹ› ze strun harfy z Myth Drannor zostanie szarpniÄ™ta, spowoduje to jeden z powyĹĽszych skutkĂłw - bÄ…dĹş przedtem nieznany, losowy wybrany - ktĂłry obejmie sĹ‚uchacza lub sĹ‚uchaczy, na dobre czy na zĹ‚e. Uwolniona magia struny niszczy jÄ… w trakcie tego, a kiedy wszystkie zĹ‚ote struny zostanÄ… zagrane, harfa straci swoje magiczne wĹ‚aĹ›ciwoĹ›ci.
+
+*Finalista nagrody LpCB '02 (Loteria przedmiototwĂłrcza CBissona)~
+@650604 = ~U szczytu swej krĂłtkotrwaĹ‚ej chwaĹ‚y, elfie Miasto PieĹ›ni sĹ‚ynÄ™Ĺ‚o ze swej wspaniaĹ‚ej muzyki, teatru i magii. Elfowie z Cormanthyru stworzyli artefakty, rĂłwnie potÄ™ĹĽne, co i piÄ™kne, ktĂłre do dziĹ› sÄ… przedmiotem poszukiwaĹ„ Ĺ‚owcĂłw skarbĂłw i poszukiwaczy przygĂłd.
+Ta znakomicie wyrzeĹşbiona w drzewie rĂłĹĽanym, udekorowana zĹ‚otolistym filigranem, harfa, jest jednym z artefaktĂłw, ktĂłre demonstrujÄ… najwyĹĽszÄ… maestriÄ™ elfiego rÄ™kodzielnictwa. PomijajÄ…c zawartÄ… w niej magiÄ™, ta rÄ™cznie wykonana harfa jest przykĹ‚adem doskonaĹ‚oĹ›ci rzeĹşbienia w drewnie. UdowadniajÄ… to - nawet po upĹ‚ywie przeszĹ‚o piÄ™ciu stuleci - gĹ‚adkie jak szkĹ‚o krawÄ™dzie, idealnie wpasowane okucia, skomplikowane rytownictwo i lĹ›niÄ…ce wykoĹ„czenie. ZĹ‚ocenia, ktĂłre przyozdabiajÄ… harfÄ™, w ogĂłle nie zmatowiaĹ‚y, a delikatne zĹ‚ote struny migoczÄ…, gdy padnie na nie Ĺ›wiatĹ‚o.
+NiezaleĹĽnie od jakoĹ›ci wykonania tej harfy, zostaĹ‚a ona ongiĹ› wzmocniona magiÄ… przez kilku najpotÄ™ĹĽniejszych w Myth Drannor arcymagĂłw. ZĹ‚ote struny, wszystkie piÄ™Ä‡ spoĹ›rĂłd nich, wibrujÄ… w rezonansie ze Splotem. Przymioty poszczegĂłlnych strun nie mogÄ… zostaÄ‡ przewidziane, zanim harfa nie wybrzmi, po Faerunie porozrzucanych jest jednak relatywnie sporo harf z Myth Drannor, a wszystkie one majÄ… podobne wĹ‚aĹ›ciwoĹ›ci. CzÄ™Ĺ›Ä‡ z nich zostaĹ‚a poznana i zbadana, wliczajÄ…c w to zwiÄ™kszenie iloĹ›ci rzucanych zaklÄ™Ä‡ na rundÄ™, zmianÄ™ charakteru sĹ‚uchacza, moĹĽliwoĹ›Ä‡ staĹ‚ej gĹ‚uchoty, zwiÄ™kszenie liczby atakĂłw na rundÄ™ czy wzrost na staĹ‚e charyzmy.
+Kiedykolwiek ktĂłraĹ› ze strun harfy z Myth Drannor zostanie szarpniÄ™ta, spowoduje to jeden z powyĹĽszych skutkĂłw - bÄ…dĹş przedtem nieznany, losowy wybrany - ktĂłry obejmie sĹ‚uchacza lub sĹ‚uchaczy, na dobre czy na zĹ‚e. Uwolniona magia struny niszczy jÄ… w trakcie tego, a kiedy wszystkie zĹ‚ote struny zostanÄ… zagrane, harfa straci swoje magiczne wĹ‚aĹ›ciwoĹ›ci.
+
+*Finalista nagrody LpCB '02 (Loteria przedmiototwĂłrcza CBissona)~
+@650605 = ~U szczytu swej krĂłtkotrwaĹ‚ej chwaĹ‚y, elfie Miasto PieĹ›ni sĹ‚ynÄ™Ĺ‚o ze swej wspaniaĹ‚ej muzyki, teatru i magii. Elfowie z Cormanthyru stworzyli artefakty, rĂłwnie potÄ™ĹĽne, co i piÄ™kne, ktĂłre do dziĹ› sÄ… przedmiotem poszukiwaĹ„ Ĺ‚owcĂłw skarbĂłw i poszukiwaczy przygĂłd.
+Ta znakomicie wyrzeĹşbiona w drzewie rĂłĹĽanym, udekorowana zĹ‚otolistym filigranem, harfa, jest jednym z artefaktĂłw, ktĂłre demonstrujÄ… najwyĹĽszÄ… maestriÄ™ elfiego rÄ™kodzielnictwa. PomijajÄ…c zawartÄ… w niej magiÄ™, ta rÄ™cznie wykonana harfa jest przykĹ‚adem doskonaĹ‚oĹ›ci rzeĹşbienia w drewnie. UdowadniajÄ… to - nawet po upĹ‚ywie przeszĹ‚o piÄ™ciu stuleci - gĹ‚adkie jak szkĹ‚o krawÄ™dzie, idealnie wpasowane okucia, skomplikowane rytownictwo i lĹ›niÄ…ce wykoĹ„czenie. ZĹ‚ocenia, ktĂłre przyozdabiajÄ… harfÄ™, w ogĂłle nie zmatowiaĹ‚y, a delikatne zĹ‚ote struny migoczÄ…, gdy padnie na nie Ĺ›wiatĹ‚o.
+NiezaleĹĽnie od jakoĹ›ci wykonania tej harfy, zostaĹ‚a ona ongiĹ› wzmocniona magiÄ… przez kilku najpotÄ™ĹĽniejszych w Myth Drannor arcymagĂłw. ZĹ‚ote struny, wszystkie cztery spoĹ›rĂłd nich, wibrujÄ… w rezonansie ze Splotem. Przymioty poszczegĂłlnych strun nie mogÄ… zostaÄ‡ przewidziane, zanim harfa nie wybrzmi, po Faerunie porozrzucanych jest jednak relatywnie sporo harf z Myth Drannor, a wszystkie one majÄ… podobne wĹ‚aĹ›ciwoĹ›ci. CzÄ™Ĺ›Ä‡ z nich zostaĹ‚a poznana i zbadana, wliczajÄ…c w to zwiÄ™kszenie iloĹ›ci rzucanych zaklÄ™Ä‡ na rundÄ™, zmianÄ™ charakteru sĹ‚uchacza, moĹĽliwoĹ›Ä‡ staĹ‚ej gĹ‚uchoty, zwiÄ™kszenie liczby atakĂłw na rundÄ™ czy wzrost na staĹ‚e charyzmy.
+Kiedykolwiek ktĂłraĹ› ze strun harfy z Myth Drannor zostanie szarpniÄ™ta, spowoduje to jeden z powyĹĽszych skutkĂłw - bÄ…dĹş przedtem nieznany, losowy wybrany - ktĂłry obejmie sĹ‚uchacza lub sĹ‚uchaczy, na dobre czy na zĹ‚e. Uwolniona magia struny niszczy jÄ… w trakcie tego, a kiedy wszystkie zĹ‚ote struny zostanÄ… zagrane, harfa straci swoje magiczne wĹ‚aĹ›ciwoĹ›ci.
+
+*Finalista nagrody LpCB '02 (Loteria przedmiototwĂłrcza CBissona)~
+@650607 = ~DziÄ™ki potÄ™ĹĽnym zauroczeniom naĹ‚oĹĽonym na ten kamieĹ„ ioun, jest to skarb niezwykle poszukiwany przez czarodziejĂłw i magĂłw.
+
+PARAMETRY:
+
+Specjalne:
+ Kiedy kamieĹ„ jest uĹĽywany, pozwala noszÄ…cemu instynktownie wiedzieÄ‡, gdzie atakowaÄ‡ ukrywajÄ…cÄ… siÄ™ postaÄ‡, bez uĹĽycia Prawdziwego widzenia czy magii rozproszeĹ„.
+ ~
+@650609 = ~Jest to ciÄ™ĹĽki, kwadratowy tom, grubo owiniÄ™ty beĹĽowym pergaminem i zabezpieczony klonowymi deskami, pokrytymi wypalonÄ… skĂłrÄ…. KsiÄ™ga wyglÄ…da na czÄ™sto uĹĽywanÄ…, ale nie jest zniszczona. Nie chroniÄ… jej ĹĽadne puĹ‚apki, a mosiÄ™ĹĽne sprzÄ…ĹĽki i bogato zdobione opaski udowadniajÄ…, ĹĽe jest to zaginiona ksiÄ™ga zaklÄ™Ä‡ Desmondala.
+Desmondal byĹ‚ dostojnym magiem z Athkatli, ktĂłry zmarĹ‚ z powodu zimowej gorÄ…czki siedemdziesiÄ…t lat temu. Ledwo kilku czarodziei po uiszczeniu wysokiej opĹ‚aty otrzymaĹ‚o prawo do skopiowania poszczegĂłlnych zaklÄ™Ä‡ jego autorstwa, kiedy amnijski kupiec Oristel sprzedaĹ‚ owoce jego pracy. Nabywca FoliaĹ‚u i jego obecne miejsce pobytu sÄ… nieznane.
+W Folialu znajduje siÄ™ dziesiÄ™Ä‡ czarĂłw, ktĂłrych mag moĹĽe siÄ™ nauczyÄ‡ bez ĹĽadnych dodatkowych wymagaĹ„. Kiedy zapamiÄ™ta on zaklÄ™cie, moĹĽe je rzucaÄ‡ z pamiÄ™ci, jednakĹĽe formuĹ‚a nadal pozostanie w woluminie, w przeciwieĹ„stwie do zwojĂłw, ktĂłre zostaĹ‚yby zniszczone.
+ChoÄ‡ moĹĽliwe jest zapamiÄ™tanie czaru, nadal trzeba posiadaÄ‡ FoliaĹ‚ by go rzuciÄ‡. Aby to zrobiÄ‡, po prostu umieĹ›Ä‡ ksiÄ™gÄ™ w polu na podrÄ™czny przedmiot.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ kaĹĽdy z nastÄ™pujÄ…cych czarĂłw: SzczÄ™Ĺ›cie, EksplodujÄ…ca czaszka, Klosz niewraĹĽliwoĹ›ci mniejszej, Ochrona przed elektrycznoĹ›ciÄ…, PrzeszywajÄ…ca magia, Zamiana kamienia w ciaĹ‚o, TÄ™czowe kolory, Projekcja duplikatu, SĹ‚owo mocy: oĹ›lepienie, Wyssanie energii. ZauwaĹĽ, ĹĽe niewykorzystane czary przepadajÄ…, ale nie sÄ… usuwane z ksiÄ™gi. ZaklÄ™cia z KsiÄ™gi czarĂłw Desmondala sÄ… rzucane z mocÄ… dziewiÄ™ciopoziomowego maga.
+
+*Zdobywca drugiego miejsca nagrody LpCB '02 (Loteria przedmiototwĂłrcza CBissona)~
+@650611 = ~Ten wykonany z kutej stali pierĹ›cieĹ„ moĹĽe zostaÄ‡ naĹ‚oĹĽony na dowolny palec. Przy kaĹĽdym ustawieniu bursztynu pozostaje zimny w dotyku, niezaleĹĽnie od czasu poĹ›wiÄ™conego na jego ogrzanie. PierĹ›cieĹ„ ten ma pewne proste wĹ‚aĹ›ciwoĹ›ci magiczne, ktĂłre powodujÄ…, ĹĽe noszÄ…cy staje siÄ™ eteryczny. Tak dĹ‚ugo jak przedmiot ten pozostaje w Pierwszej sferze materialnej, bÄ™dzie powodowaÄ‡, ĹĽe ktokolwiek go zaĹ‚oĹĽy, by przenikaÄ‡ sfery, zyska odpornoĹ›Ä‡ na naturalne istoty jak niedĹşwiedzie, lwy, wilki i podobne.
+
+PARAMETRY:
+
+Specjalne:
+ Chroni noszÄ…cego przed zwierzÄ™tami.
+~
+@650613 = ~Ta wspaniaĹ‚a, tworzÄ…ca wraz z Mieczem Belvina parÄ™, tarcza ma dĹ‚ugÄ… i chwalebnÄ… historiÄ™.
+
+W Roku PostÄ™pujÄ…cej Wiosny, zachodnie Krainy Ĺšrodka dotknÄ™Ĺ‚y nagĹ‚e i drastyczne zmiany klimatyczne. KrĂłtka pora deszczowa i nieprzyjemnie gorÄ…ce lato zaowocowaĹ‚o powszechnÄ… suszÄ…. ObniĹĽyĹ‚ siÄ™ poziom wĂłd Jeziora OdlegĹ‚ego Morza, a jego grzÄ…skie i bagniste brzegi bujnie obrosĹ‚y trzcinÄ…. Wielka pustynia Anauroch siÄ™gnÄ™Ĺ‚a dalej na poĹ‚udnie.
+Ponad trzysta lat temu, wraz z piaskami pustyni, na poĹ‚udnie maszerowaĹ‚y gobliny. W zimie 1089, Izac Uthor zebraĹ‚ ich armiÄ™ w pobliĹĽu wioski Thandril. Jej zastÄ™py rychĹ‚o objÄ™Ĺ‚y 200 000 goblinĂłw, dziesiÄ…tki tysiÄ™cy stowarzyszonych orkĂłw i koboldĂłw i kilka tysiÄ™cy hobgoblinĂłw, ktĂłre dowodziĹ‚y oddziaĹ‚ami swoich pobratymcĂłw. OczywiĹ›cie, nawet w sile Ä‡wierÄ‡ miliona walczÄ…cych ciÄ™ĹĽko byĹ‚o marzyÄ‡ choÄ‡by o zajÄ™ciu, a co dopiero podbiciu, caĹ‚ych Zachodnich Krain na pĂłĹ‚noc od PĂłl UmarĹ‚ych. W Cormyrze, KrawÄ™dzi WzgĂłrza, Tilverton, Soubar, Dolinie Cieni i wszystkich krainach na linii ataku prowadzono peĹ‚ne napiÄ™cia rozmowy.
+Do KrawÄ™dzi WzgĂłrza wysĹ‚ano wojskowe rezerwy i regularne oddziaĹ‚y, by doĹ‚Ä…czyĹ‚y do gĹ‚Ăłwnych siĹ‚ zbieranych przeciwko goblinom. PochodziĹ‚y z Beregostu, WrĂłt Baldura, Berdusku, Iriaeboru, Elturelu, Scornubelu, Soubar i z wyĹĽyn Wysokich Wrzosowisk. Ledwo przegrupowano wszystkie oddziaĹ‚y, znalazĹ‚ siÄ™ dla nich przywĂłdca: Artur Belvin, dowĂłdca siĹ‚ z Soubar. TrzymaĹ‚ w dĹ‚oni swÄ… tarczÄ™, gdy przed Ĺ›witem na polach zebraĹ‚y siÄ™ wojska; gotowe walczyÄ‡ z wrogiem na Ĺ›mierÄ‡ i ĹĽycie. Sam Belvin zgĹ‚adziĹ‚ ponad szeĹ›Ä‡dziesiÄ™ciu z hordy goblinĂłw, lecz wszystko nadaremnie. Z jego oddziaĹ‚u, nikt nie uszedĹ‚ bez szwanku.
+Po Bitwie KoĹ›ci, tarcza zaginÄ™Ĺ‚a i niewiele wiadomo o jej poszczegĂłlnych wĹ‚aĹ›cicielach. Dopiero wieki pĂłĹşniej, w koĹ„cu na nowo pojawiĹ‚a siÄ™ na kartach historii, tym razem dzierĹĽona przez grupÄ™ orczych rabusiĂłw. Rozpoznali jÄ… straĹĽnicy, wĹ›rĂłd innych przedmiotĂłw przewoĹĽonych z Waterdeep do Scornubelu, lecz karawana, zanim dotarĹ‚a do celu, wpadĹ‚a w zasadzkÄ™ zorganizowanÄ… przez duĹĽÄ… grupÄ™ dobrze wyposaĹĽonych orkĂłw i pĂłĹ‚-orkĂłw, a tarcza staĹ‚a siÄ™ wĹ‚asnoĹ›ciÄ… bezwzglÄ™dnego pĂłĹ‚-orka zwanego Niechybne Ostrze. Nie wiadomo, skÄ…d wziÄ™Ĺ‚a siÄ™ w WieĹĽy Maga.
+Tarcza ta jest przedmiotem, ktĂłry winno siÄ™ wielce ceniÄ‡, jako ĹĽe moĹĽe uratowaÄ‡ ĹĽycie swojemu wĹ‚aĹ›cicielowi podczas niejednej przygody w Krainach. Zmniejsza KP o 6 i dodaje 3 do wszystkich rzutĂłw obronnych. W dodatku, nie krÄ™puje ruchĂłw, dziÄ™ki czemu prÄ™dkoĹ›Ä‡ poruszania siÄ™ wzrasta o 2, a normalne pociski nie sÄ… w stanie wyrzÄ…dziÄ‡ jej posiadaczowi krzywdy.
+
+PARAMETRY:
+
+Klasa Pancerza: +6
+Specjalne:
+ +3 do rzutĂłw obronnych
+ Ochrona przed wszystkimi broĹ„mi strzeleckimi
+ ZwiÄ™kszajÄ… prÄ™dkoĹ›Ä‡ poruszania siÄ™
+Waga: 10
+Wymagana siĹ‚a: 16
+~
+@650615 = ~Ten wspaniaĹ‚y, tworzÄ…cy wraz z TarczÄ… Belvina parÄ™, miecz ma dĹ‚ugÄ… i chwalebnÄ… historiÄ™.
+
+W Roku PostÄ™pujÄ…cej Wiosny, zachodnie Krainy Ĺšrodka dotknÄ™Ĺ‚y nagĹ‚e i drastyczne zmiany klimatyczne. KrĂłtka pora deszczowa i nieprzyjemnie gorÄ…ce lato zaowocowaĹ‚o powszechnÄ… suszÄ…. ObniĹĽyĹ‚ siÄ™ poziom wĂłd Jeziora OdlegĹ‚ego Morza, a jego grzÄ…skie i bagniste brzegi bujnie obrosĹ‚y trzcinÄ…. Wielka pustynia Anauroch siÄ™gnÄ™Ĺ‚a dalej na poĹ‚udnie.
+Ponad trzysta lat temu, wraz z piaskami pustyni, na poĹ‚udnie maszerowaĹ‚y gobliny. W zimie 1089, Izac Uthor zebraĹ‚ ich armiÄ™ w pobliĹĽu wioski Thandril. Jej zastÄ™py rychĹ‚o objÄ™Ĺ‚y 200 000 goblinĂłw, dziesiÄ…tki tysiÄ™cy stowarzyszonych orkĂłw i koboldĂłw i kilka tysiÄ™cy hobgoblinĂłw, ktĂłre dowodziĹ‚y oddziaĹ‚ami swoich pobratymcĂłw. OczywiĹ›cie, nawet w sile Ä‡wierÄ‡ miliona walczÄ…cych ciÄ™ĹĽko byĹ‚o marzyÄ‡ choÄ‡by o zajÄ™ciu, a co dopiero podbiciu, caĹ‚ych Zachodnich Krain na pĂłĹ‚noc od PĂłl UmarĹ‚ych. W Cormyrze, KrawÄ™dzi WzgĂłrza, Tilverton, Soubar, Dolinie Cieni i wszystkich krainach na linii ataku prowadzono peĹ‚ne napiÄ™cia rozmowy.
+Do KrawÄ™dzi WzgĂłrza wysĹ‚ano wojskowe rezerwy i regularne oddziaĹ‚y, by doĹ‚Ä…czyĹ‚y do gĹ‚Ăłwnych siĹ‚ zbieranych przeciwko goblinom. PochodziĹ‚y z Beregostu, WrĂłt Baldura, Berdusku, Iriaeboru, Elturelu, Scornubelu, Soubar i z wyĹĽyn Wysokich Wrzosowisk. Ledwo przegrupowano wszystkie oddziaĹ‚y, znalazĹ‚ siÄ™ dla nich przywĂłdca: Artur Belvin, dowĂłdca siĹ‚ z Soubar. TrzymaĹ‚ w dĹ‚oni swĂłj miecz bitewny, gdy przed Ĺ›witem na polach zebraĹ‚y siÄ™ wojska; gotowe walczyÄ‡ z wrogiem na Ĺ›mierÄ‡ i ĹĽycie. Sam Belvin zgĹ‚adziĹ‚ ponad szeĹ›Ä‡dziesiÄ™ciu z hordy goblinĂłw, lecz wszystko nadaremnie. Z jego oddziaĹ‚u, nikt nie uszedĹ‚ bez szwanku.
+Po Bitwie KoĹ›ci, miecz zaginÄ…Ĺ‚ i niewiele wiadomo o jego poszczegĂłlnych wĹ‚aĹ›cicielach. Dopiero wieki pĂłĹşniej, w koĹ„cu na nowo pojawiĹ‚ siÄ™ na kartach historii, tym razem dzierĹĽony przez grupÄ™ orczych rabusiĂłw. Rozpoznali jÄ… straĹĽnicy, wĹ›rĂłd innych przedmiotĂłw przewoĹĽonych z Waterdeep do Scornubelu, lecz karawana, zanim dotarĹ‚a do celu, wpadĹ‚a w zasadzkÄ™ zorganizowanÄ… przez duĹĽÄ… grupÄ™ dobrze wyposaĹĽonych orkĂłw i pĂłĹ‚-orkĂłw, a miecz staĹ‚ siÄ™ wĹ‚asnoĹ›ciÄ… bezwzglÄ™dnego pĂłĹ‚-orka zwanego Niechybne Ostrze. Nie wiadomo, skÄ…d wziÄ…Ĺ‚ siÄ™ w WieĹĽy Maga.
+Miecz ten jest broniÄ…, na ktĂłrÄ… zasĹ‚ugujÄ… najlepsi w swym fachu, pozwala bowiem przebiÄ‡ siÄ™ przez obrony wiÄ™kszoĹ›ci innych stworzeĹ„. Przy udanym ataku na cel, ktĂłry ma 18. lub niĹĽszy poziom, ginie on na miejscu â€“ ta cecha staje siÄ™ nieoceniona w walce z potÄ™ĹĽnymi wrogami.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K6 +3
+TraK0: +3
+Specjalne:
+ KaĹĽda trafiona istota o poziomie niĹĽszym niĹĽ 18 musi wykonaÄ‡ rzut obronny przeciw Ĺ›mierci z modyfikatorem -2 albo zginie
+Typ obraĹĽeĹ„: sieczne
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: miecz pĂłĹ‚torarÄ™czny
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 15
+~
+@650621 = ~Typowe sztylety posiadajÄ… ostro zakoĹ„czone, dwusieczne ostrza, w odrĂłĹĽnieniu od zwykĹ‚ych noĹĽy, ktĂłre sÄ… jednosieczne i nieco krĂłtsze. Ten szczegĂłlny sztylet jest wzmocniony magiÄ…, ktĂłra zapewnia mu specjalne premie do szybkoĹ›ci, celnoĹ›ci i zadawanych obraĹĽeĹ„. Dodatkowo jako magiczny jest zdolny do zadawania ran odpornym na broĹ„ zwykĹ‚Ä… przeciwnikom, takim jak wampiry, ĹĽywioĹ‚aki czy mumie.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +3
+TraK0: +3
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 0
+OpĂłĹşnienie: 0
+Rodzaj biegĹ‚oĹ›ci: sztylet
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 3
+~
+@650625 = ~Ta delikatna harfa znajdowaĹ‚a siÄ™ w Siedzibie Harfiarzy w Athkatli. Jej muzyka jest kojÄ…ca, a kiedy struny zostanÄ… poruszone w odpowiedniej kolejnoĹ›ci, instrument pozwoli bardowi natchnÄ…Ä‡ swych towarzyszy zdolnoĹ›ciÄ… wzmagajÄ…cÄ… ich wĹ‚asnÄ… samokontrolÄ™ i prywatnoĹ›Ä‡, a dziÄ™ki temu chroniÄ…cÄ… ich przed niemal wszystkimi atakami na umysĹ‚: Zauroczeniem, Rozkazem, DominacjÄ…, Strachem, OgĹ‚upieniem, jakimkolwiek wrĂłĹĽeniem ze szklanej kuli i innymi metodami poznania.
+
+PARAMETRY:
+
+Specjalne:
+ Raz na dzieĹ„ pozwala rzucaÄ‡ na druĹĽynÄ™ NietykalnÄ… Ĺ›wiÄ™toĹ›Ä‡ umysĹ‚u
+~
+@650627 = ~W Krainach znaleĹşÄ‡ moĹĽna znacznie wiÄ™cej niĹĽ zwykĹ‚e przyrzÄ…dy do odmierzania czasu, aczkolwiek ten na pierwszy rzut oka wydaje siÄ™ byÄ‡ caĹ‚kiem zwyczajnym, wykonanym z dwĂłch szklanych naczyĹ„ poĹ‚Ä…czonych wÄ…skim przesmykiem, potrafiÄ…cym odmierzaÄ‡ czas za pomocÄ… piasku, ktĂłry przesypuje siÄ™ z jednego naczynia do drugiego. Zapoznanie siÄ™ z wygrawerowanÄ… u podstawy informacjÄ… ujawnia jednak, ĹĽe ta klepsydra ma zdolnoĹ›Ä‡ zatrzymania dla swego posiadacza na krĂłtko czasu, pozwalajÄ…c na podjÄ™cie dziaĹ‚ania.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ Zatrzymanie czasu
+~
+@650628 = ~TÄ™ potÄ™ĹĽnÄ… broĹ„ stworzyli pĹ‚atnerze staroĹĽytnego Myth Drannor. KsiÄ™ĹĽycowych ostrzy uĹĽywano podczas dĹ‚ugiego procesu wybierania wĹ‚adcy wyspy Evermeet. KsiÄ™ĹĽycowe Ostrza same wybierajÄ… swego wĹ‚aĹ›ciciela, a w przypadku tego miecza wybraĹ„cem zostaĹ‚ Ĺ‚owca Julian Nonnel. Tylko on moĹĽe uĹĽywaÄ‡ tej broni - kaĹĽda inna osoba nie zdoĹ‚a jej podnieĹ›Ä‡. To KsiÄ™ĹĽycowe Ostrze zapewnia ochronÄ™ przed ogniem i modyfikuje klasÄ™ pancerza posiadacza.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K12 +4
+TraK0: +4
+Typ obraĹĽeĹ„: sieczne
+Specjalne:
+ +12 pkt. dodatkowych obraĹĽeĹ„
+ Przy kaĹĽdym trafieniu zadaje maksymalne obraĹĽenia
+Waga: 6
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+~
+@650629 = ~Jest to morgensztern Kiela ZabĂłjcy LegionĂłw, pierworodnego syna Durlaga ZabĂłjcy Trolli i Klanowego KsiÄ™cia w nieszczÄ™snej wieĹĽy swego ojca. Kiel uĹĽywaĹ‚ go w swej ostatniej walce, gdy biegĹ‚ ostrzec swojego ojca o sobowtĂłrniakach, ktĂłre dostaĹ‚y siÄ™ do ich siedziby. Podobno jego wĹ›ciekĹ‚oĹ›Ä‡ w tej walce byĹ‚a tak wielka, ĹĽe na staĹ‚e wryĹ‚a siÄ™ w tÄ™ broĹ„. Osoba, ktĂłra jej uĹĽywa zostaje owĹ‚adniÄ™ta tÄ… wĹ›ciekĹ‚oĹ›ciÄ…, gdy tylko zobaczy przeciwnika.
+WyglÄ…da na to, ĹĽe ten morgensztern zostaĹ‚ znaleziony w podziemiach WieĹĽy Durlaga i ze wzglÄ™dĂłw bezpieczeĹ„stwa umieszczony w Siedzibie Harfiarzy w Athkatli. OczywiĹ›cie od tego czasu jego wartoĹ›Ä‡ niepomiernie wzrosĹ‚a.
+
+PARAMETRY:
+
+ObraĹĽenia: 2K4 +3
+TraK0: +3
+Typ obraĹĽeĹ„: obuchowe
+Specjalne: 
+ Ta broĹ„ jest przeklÄ™ta i wyzwala szaĹ‚ berserkera.
+Waga: 10
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: cep bojowy/morgensztern
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 10
+~
+@650631 = ~Ta zazwyczaj noszona przez Zakapturzonych CzarodziejĂłw szata, obdarza swego posiadacza licznymi umagicznieniami, wliczajÄ…c to szereg odpornoĹ›ci. Wielu mĹ‚odych Zakapturzonych CzarodziejĂłw otrzymuje takÄ… szatÄ™ od swoich preceptorĂłw po zakoĹ„czeniu pierwszych piÄ™ciu lat terminu. Podobnie jak w przypadku innych szat, rĂłwnieĹĽ i ta moĹĽe byÄ‡ noszona tylko przez parajÄ…cego siÄ™ magiÄ….
+
+PARAMETRY:
+
+Specjalne:
+Klasa Pancerza: 3
+Specjalne:
+ +25% do odpornoĹ›ci na ogieĹ„, zimno, kwas, elektrycznoĹ›Ä‡ i magiÄ™
+Waga: 3
+~
+@650634 = ~Te niezwykle potÄ™ĹĽne Ĺ›wiÄ™te symbole wprawione w sygnety mogÄ… otrzymaÄ‡ tylko skrajnie oddani wyznawcy Lathandera, Zwiastuna Ĺšwitu.
+
+PARAMETRY:
+
+Specjalne:
+ UmoĹĽliwia zapamiÄ™tanie po 2 dodatkowe zaklÄ™cia z 5., 6. i 7. poziomu
+ +20% do odpornoĹ›ci na magiÄ™
+ +1 do siĹ‚y
+ +2 do mÄ…droĹ›ci
+~
+@650640 = ~DziÄ™ki ofierze z ogromnej sumy zĹ‚ota poĹ‚Ä…czonej ze Ĺ›wiÄ™tymi obrzÄ™dami ceremonii uĹ›wiÄ™cajÄ…cej, Lathander daĹ‚ siÄ™ przekonaÄ‡, by obdarzyÄ‡ dodatkowÄ… mocÄ… te i tak juĹĽ potÄ™ĹĽnej mocy rÄ™kawice.
+
+PARAMETRY:
+
+Specjalne:
+ Dwa razy dziennie pozwala rzucaÄ‡ Leczenie krytycznych ran
+ +15 do maksymalnych punktĂłw ĹĽycia
+Waga: 3
+~
+@650642 = ~Sztylet ten zachowuje siÄ™ jak +5, kiedy uĹĽywany jest przeciw likantropom.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4 +2, +4 przeciw likantropom
+TraK0: +1
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 1
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: krĂłtki miecz
+Typ broni: 1-rÄ™czna
+~
+@650644 = ~Mat Savasta, jeden z najbardziej utalentowanych wĹ‚amywaczy WybrzeĹĽa Mieczy, nosiĹ‚ ten heĹ‚m podczas wielu ze swoich robĂłtek. To nakrycie gĹ‚owy, prosty, skĂłrzany czepiec, podnosiĹ‚o juĹĽ i tak niewiarygodne umiejÄ™tnoĹ›ci Mata. Nie byĹ‚o w caĹ‚ych Wrotach Baldura, Athkatli, Waterdeepie, Luskanie, Neverwinterze czy Calimporcie drzwi, ktĂłrych nie potrafiĹ‚by otworzyÄ‡. By uaktywniÄ‡ moce heĹ‚mu, naleĹĽy znaÄ‡ odpowiedniÄ… komendÄ™, po ktĂłrej wypowiedzeniu impuls energii magicznie ksztaĹ‚tuje siÄ™ w najbardziej odpowiadajÄ…cy zamkowi klucz.
+
+PARAMETRY:
+
+Specjalne: 
+ +20% do Otwierania zamkĂłw
+ +20% do Wykrywania puĹ‚apek
+ +20% do KradzieĹĽy kieszonkowej
+ +20% do Krycia siÄ™ w cieniu
+ Infrawizja
+~
+@650646 = ~Ten toporek jest prostym narzÄ™dziem, ktĂłre moĹĽe byÄ‡ w akcie desperacji uĹĽyte jako broĹ„. Jego stalowe ostrze jest ostre, odpowiednie do ciÄ™cia zarĂłwno drewna, jak i miÄ™sa. KrĂłtkie stylisko jest zwykle ostro zakoĹ„czone zarĂłwno u doĹ‚u, jak i u gĂłry.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K4
+Typ obraĹĽeĹ„: pocisk (kĹ‚ute)
+Waga: 5
+OpĂłĹşnienie: 5
+Rodzaj biegĹ‚oĹ›ci: topĂłr
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 4
+~
+@650648 = ~Zbroja skĂłrzana Ä‡wiekowana ma niewiele wspĂłlnego ze zwykĹ‚Ä… zbrojÄ… skĂłrzanÄ…. Podczas gdy zbroja skĂłrzana jest utwardzanÄ… skorupÄ…, zbroja Ä‡wiekowana jest miÄ™kka i wzmocniona setkami, nabitych w niewielkich odlegĹ‚oĹ›ciach nitĂłw. ZnajdujÄ… siÄ™ one tak blisko siebie, ĹĽe tworzÄ… trudnÄ… do przebicia metalowÄ… zaporÄ™, ktĂłra Ĺ›wietnie powstrzymuje sieczne i kĹ‚ute ataki. MiÄ™kkie skĂłrzane podbicie sĹ‚uĹĽy jedynie do utrzymania nitĂłw w miejscu.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Waga: 25
+Wymagana siĹ‚a: 6
+~
+@650659 = ~Wakizashi, czyli miecz pomocniczy, jest niezwykle waĹĽny dla samuraja. Nosi siÄ™ go przez caĹ‚y czas, nawet w mieszkaniu, spoczywa blisko samuraja gdy ten Ĺ›pi. Wykonany z rĂłwnÄ… pieczoĹ‚owitoĹ›ciÄ… co katana, krĂłtszy miecz, dĹ‚ugoĹ›ci 35-60 cm jest niebezpiecznÄ… broniÄ… w rÄ™kach wyszkolonego szermierza.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +3
+TraK0: +3
+Typ obraĹĽeĹ„: kĹ‚ute
+Waga: 3
+OpĂłĹşnienie: 3
+Rodzaj biegĹ‚oĹ›ci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@650661 = ~Miecz ninja, ninja-to, jest gorszej jakoĹ›ci niĹĽ inne klingi z Kara-Tur, takie jak katana. Ninja-to jest krĂłtki i ma proste ostrze, co sprawia, ĹĽe jest idealnym narzÄ™dziem podstÄ™pnych ninja. Ninja-to jest teĹĽ lepszy do walki w zamkniÄ™tych przestrzeniach, dajÄ…c czasem ninja przewagÄ™ nad samurajami uzbrojonymi w dĹ‚uĹĽszÄ… broĹ„.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K8 +3
+TraK0: +3
+Typ obraĹĽeĹ„: sieczne
+Waga: 5
+OpĂłĹşnienie: 4
+Rodzaj biegĹ‚oĹ›ci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rÄ™czna
+Wymagana siĹ‚a: 6
+~
+@660202 = ~Kij to najprostsza i najmniej efektywna z broni drzewcowych. MoĹĽe mieÄ‡ dĹ‚ugoĹ›Ä‡ od 1,8 do grubo ponad 2 metrĂłw. Wykonuje siÄ™ go z dÄ™bowego drewna i czÄ™sto obija metalem na obu koĹ„cach. Do wĹ‚adania nim trzeba uĹĽywaÄ‡ obu rÄ…k.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K6 +9
+TraK0: +3
+Typ obraĹĽeĹ„: obuchowe
+Waga: 4
+OpĂłĹşnienie: 2
+Rodzaj biegĹ‚oĹ›ci: kij
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 5
+~
+@660204 = ~Miecz oburÄ™czny pochodzi od miecza dĹ‚ugiego. PĹ‚atnerze zawsze prĂłbowali ulepszaÄ‡ istniejÄ…ce odmiany orÄ™ĹĽa, dlatego w czasie prĂłb nad udoskonaleniem miecza dĹ‚ugiego wydĹ‚uĹĽono jego ostrze. To samo zrobiono z rÄ™kojeĹ›ciÄ…, gdyĹĽ do wĹ‚aĹ›ciwego uĹĽycia tej broni byĹ‚y niezbÄ™dne obie rÄ™ce. Miecze oburÄ™czne sĹ‚uĹĽyĹ‚y zazwyczaj do atakowania rycerzy na koniach i do przeĹ‚amywania formacji z pik.
+
+PARAMETRY:
+
+ObraĹĽenia: 1K10 +1
+TraK0: +1
+Typ obraĹĽeĹ„: sieczne
+Waga: 12
+OpĂłĹşnienie: 9
+Rodzaj biegĹ‚oĹ›ci: miecz oburÄ™czny
+Typ broni: 2-rÄ™czna
+Wymagana siĹ‚a: 14
+~
+@660206 = ~Kolczuga jest wykonana z przeplatajÄ…cych siÄ™ metalowych kĂłĹ‚eczek. Zawsze nakĹ‚ada siÄ™ jÄ… na kubrak z pikowanego materiaĹ‚u; ma to zapobiec bolesnym otarciom i zĹ‚agodziÄ‡ siĹ‚Ä™ ciosĂłw. Magiczne wzmocnienie tej zbroi sprawia, ĹĽe zapewnia ona dodatkowÄ… ochronÄ™.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Waga: 10
+Wymagana siĹ‚a: 8
+~
+@661012 = ~Chauntea to bĂłstwo o dobrym charakterze, bogini rolnikĂłw i patronka ogrodnikĂłw, przyciÄ…ga wielu wyznawcĂłw spoĹ›rĂłd tych, ktĂłrym bliska jest ziemia. Jest ona zaciekĹ‚Ä… przeciwniczkÄ… bogĂłw natury niszczÄ…cej, jak Talos czy Auril.
+
+PARAMETRY:
+
+Specjalne:
+ Regeneruje 1 pkt. ĹĽycia co 3 sekundy
+ Raz dziennie moĹĽna uĹĽyÄ‡ medalionu: cel regeneruje 5 pkt. ĹĽycia co sekundÄ™, przez 1 turÄ™
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661014 = ~KsiÄ…ĹĽÄ™ KĹ‚amstw jest relatywnie nowym bogiem, posiadajÄ…cym zagarniÄ™te moce trzech dawniejszych bogĂłw. Intrygant i konspirator, Cyric szukaĹ‚ zjednoczenia swojej mocy wĹ›rĂłd wielu frakcji i rozĹ‚amĂłw, jednak najwiÄ™kszÄ… popularnoĹ›ciÄ… cieszy siÄ™ poĹ›rĂłd Czerwonych MagĂłw z Thay.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie pozwala rzucaÄ‡ Wielkie osĹ‚abienie, EksplodujÄ…cÄ… czaszkÄ™ i Symbol: Ĺ›mierÄ‡
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661016 = ~Wzywany przez cierpiÄ…cych i rannych, Ilmater jest nastawionym pokojowo bogiem, ktĂłry zachÄ™ca innych do znoszenia bĂłlu i obelg, dla nagrody przychodzÄ…cej do tych, ktĂłrzy czekajÄ…. Jako bĂłg cieszy siÄ™ popularnoĹ›ciÄ… zwĹ‚aszcza poĹ›rĂłd miejskiej biedoty.
+
+PARAMETRY:
+
+Specjalne:
+ +25 do maksymalnych punktĂłw ĹĽycia
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661018 = ~Pani Lasu jest silnym sojusznikiem zarĂłwno Eldatha, jak i Silvanusa. WiÄ™kszoĹ›Ä‡ z jej najbardziej zagorzaĹ‚ych zwolennikĂłw to Ĺ‚owcy, jak rĂłwnieĹĽ takie istoty leĹ›ne, jak driady, ktĂłre nie majÄ… innych bĂłstw. Moce tego medalionu wygasĹ‚y i symbol jest obecnie niczym wiÄ™cej niĹĽ hoĹ‚dem dla Pani Lasu.
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661020 = ~Mystra, Pani Tajemnic, jest boginiÄ… magii i jednym z najpotÄ™ĹĽniejszych bytĂłw w Krainach magii. Wyznawcy Mystry w czasie ostatniej dekady stali siÄ™ bardziej natarczywi i aktywni, postÄ™pujÄ…c za zmianami, ktĂłre zaszĹ‚y w samej bogini.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do rzutu obronnego przeciw czarom
+ Ustala odpornoĹ›Ä‡ na magiÄ™ na poziomie 60%
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.
+(**PamiÄ™taj, ĹĽe wyĹ‚Ä…cznie dziÄ™ki naszej Pani, Matce Wszelkiej Magii, najwspanialszej bogini, Mystrze zawdziÄ™czasz moĹĽnoĹ›Ä‡ grania w spolszczone CtB i inne modyfikacje - Gwiazdy Mystry, Grupa TĹ‚umaczy Modyfikacji do Sagi Baldur's Gate (znajdziesz nas na Forum Klanu Children of Bhaal)
+***We - the polish Translators' Group which translated i.a. both your mods - are really sorry, Charles, but we had to donate our Patron, the goddess Mystra)~
+@661022 = ~Tempus, znany jako Pan Bitew, jest bogiem wojownikĂłw, ktĂłry przenosi swojÄ… Ĺ‚askÄ™ z jednej grupy walczÄ…cych na drugÄ… w miarÄ™ postÄ™pu dziaĹ‚aĹ„ wojennych. Nagradza dzielnoĹ›Ä‡ i mÄ™stwo, a wielu wojownikĂłw zaprzysiÄ™ga na jego imiÄ™. Ta tarcza zostaĹ‚a przyozdobiona Ĺ›wiÄ™tym symbolem Tempusa: pĹ‚onÄ…cym mieczem na krwawym polu i nagradza kaĹĽdego jÄ… noszÄ…cego rĂłĹĽnymi przydatnymi w walce premiami.
+
+PARAMETRY:
+
+Klasa Pancerza: +2
+Specjalne: 
+ +1 do Klasy Pancerza przeciw broni strzeleckiej
+ +50% do odpornoĹ›ci na obraĹĽenia od pociskĂłw (broĹ„ dystansowa bÄ™dzie zadawaÄ‡ jedynie poĹ‚owÄ™ obraĹĽeĹ„)
+ +1 do siĹ‚y
+Waga: 15
+Wymagana siĹ‚a: 15
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661024 = ~Bogini Waukeen zniknÄ™Ĺ‚a podczas Czasu NiepokojĂłw i przez kilka lat jej kapĹ‚ani nie otrzymywali zaklÄ™Ä‡. Teraz posiadajÄ… je z powrotem, jednak wiÄ™kszoĹ›Ä‡ z nich sĹ‚uĹĽy obecnie takĹĽe Lliirze, a liczba wyznawcĂłw Bogini Handlu stale maleje.
+
+PARAMETRY:
+
+Specjalne:
+ +1 do charyzmy
+ Raz na dzieĹ„ tworzy 10 sztuk zĹ‚ota
+
+*Zdobywca pierwszego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies) jako reprezentant grupy podobnych przedmiotĂłw.~
+@661027 = ~Armia krĂłla Azouna ma pozornie prostÄ… misjÄ™: broniÄ‡ Cormyru. NieĹ‚atwo jÄ… jednak wykonaÄ‡. WprowadzajÄ…c w ĹĽycie krĂłlewskie sĹ‚owo, Cormyr utrzymuje ogromne staĹ‚e wojsko, ktĂłrego liczebnoĹ›Ä‡ w ostatniej dekadzie znacznie wzrosĹ‚a. NaleĹĽy do niego ponad 12 000 Purpurowych SmokĂłw (nazywanych tak od ich chorÄ…gwi) stacjonujÄ…cych w gĹ‚Ăłwnych miastach i twierdzach, 500 wojownikĂłw jazdy biegĹ‚ych we wĹ‚adaniu mieczem i Ĺ‚ukiem, dowodzonych przez 30 rycerzy dworu krĂłlewskiego. WiÄ™kszoĹ›Ä‡ elit zrzesza weteranĂłw Krucjaty przeciwko Hordzie, ktĂłrzy zazwyczaj sÄ… teĹĽ czĹ‚onkami Zgromadzenia ZĹ‚otej Drogi, co byĹ‚o nagrodÄ… za zasĹ‚ugi w wojnie.
+WaĹĽnym zadaniem Purpurowych SmokĂłw jest zagwarantowanie pokoju w caĹ‚ym krĂłlestwie Cormyru. Oznacza to ochranianie szlakĂłw wewnÄ…trz kraju przed najeĹşdĹşcami, aby kupcy i rolnicy mogli bezpiecznie powracaÄ‡ do domĂłw z swoim dobytkiem. PĂłki co, Purpurowe Smoki dobrze wykonujÄ… swojÄ… misjÄ™. OczywiĹ›cie, nie mogÄ… byÄ‡ w wielu miejscach jednoczeĹ›nie, zawsze istnieje wiÄ™c groĹşba przypadkowego ataku bandytĂłw, ale krĂłlestwo sĹ‚ynie z bezpieczeĹ„stwa.
+Do obowiÄ…zkĂłw Purpurowych SmokĂłw naleĹĽy teĹĽ zapobieganie wybuchom powstaĹ„ w kraju. Dotychczas, tylko w jednym wypadku wojownicy byli zmuszeni do stĹ‚umienia rewolucji, gdy bez rozlewu krwi poĹ‚oĹĽyli kres buntowi Gondegala.
+
+PARAMETRY:
+
+Klasa Pancerza: +2
+Specjalne:
+ +1 do Klasy Pancerza przeciw broniom siecznym
+Waga: 7
+Wymagana siĹ‚a: 12
+
+*Zdobywca drugiego miejsca nagrody LpCtB '04 (Loteria przedmiototwĂłrcza Check the Bodies).~

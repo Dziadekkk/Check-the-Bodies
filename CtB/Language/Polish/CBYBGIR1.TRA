@@ -1,0 +1,114 @@
+@1   = ~<GABBER>! Cieszę się, że mnie znalazłeś. Szybko, nie mamy dużo czasu.~ ~<GABBER>! Cieszę się, że mnie znalazłaś. Szybko, nie mamy dużo czasu.~
+@2   = ~Nie mogę tu długo zostać, zauważą, że wychodzę zaraz po twoim wejściu.~
+@3   = ~Dobrze. Jestem. Czego ode mnie potrzebujesz?~
+@4   = ~Przyszedłem tylko dać ci twoją statuę. Nie potrzebuję ani jej, ani ciebie.~ ~Przyszłam tylko dać ci twoją statuę. Nie potrzebuję ani jej, ani ciebie.~
+@5   = ~Słuchaj, nie zamierzam ryzykować życia, ani swojego, ani kogokolwiek innego, za sprawę, o której nic nie wiem.~
+@6   = ~Wiem. <GABBER>, wiem, jak się teraz czujesz. Ale proszę, potrzebuję twojej pomocy. Wysłuchaj mnie chociaż.~
+@7   = ~Nie mam czasu, by ci pomagać. Będziesz musiała znaleźć kogoś innego.~
+@8   = ~Poświęcę ci chwilę, ale nie obiecuję, że pomogę. Może powiesz w końcu, o co chodzi?~
+@9   = ~Dobrze. Pomogę ci. Czego potrzebujesz?~
+@10  = ~Nie wiem, czy to mi się uda. Ale skoro ty nie możesz mi pomóc, będę musiała znaleźć innego poszukiwacza przygód. Mam nadzieję, że wybaczysz mi kłopot.~
+@11  = ~Ani ja. <GABBER>, ani ja. Ale okoliczności zmusiły mnie do podjęcia działań, a nie odniosę sukcesu bez pomocy. Dlatego zwróciłam się do ciebie.~
+@12  = ~To po części moja wina, bo zaufałam komuś, kto omamił mnie pozorami szlachetnych zamiarów.~
+@13  = ~Okropnie się pomyliłam, a teraz nie wiem, co począć.~
+@14  = ~Wszyscy popełniamy błędy. Powiedz mi, w czym tkwi problem i jak mogę ci pomóc.~
+@15  = ~Chyba wpakowałaś się w niezłą kabałę. Nie wiem, czy chcę się w to mieszać.~
+@16  = ~Wiem. <GABBER>, wiem, że ci się to nie podoba. Ale proszę, potrzebuję twojej pomocy. Wysłuchaj mnie chociaż.~
+@17  = ~Dziękuję. Mam nadzieję, że zechcesz mi pomóc, kiedy poznasz całą historię.~
+@18  = ~Dobrze, postaram się, jak najzwięźlej wyjaśnić ci wszystko od początku.~
+@19  = ~Jak wspominałam, param się magią. Co prawda nie używam jej za często w praktyce, bo o wiele bardziej interesują mnie naukowe badania nad jej istotą – magiczne przedmioty, traktaty, artefakty. Zazwyczaj podchodziłam do swoich eksperymentów z dużym dystansem, aby zachować profesjonalny punkt widzenia. Dzieliłam się zdobytą wiedzą z tymi, którzy o nią prosili i jej potrzebowali. Nigdy nie wątpiłam w swoje umiejętności jako naukowca, nigdy też nie kwestionowałam własnej etyki, aż do wydarzenia sprzed kilku miesięcy. To wtedy przyszedł do mnie mag o imieniu Khaddyr, prosząc o udzielenie mu dokładnych informacji o pewnych mało znanych zaklęciach, a ja, jako profesjonalistka, pomogłam mu najlepiej, jak potrafiłam.~
+@20  = ~Nie wiedziałam, dlaczego Khaddyr chciał informacji o takich czarach, ani nie starałam się dostrzec oczywistych związków. Przewodniczyłam zleconym przez Khaddyra badaniom przez kilka miesięcy, ale dopiero niedawno odkryłam, jak mi się wydaje, rzeczywisty powód, dla którego chce on posiąść wiedzę o tych konkretnych zaklęciach i artefaktach, które je mogą wzmocnić.~
+@21  = ~<GABBER>, słyszałeś kiedykolwiek o Wiecznotrwałości bądź jakichkolwiek teoriach magicznych z nią się wiążących?~
+@22  = ~Nie wydaje mi się. Co oznacza ten termin?~
+@23  = ~Gdzieś słyszałem to słowo, jednak niewiele pamiętam. Wyjaśnij mi to.~ ~Gdzieś słyszałam to słowo, jednak niewiele pamiętam. Wyjaśnij mi to.~
+@24  = ~Tak, wiem, co to Wiecznotrwałość. Kontynuuj.~
+@25  = ~Wiecznotrwałość to stosunkowo stara teoria, zakładająca, że biegły mag, dysponując właściwą ilością energii, może czerpać siły życiowe z innych istot. Łącząc je potem ze swoimi, co dotychczas udało się tylko jednej osobie, ów mag mógłby stać się praktycznie równy bogom.~
+@26  = ~Karsus próbował Wiecznotrwałości przed upadkiem Netherilu. Spróbował użyć wynalezionego przez siebie czaru, Awataru Karsusa, jednak odniósł porażkę, której skutki długo były odczuwalne. Nie tylko trwale rozerwał Splot, ale także uśmiercił tysiące podczas rzucania zaklęcia i potem, kiedy spadło unoszące się wysoko nad ziemią miasto Krasusa. Jeszcze większe niebezpieczeństwa sprowadziła nad Krainy śmierć Mystryl, poprzedniczki Mystry, która, chcąc uniknąć całkowitej zagłady świata, większość swej siły tchnęła w śmiertelniczkę, a jej resztę poświęciła na odbudowanie Splotu. Moce Mystral nadały cielesną postać Mystrze. To była pierwsza próba zastosowania Wiecznotrwałości, stała się ona prekursorką dla współczesnych szkół magii tajemnej, druga nastąpiła tysiące lat później, w mniej niż rok po twoim narodzeniu. Podjęła się jej sama Mystra, za co została zabita przez Helma w Skalistych Ziemiach w Cormyrze. Do dziś, choć minęło wiele lat, odczuwamy bolesne skutki tych prób.~
+@27  = ~Teraz już znasz skutki i zagrożenia Wiecznotrwałości.~
+@28  = ~Teraz masz świadomość tego, jak wielkie niebezpieczeństwo niesie ze sobą stosowanie Wiecznotrwałości.~
+@29  = ~Kiedy rozpoczynałam swoje badania dla Khaddyra, nie miałam o tym pojęcia, jednak po zagłębieniu się w starożytne księgi, oczywiste stały się dla mnie powody jego pytań.~
+@30  = ~Jestem pewna, że próbuje on wynaleźć własne zaklęcie Wiecznotrwałości.~
+@31  = ~Skąd to przekonanie?~
+@32  = ~Jakiego rodzaju czarów mógłby użyć, by tego dokonać?~
+@33  = ~W każdym przypadku, o jakim mi wiadomo, mieszanie się w sprawy dotyczące Wiecznotrwałości kończyło się nie najlepiej dla zaangażowanych. Czemu nie pozwolić mu na wynalezienie odpowiedniego czaru i poczekać na skutki?~
+@34  = ~Nie można dopuścić, by ktokolwiek przeprowadził rytuał Wiecznotrwałości. Co mogę zrobić?~
+@35  = ~<GABBER>, jest wiele wskazówek, ale najbardziej przekonywujące jest to, że Khaddyr kazał mi znaleźć bardzo, ale to bardzo konkretne informacje: jedną z nich były sposoby skojarzenia potężnej magii z niedawno odkrytym artefaktem: Rogatą koroną. Ta ciekawość sama w sobie powinna dać mi do myślenia, a to nie wszystko.~
+@36  = ~<GABBER>, Khaddyr zdobył pewien artefakt, który polecił mi zbadać. Nie pozwolił mi go ani dotknąć, ani użyć żadnych czarów dla poznania jego właściwości. Jednakże, odkryłam, czym jest ten przedmiot. Został on wspomniany tylko w jednym z moich tekstów, a nawet ta wzmianka była bardzo mglista. Dokładnie pamiętam jej słowa – na zawsze wyryły się w moim umyśle – i nigdy ich nie zapomnę:
+
+	Tendo fio posterus, nex vadum reign;
+	dum viscus est demented, phasmatis subsisto sanus.
+	Temerarius dico quod permissum vox exsisto emanio;
+	a novus universitas fio, ut verto est fed.~
+@37  = ~Co to znaczy?~
+@38  = ~<GABBER>, te słowa we wspólnym brzmią:
+
+"Teraźniejszość staje się przyszłością, niechaj króluje śmierć;
+choć ciało ogarnia szaleństwo, trzeźwy pozostanie duch.
+Wysłuchaj zatem wezwania i głoś wszędzie te słowa;
+kiedy przemiana się skończy, nastanie nowy świat."~
+@39  = ~Nie wiąże się to z żadnymi konkretnymi czarami, <GABBER>. Bardziej z artefaktem, który niedawno został odnaleziony: Rogatą koroną, i zastosowaniem potężnej magii. Widzisz, Khaddyr prosił mnie o zbadanie konkretnych informacji: a dokładnie, możliwości skojarzenia potężnej magii z niedawno odkrytym artefaktem: Rogatą koroną. Ta ciekawość sama w sobie powinna dać mi do myślenia, a to nie wszystko.~
+@40  = ~Powinnam była zareagować, ale nie tak dawno Khaddyr przyniósł mi pewien przedmiot. Potężny artefakt, który niedawno odnalazł. Wierzę, że to była Korona... Kazał mi ją zbadać, choć nie pozwolił mi jej ani dotknąć, ani użyć żadnych czarów dla poznania jej właściwości. Jednakże, odkryłam, czym jest ten artefakt. Został on wspomniany tylko w jednym z moich tekstów, a nawet ta wzmianka była bardzo mglista. Dokładnie pamiętam jej słowa – na zawsze wyryły się w moim umyśle – i nigdy ich nie zapomnę:
+
+	Tendo fio posterus, nex vadum reign;
+	dum viscus est demented, phasmatis subsisto sanus.
+	Temerarius dico quod permissum vox exsisto emanio;
+	a novus universitas fio, ut verto est fed.~
+@41  = ~<GABBER>, wiesz tak dobrze, jak ja, że kiedy w grę wchodzi magia, niczego nie powinno się pozostawiać przypadkowi. Praktycznie każde użycie Wiecznotrwałości skutkowało zniszczeniem. Czemu mielibyśmy przypuszczać, że teraz będzie inaczej? Być może się mylę, ale nie chcę nawet myśleć o ewentualnych konsekwencjach, jeśli Khaddyrowi się powiedzie. A mam podstawy sądzić, że tym razem, szanse na sukces są o wiele większe.~
+@42  = ~Niedawno odkryłam coś, co może znacznie zwiększyć szanse Khaddyra na sukcesywne przeprowadzenie rytuału Wiecznotrwałości. Powinnam była już wtedy zareagować, ale chyba byłam naiwna. Mag przyniósł mi pewien artefakt, który sam odnalazł, nie znał jednak jego historii ani właściwości. Był potężny, a mnie nie wolno było go dotykać, czy rzucać na niego czarów. Kazał mi go zbadać, lecz w moich księgach oraz dokumentach z Candlekeep i Silverymoon udało mi się odnaleźć tylko jedną, samotną wzmiankę na ten temat, a nawet ona była mglista. Wierzę, że artefakt, który Khaddyr odnalazł, to Rogata korona. Nigdy nie zapomnę słów, którymi była ona opisana – wypaliły się w moim wnętrzu na zawsze:
+	
+	Tendo fio posterus, nex vadum reign;
+	dum viscus est demented, phasmatis subsisto sanus.
+	Temerarius dico quod permissum vox exsisto emanio;
+	a novus universitas fio, ut verto est fed.~
+@43  = ~Nietrudno zrozumieć znaczenie tych słów, jeśli się zorientuje, że opisują skutki Wiecznotrwałości: śmierć wielu, wielu dusz, służących za pożywienie temu, kto dopełnia rytuału, aby samemu stać się wszechpotężnym duchem.~
+@44  = ~<GABBER>. Rozumiem zatem, jak trudno to pojąć. Wiem, że w ułamku sekundy nie możesz podjąć decyzji, ale potrzebuję twojej pomocy. Wszyscy jej potrzebujemy. Khaddyr nie może osiągnąć sukcesu, nie, nie może spróbować przeprowadzić Wiecznotrwałości. My - ty: <GABBER>, nie możesz pozwolić, aby to się stało.~
+@45  = ~No nie wiem. Prosisz o wiele. Obawiam się, że mogę zawieść.~
+@46  = ~Chciał<HESHE>bym ci pomóc, Eleonoro, ale nie mogę wystawiać się na takie niebezpieczeństwo za darmo.~
+@47  = ~Nie mogę. Nie mogę tego zrobić. Musisz znaleźć kogoś innego.~
+@48  = ~W porządku. Ktoś musi powstrzymać tego maga. Gdzie znajdę tego Khaddyra?~
+@49  = ~<GABBER>, jeśli zamierzasz podjąć się walki z magiem, musisz bardziej wierzyć w swoje umiejętności. Nie szukałabym cię, gdybyś nie był<HESHE> w stanie sprostać temu zadaniu. Proszę, pomożesz mi?~
+@50  = ~<GABBER>, jestem tylko uczoną. Ten płaszcz i te buty, to wszystko, co posiadam. Ja nie mogę zaoferować ci żadnych dóbr materialnych, choć nie będziesz wykonywać tego zadania całkowicie bez korzyści.~
+@51  = ~Pokonując Khaddyra zdobędziesz potężne przedmioty i zaklęcia, a duma, jakiej przysporzy ci świadomość, że znów przyczyniłeś się do pokonania zła, które zagrażało Krainom, to więcej, niż ja mogłabym ci kiedykolwiek dać.~ ~Pokonując Khaddyra zdobędziesz potężne przedmioty i zaklęcia, a duma, jakiej przysporzy ci świadomość, że znów przyczyniłaś się do pokonania zła, które zagrażało Krainom, to więcej, niż ja mogłabym ci kiedykolwiek dać.~
+@52  = ~Oczywiście, pokonując Khaddyra ty i twoi przyjaciele zdobędziecie potężne przedmioty i zaklęcia, a duma, jakiej przysporzy wam świadomość, że znów przyczyniliście się do pokonania zła, które zagrażało Krainom, to więcej, niż ja mogłabym wam kiedykolwiek dać.~
+@53  = ~Proszę cię o pomoc nie dlatego, że szukam najemnika, apeluję do twojego honoru i dobroci. Nie jest to zadanie, które wykonasz dla mnie, ale dzięki któremu ocalisz wszystkich mieszkańców Krain.~
+@54  = ~Skoro nie możesz mi pomóc, nie mam wyboru, muszę znaleźć kogoś innego. Dziękuję, że zgodziłeś się mnie wysłuchać i modlę się, abyś przeżył tragedię, która nastąpi, jeśli Khaddyrowi się powiedzie.~ ~Skoro nie możesz mi pomóc, nie mam wyboru, muszę znaleźć kogoś innego. Dziękuję, że zgodziłaś się mnie wysłuchać i modlę się, abyś przeżyła tragedię, która nastąpi, jeśli Khaddyrowi się powiedzie.~
+@55  = ~Nie mogłeś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma laboratorium w lochach poniżej Wzgórz Wichrowych Włóczni.~ ~Nie mogłaś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma laboratorium w lochach poniżej Wzgórz Wichrowych Włóczni.~
+@56  = ~Wiesz już, gdzie są Wzgórza, więc nie powinieneś mieć żadnych problemów.~ ~Wiesz już, gdzie są Wzgórza, więc nie powinnaś mieć żadnych problemów.~
+@57  = ~Zaznaczę to miejsce na twojej mapie. Teraz nie powinieneś mieć problemów, by tam trafić.~ ~Zaznaczę to miejsce na twojej mapie. Teraz nie powinnaś mieć problemów, by tam trafić.~
+@58  = ~Nie mogłeś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma laboratorium w lochach na północ od małej wioski Imnesvale, na Wzgórzach Umar.~ ~Nie mogłaś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma laboratorium w lochach na północ od małej wioski Imnesvale, na Wzgórzach Umar.~
+@59  = ~Zaznaczę te ruiny na twojej mapie. Teraz nie powinieneś mieć problemów, by tam trafić.~ ~Zaznaczę te ruiny na twojej mapie. Teraz nie powinnaś mieć problemów, by tam trafić.~
+@60  = ~Nie mogłeś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma sekretne laboratorium, znajdujące się pod ogromną łąką na północny-wschód od Brost, małej wioski w okolicy lasu Tethyr.~ ~Nie mogłaś mi zadać prostszego pytania. Kiedy Khaddyr mnie wynajął, powiedział mi także, gdzie mogę go znaleźć. <GABBER>, Khaddyr ma sekretne laboratorium, znajdujące się pod ogromną łąką na północny-wschód od Brost, małej wioski w okolicy lasu Tethyr.~
+@61  = ~Zaznaczę ją na twojej mapie. Teraz nie powinieneś mieć problemów, by tam trafić.~ ~Zaznaczę ją na twojej mapie. Teraz nie powinnaś mieć problemów, by tam trafić.~
+@62  = ~Dobrze. <GABBER>, cieszę się, że przynajmniej spróbujesz. Postaram się zrobić co w mojej mocy, by jak najlepiej ci pomóc. Pewnie domyślasz się już, że Khaddyr jest potężnym magiem. W dodatku, nigdy nie wiedziałam go bez przynajmniej sześciu najemników, którzy mają za zadanie go ochraniać. Sądzę, że najkorzystniejszym wyjściem jest użycie podstępu, choć nie będzie to łatwe.~
+@63  = ~Mogę ci pomóc. Mam plan. Pójdziesz za moją radą, albo zrobisz to, co sam<HESHE> uważasz za słuszne. Możemy skopiować artefakt i tym duplikatem zastąpić Rogatą koronę, a następnie zniszczyć oryginał. Unikniemy ryzyka, że Khaddyr dokona rytuału Wiecznotrwałości, zanim zdążysz go powstrzymać.~
+@64  = ~Skopiowanie Rogatej korony nie jest trudne, potrzebowałabym tylko kilku składników i jednego zaklęcia. Mogę powiedzieć ci, czego potrzebuję, a kiedy dostarczysz mi ingrediencje, zrobię falsyfikat. Jeśli przyniesiesz mi Koronę, łatwo ją zniszczę.~
+@65  = ~To dobry plan, Eleonoro. Spróbujmy. Czego potrzebujesz, żeby zrobić kopię?~
+@66  = ~Nie, Eleonoro, to brzmi zbyt ryzykownie. Siłą odbiorę Khaddyrowi Koronę. Potem przyniosę ją do ciebie, a ty ją zniszczysz.~
+@67  = ~<GABBER>, nie podoba mi się to, ale to twój wybór. Pozwól mi jednak wytłumaczyć, czego potrzebuję do zrobienia falsyfikatu, na wypadek gdyby twój plan zawiódł.~
+@68  = ~Do zrobienia kopii Rogatej korony potrzebuję tylko kilku składników. Każdy z nich jest często spotykany, ale nie wiem, gdzie dokładnie ich szukać. Po pierwsze, potrzebujemy diamentu, nieważne jakiej jakości i wielkości. Poza tym, przyda się Mikstura ochrony przed magią, dzięki której Khaddyr nie pozna się na falsyfikacie. Niezbędny będzie także nefryt, który dzięki swoim magicznym właściwościom jest powszechnie używany. Na koniec będę potrzebowała zwoju Zaklętej broni, by ten czar rzucić na kopię.~
+@69  = ~Gdybyś zebrał i przyniósł mi te rzeczy, stworzenie kopii Rogatej korony zajęłoby mi zaledwie kilka godzin.~ ~Gdybyś zebrała i przyniosła mi te rzeczy, stworzenie kopii Rogatej korony zajęłoby mi zaledwie kilka godzin.~
+@70  = ~To chyba wszystko, co miałam ci do powiedzenia. Masz jakieś pytania?~
+@71  = ~Nie, Eleonoro. Postaram się uporać z tym jak najszybciej. Lepiej, żeby Khaddyr nie zdążył nawet spróbować przeprowadzić rytuału Wiecznotrwałości.~
+@72  = ~Dobrze. <GABBER>, zbyt długo tu tkwię. Muszę uciekać. Spotkajmy się ponownie w Athkatli. Tam cię odnajdę.~
+@73  = ~Powodzenia. Przyda się ono nam wszystkim.~
+@74  = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach pod Wzgórzami Wichrowych Włóczni, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@75  = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach nieopodal Wzgórz Umar, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@76  = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać na łące nieopodal lasu Tethyr, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@77  = ~O elfach i artefaktach
+
+Kiedy przemierzaliśmy Dzielnicę Mostów nieznana elfka podeszła do mnie z dającym się zauważyć niepokojem. Nic nie powiedziała, jednak ukradkiem wsunęła do mojego ekwipunku małą statuetkę. Nie wiem jednak zarówno dlaczego, jak i jakie właściwości ma ten posążek. Powinniśmy to zbadać, a być może ta elfka poprowadzi nas ku kolejnej przygodzie.~
+@78  = ~O elfach i artefaktach
+
+Otrzymana od pewnej elfki w Dzielnicy Mostów statuetka została zidentyfikowana, a magiczna wiadomość w niej przechowywana - odsłuchana. Głos, niewątpliwie elfi, chociaż przepełniony obawą i grozą, nie obfitował we wskazówki odnośnie przygody, o której wspominał. Wiem jedynie, że elfka ta może znajdować się w niebezpieczeństwie - jak, zgodnie z jej słowami, również całe Wybrzeże Mieczy - i, jeśli zdecyduję się z nią spotkać w Świątyni Waukeen w Targowie, postara się wytłumaczyć mi to dokładniej. Być może tak właśnie uczynię, jednak wcześniej wypadałoby zebrać o niej trochę informacji.~

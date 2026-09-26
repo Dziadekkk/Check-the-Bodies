@@ -1,0 +1,102 @@
+@1   = ~Przepraszam... Hej! Przepraszam najmocniej. Wyglądasz na wykwalifikowanego maga. Mógłbyś potwierdzić, czy rzeczywiście nim jesteś?~ ~Przepraszam... Hej! Przepraszam najmocniej. Wyglądasz na wykwalifikowaną magiczkę. Mogłabyś potwierdzić, czy rzeczywiście nią jesteś?~
+@2   = ~Tak, jestem magiem. Czemu pytasz?~ ~Tak, jestem magiczką. Czemu pytasz?~
+@3   = ~Nie, przykro mi, musiała zajść jakaś pomyłka.~
+@4   = ~Naprawdę? Jesteś magiem? W takim razie może będziesz w stanie mi pomóc.~ ~Naprawdę? Jesteś magiczką? W takim razie może będziesz w stanie mi pomóc.~
+@5   = ~Czy nie masz nic przeciwko? To znaczy, czy mógłbyś mi pomóc?~ ~Czy nie masz nic przeciwko? To znaczy, czy mogłabyś mi pomóc?~
+@6   = ~Oczywiście. Pomogę ci. Powiedz mi, czego ci trzeba.~
+@7   = ~Nie, nie mogę ci pomóc.~
+@8   = ~Mogę ci pomóc, ale nie w tej chwili. Zaczekaj tutaj, niedługo wrócę.~
+@9   = ~Mam już dość pomagania ludziom. Nie zamierzam już nigdy więcej nikomu pomagać, zostaw mnie proszę w spokoju.~
+@10  = ~Słyszałem, że niektórzy magowie potrafią skontaktować się ze zmarłymi. Wiem, że to prawda, pozwól zatem, że wyjaśnię, na czym polega mój problem.~
+@11  = ~Rzecz w tym, że niedawno zmarł jeden z moich krewnych, drogi wujek Staszek, a ja jestem rzecz jasna niezwykle zasmucony odejściem tak zacnego człowieka.~
+@12  = ~Bardzo tęsknię za wujkiem Staszkiem, byliśmy sobie bardzo bliscy. Wiem, że wujek również mnie kochał i troszczył się o mnie. Pewnego dnia powiedział mi - zanim umarł, ma się rozumieć - że zostawi mi w spadku swój majątek.~
+@13  = ~Problem w tym, że urzędnicy miejscy podchodzą do takich spraw zdecydowanie zbyt biurokratycznie, dlatego wujek Staszek musiał sporządzić oficjalny testament. Teraz, kiedy odszedł, władze nie chcą się zgodzić, żebym zobaczył kopię testamentu.~
+@14  = ~Wujek Staszek był dobrym człowiekiem, ale miał swoje dziwactwa, jeśli chodzi o zarządzanie pieniędzmi. Bardzo obawiał się złodziei, oszustów i poborców podatkowych, dlatego ukrył swoje oszczędności. Wiem, że wujek pozostawił mi w spadku cały swój majątek, ale pieniądze ukrył na tyle skutecznie, że nie mogę ich znaleźć, ani w jego domu, ani nigdzie w mieście. Jestem pewien, że w testamencie wujek zostawił wskazówki, odnośnie lokalizacji pieniędzy - oczywiście nie dosłowne, ale zaszyfrowane.~
+@15  = ~Chodziło o to, żeby osoby czytające testament musiały się dobrze nagłowić przed odnalezieniem pieniędzy. Wujek Staszek był bogaty, jednak po jego śmierci, z uwagi na to, że nie mogę zobaczyć testamentu, nie dostałem ani grosza. Wydaje mi się, że urzędnicy będą próbowali ustalić, gdzie wujek mógł ukryć pieniądze, ale nie sądzę, żeby im się to udało.~
+@16  = ~Muszę więc odszukać miejsce ukrycia skarbu, zanim zrobią to urzędnicy, ale nie mogę zobaczyć testamentu, dlatego nie będę mógł rozszyfrować kodu.~
+@17  = ~Wygląda to na zadanie dla kogoś, kto lepiej orientuje się w prawie. Myślę, że powinieneś zatrudnić prawnika, nie maga.~
+@18  = ~Co wobec tego chciałbyś, żebym zrobił?~ ~Co wobec tego chciałbyś, żebym zrobiła?~
+@19  = ~Naprawdę myślisz, że zamierzam wyruszyć na poszukiwanie pieniędzy twojego wujka? To jak szukanie wiatru w polu...~
+@20  = ~Tak, tak, zgadza się. Zrobiłbym to, gdybym chciał zmusić urzędników do wydania mi kopii testamentu.~
+@21  = ~Nie chcę dawać urzędnikom żadnego powodu do przyspieszenia poszukiwań pozostawionych przez wujka pieniędzy, dlatego nie zamierzam oficjalnie domagać się wydania mi testamentu. Obmyśliłem inny plan, ale brakuje mi umiejętności, by zrealizować go na własną rękę.~
+@22  = ~Głównym założeniem planu jest znalezienie maga, który przyzwałby ducha wujka Staszka. Słyszałem, że potężni magowie są w stanie to uczynić. Wtedy mógłbym porozmawiać z wujkiem i uzyskać wskazówki, co do miejsca ukrycia skarbu.~
+@23  = ~Brzmi całkiem rozsądnie. To prawda, że niektórzy magowie - i niektórzy kapłani, jeśli już przy tym jesteśmy - potrafią rozmawiać z umarłymi, jednak muszą znać odpowiednie zaklęcie albo posiadać zwój, dzięki któremu mogliby je rzucić. Ja nie znam zaklęcia Rozmowy ze zmarłym, nie posiadam też takiego zwoju.~
+@24  = ~Czy istnieje jakiś sposób na nauczenie się tego zaklęcia? Może dałoby się znaleźć gdzieś ten zwój?~
+@25  = ~Postaram się to uczynić, jednak nie mam pojęcia, kto mógłby posiadać kopię zwoju, ani czy ktoś taki przebywa w ogóle w mieście. Zaczekaj proszę tutaj. Jeśli uda mi się znaleźć zwój, wrócę tu i pomogę ci skontaktować się z wujkiem.~
+@26  = ~Nie wiem, gdzie miałbym go szukać. Czy znasz kogoś, kto mógłby sprzedać mi to zaklęcie?~ ~Nie wiem, gdzie miałabym go szukać. Czy znasz kogoś, kto mógłby sprzedać mi to zaklęcie?~
+@27  = ~Nie sądzę, żebym znalazł czas na szukanie tego zaklęcia. Będziesz musiał znaleźć kogoś innego, kto mógłby je rzucić, żeby skontaktować się z twoim wujkiem. Przykro mi.~ ~Nie sądzę, żebym znalazła czas na szukanie tego zaklęcia. Będziesz musiał znaleźć kogoś innego, kto mógłby je rzucić, żeby skontaktować się z twoim wujkiem. Przykro mi.~
+@28  = ~Uczyniłbyś mi wielką przysługę. Na pewno wiesz o magii o wiele więcej niż ja, jednak z tego co wiem, zwój będzie potrzebny do rzucenia zaklęcia. Bądź proszę ostrożny, bo być może uda ci się znaleźć tylko jedną kopię tego zwoju.~ ~Uczyniłabyś mi wielką przysługę. Na pewno wiesz o magii o wiele więcej niż ja, jednak z tego co wiem, zwój będzie potrzebny do rzucenia zaklęcia. Bądź proszę ostrożna, bo być może uda ci się znaleźć tylko jedną kopię tego zwoju.~
+@29  = ~Nie znam nikogo, kto sprzedawałby tego typu przedmioty. Wiesz o magii o wiele więcej niż ja, więc na pewno znajdziesz takiego kogoś szybciej. Wiem tylko, że zwój będzie potrzebny do rzucenia zaklęcia, dlatego bądź ostrożny, bo być może uda ci się znaleźć tylko jedną kopię. Jeśli zdecydujesz się wyruszyć na poszukiwania, ja zaczekam tutaj. Kiedy znajdziesz zaklęcie, zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~ ~Nie znam nikogo, kto sprzedawałby tego typu przedmioty. Wiesz o magii o wiele więcej niż ja, więc na pewno znajdziesz takiego kogoś szybciej. Wiem tylko, że zwój będzie potrzebny do rzucenia zaklęcia, dlatego bądź ostrożna, bo być może uda ci się znaleźć tylko jedną kopię. Jeśli zdecydujesz się wyruszyć na poszukiwania, ja zaczekam tutaj. Kiedy znajdziesz zaklęcie, zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~
+@30  = ~Zaczekam zatem tutaj, aż znajdziesz czas na poszukanie zwoju i wrócisz, żeby rzucić zaklęcie. Wiesz o magii o wiele więcej niż ja, więc na pewno szybciej znajdziesz kogoś, kto sprzedałby ci zwój. Wiem tylko, że zwój będzie potrzebny do rzucenia zaklęcia, dlatego bądź ostrożny, bo być może uda ci się znaleźć tylko jedną kopię. Jeśli zdecydujesz się wyruszyć na poszukiwania, ja zaczekam tutaj. Kiedy znajdziesz zaklęcie, zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~ ~Zaczekam zatem tutaj, aż znajdziesz czas na poszukanie zwoju i wrócisz, żeby rzucić zaklęcie. Wiesz o magii o wiele więcej niż ja, więc na pewno szybciej znajdziesz kogoś, kto sprzedałby ci zwój. Wiem tylko, że zwój będzie potrzebny do rzucenia zaklęcia, dlatego bądź ostrożna, bo być może uda ci się znaleźć tylko jedną kopię. Jeśli zdecydujesz się wyruszyć na poszukiwania, ja zaczekam tutaj. Kiedy znajdziesz zaklęcie, zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~
+@31  = ~Nie ma potrzeby, żebyś osobiście przeszukiwał całe miasto, nie dysponując żadnymi wskazówkami. Nie, mam inny plan, ale brakuje mi umiejętności, żeby zrealizować go samodzielnie.~ ~Nie ma potrzeby, żebyś osobiście przeszukiwała całe miasto, nie dysponując żadnymi wskazówkami. Nie, mam inny plan, ale brakuje mi umiejętności, żeby zrealizować go samodzielnie.~
+@32  = ~Nie mam wielkiego wyboru. Byłoby naprawdę miło, gdybyś zdecydował się mi pomóc. Zaczekam tutaj, na wypadek gdybyś zmienił zdanie odnośnie udzielenia mi pomocy.~ ~Nie mam wielkiego wyboru. Byłoby naprawdę miło, gdybyś zdecydowała się mi pomóc. Zaczekam tutaj, na wypadek gdybyś zmieniła zdanie odnośnie udzielenia mi pomocy.~
+@33  = ~Zrobię, jak powiedziałeś, zaczekam tutaj. Daj mi znać, gdybyś zdecydował się mi pomóc.~ ~Zrobię, jak powiedziałaś, zaczekam tutaj. Daj mi znać, gdybyś zdecydowała się mi pomóc.~
+@34  = ~Nie chciałem cię denerwować. Pomyślałem tylko, że być może mógłbyś mi pomóc. Przepraszam za zamieszanie. Bywaj zdrów.~ ~Nie chciałem cię denerwować. Pomyślałem tylko, że być może mogłabyś mi pomóc. Przepraszam za zamieszanie. Bywaj zdrowa.~
+@35  = ~W takiej sytuacji przepraszam za kłopot. Nie będziesz mógł mi pomóc. Życzę dobrego dnia, panie.~ ~W takiej sytuacji przepraszam za kłopot. Nie będziesz mogła mi pomóc. Życzę dobrego dnia, pani.~
+@36  = ~Wróciłeś. Czy zdecydowałeś się jednak mi pomóc?~ ~Wróciłaś. Czy zdecydowałaś się jednak mi pomóc?~
+@37  = ~Pamiętam, jak mówiłeś, że mógłbyś poszukać zaklęcia, które pozwoliłoby mi porozmawiać z wujkiem Staszkiem. Czy udało ci się je znaleźć?~ ~Pamiętam, jak mówiłaś, że mogłabyś poszukać zaklęcia, które pozwoliłoby mi porozmawiać z wujkiem Staszkiem. Czy udało ci się je znaleźć?~
+@38  = ~Nie, przykro mi, jeszcze nie. Cały czas szukam. Zaczekaj tutaj.~
+@39  = ~Nie zacząłem go nawet szukać. Nie sądzę, żeby przywoływanie twojego wujka z krainy umarłych było dobrym pomysłem.~ ~Nie zaczęłam go nawet szukać. Nie sądzę, żeby przywoływanie twojego wujka z krainy umarłych było dobrym pomysłem.~
+@40  = ~Tak, Rybergu, znalazłem zwój. Stań nieco z boku, a ja przywołam twojego wujka.~ ~Tak, Rybergu, znalazłam zwój. Stań nieco z boku, a ja przywołam twojego wujka.~
+@41  = ~Masz szczęście, Rybergu. Znalazłem zwój zaklęcia Rozmowy ze zmarłymi, nie sądzę jednak, żeby przywoływanie twojego wujka z krainy umarłych było dobrym pomysłem.~ ~Masz szczęście, Rybergu. Znalazłam zwój zaklęcia Rozmowy ze zmarłymi, nie sądzę jednak, żeby przywoływanie twojego wujka z krainy umarłych było dobrym pomysłem.~
+@42  = ~Zapomniałem, o co mnie prosiłeś.~ ~Zapomniałam, o co mnie prosiłeś.~
+@43  = ~Tak, Rybergu, znalazłem zwój. Nie możemy jednak rzucić zaklęcia tutaj, z uwagi na moc, która może się przy okazji uwolnić.~ ~Tak, Rybergu, znalazłam zwój. Nie możemy jednak rzucić zaklęcia tutaj, z uwagi na moc, która może się przy okazji uwolnić.~
+@44  = ~Proszę, naprawdę muszę się dowiedzieć, gdzie wujek Staszek ukrył swoje pieniądze. Jeśli uda ci się znaleźć jakiś sposób na porozmawianie z moim wujkiem, wróć proszę, będę tu czekał.~
+@45  = ~Oczywiście, magu, odsunę się, żebyś mógł rzucić zaklęcie.~ ~Oczywiście, magiczko, odsunę się, żebyś mógł rzucić zaklęcie.~
+@46  = ~Wiem, że prosiłem cię o pomoc, a ty zrobiłeś dla mnie bardzo wiele, jednak jeśli nie chcesz rzucić zaklęcia, pozwól mi zabrać zwój i poszukać kogoś, kto zechciałby go użyć.~ ~Wiem, że prosiłem cię o pomoc, a ty zrobiłaś dla mnie bardzo wiele, jednak jeśli nie chcesz rzucić zaklęcia, pozwól mi zabrać zwój i poszukać kogoś, kto zechciałby go użyć.~
+@47  = ~Niech tak będzie, Rybergu. Oto zwój.~
+@48  = ~Nie, Rybergu. Igranie z mocami śmierci zawsze niesie za sobą konsekwencje. Dobrze ci życzę, dlatego nie pozwolę ci zatrzymać tego zwoju.~
+@49  = ~Igranie z mocami śmierci zawsze niesie za sobą konsekwencje, Rybergu. Nie mogę pozwolić na to, żeby obcy mi człowiek, który może nie posiadać wystarczających umiejętności, próbował użyć tego zwoju. Zrobię to samodzielnie, aczkolwiek niechętnie.~
+@50  = ~Dziękuję za pomoc. Szkoda, że nie chciałeś użyć zwoju, rozumiem jednak, że rzucenie tego zaklęcia mogło przekraczać twoje możliwości. Mam nadzieję, że uda mi się znaleźć kogoś, kto rzuciłby dla mnie zaklęcie. Życzę dobrego dnia, panie.~ ~Dziękuję za pomoc. Szkoda, że nie chciałaś użyć zwoju, rozumiem jednak, że rzucenie tego zaklęcia mogło przekraczać twoje możliwości. Mam nadzieję, że uda mi się znaleźć kogoś, kto rzuciłby dla mnie zaklęcie. Życzę dobrego dnia, pani.~
+@51  = ~Nie mam wielkiego wyboru. Naprawdę muszę dowiedzieć się, gdzie wujek ukrył swoje pieniądze. Jeśli zmienisz zdanie, odszukaj mnie proszę tutaj.~
+@52  = ~Wujku Staszku! Tak się cieszę, że cię widzę! Nie mamy zbyt wiele czasu. Władze miasta nie zgadzają się, żebym zobaczył twój testament. Nie mogę odszukać pieniędzy, które mi zostawiłeś.~
+@53  = ~Byłoby niezwykle pomocne, gdybyś powiedział mi, jak albo gdzie mogę znaleźć spadek. Na pewno jest coś, co możesz mi powiedzieć. Wujku Staszku! Powiedz!~
+@54  = ~Co? Co to znaczy, wujku Staszku? Nie rozumiem.~
+@55  = ~Nie, zaczekaj... nie odchodź jeszcze! Wujku! Zaczekaj...~
+@56  = ~Cóż, już po wszystkim. Wujek Staszek odszedł na dobre, a ja ani na krok nie zbliżyłem się do odkrycia, gdzie mógł ukryć pieniądze.~
+@57  = ~Przykro mi, że nie mogłem pomóc. Sądziłem, że wujek będzie w stanie wyjaśnić ci, gdzie ukrył swój skarb.~ ~Przykro mi, że nie mogłam pomóc. Sądziłam, że wujek będzie w stanie wyjaśnić ci, gdzie ukrył swój skarb.~
+@58  = ~Zaczekaj, Rybergu, myślę, że mam pomysł, gdzie twój wujek mógł ukryć oszczędności. Być może mógłbym je odzyskać.~ ~Zaczekaj, Rybergu, myślę, że mam pomysł, gdzie twój wujek mógł ukryć oszczędności. Być może mogłabym je odzyskać.~
+@59  = ~Zdarza się, Rybergu. Życzę więcej szczęścia następnym razem.~
+@60  = ~Byłeś niezwykle pomocny. Bez ciebie nie mógłbym zobaczyć się z moim wujkiem. Tak czy inaczej, dziękuję za pomoc.~ ~Byłaś niezwykle pomocna. Bez ciebie nie mógłbym zobaczyć się z moim wujkiem. Tak czy inaczej, dziękuję za pomoc.~
+@61  = ~Jeśli uda ci się znaleźć skarb, podzielę się nim z tobą. Jeśli nie, moja sytuacja w żaden sposób się nie zmieni. Możesz rozejrzeć się za pieniędzmi, jeśli znajdziesz czas.~
+@62  = ~Tak, wygląda na to, że urzędnicy zatrzymają testament, a ja będę musiał obejść się bez spadku. Tak czy inaczej, dziękuję za pomoc.~
+@63  = ~Powiedziałeś, że być może będziesz w stanie odszukać pieniądze, które zostawił mi wujek Staszek. Czy udało ci się je znaleźć?~ ~Powiedziałaś, że być może będziesz w stanie odszukać pieniądze, które zostawił mi wujek Staszek. Czy udało ci się je znaleźć?~
+@64  = ~Jeszcze nie, Rybergu. Cały czas zastanawiam się nad rozwiązaniem łamigłówki i przeszukuję miasto.~
+@65  = ~Tak, Rybergu. Myślę, że znalazłem pieniądze twojego wujka. Okazało się, że to sporo złota. Proszę, oto twoja połowa.~ ~Tak, Rybergu. Myślę, że znalazłam pieniądze twojego wujka. Okazało się, że to sporo złota. Proszę, oto twoja połowa.~
+@66  = ~Znalazłem złoto, które ukrył twój zmarły wujek, ale chcę zachować większość dla siebie, bo to ja wykonałem całą pracę.~ ~Znalazłam złoto, które ukrył twój zmarły wujek, ale chcę zachować większość dla siebie, bo to ja wykonałem całą pracę.~
+@67  = ~Wspaniale! To wielka pomoc dla mnie i mojej rodziny. Serdecznie dziękuję za pomoc. Życzę miłego dnia, <SIRMAAM>.~
+@68  = ~Parszywy złodzieju! Niczym nie różnisz się od urzędników, którzy nie chcieli oddać mi testamentu. Bodaj by cię Cyric trądem poraził.~ ~Parszywa złodziejko! Niczym nie różnisz się od urzędników, którzy nie chcieli oddać mi testamentu. Bodaj by cię Cyric trądem poraził.~
+@69  = ~Zrobię, jak powiedziałeś, zaczekam tutaj. Kiedy znajdziesz zaklęcie. Zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~ ~Zrobię, jak powiedziałaś, zaczekam tutaj. Kiedy znajdziesz zaklęcie. Zrobię wszystko, co w mojej mocy, żeby pomóc ci je rzucić.~
+@70  = ~Słyszałem, że niektórzy magowie potrafią skontaktować się ze zmarłymi. Wiem, że to prawda, pozwól zatem, że wyjaśnię, na czym polega mój problem.~
+@71  = ~Dokąd więc powinniśmy się udać, żeby rzucić zaklęcie?~
+@72  = ~Chodźmy na Wzgórza Umar.~
+@73  = ~Udamy się do Twierdzy poza miastem.~
+@74  = ~Chodź ze mną, wyruszymy na Wzgórza Wichrowych Włóczni.~
+@75  = ~Zejdziemy do jednego z grobowców pod Dzielnicą Cmentarną. Chodźmy.~
+@76  = ~Tak, to znacznie bezpieczniejsze miejsce. Ruszajmy.~
+@77  = ~Daj mi znać, gdy znajdziesz rozwiązanie.~
+@78  = ~Zaginiony spadek
+
+Spotkałem zmartwionego młodego mężczyznę o imieniu Ryberg. Powiedział mi, że niedawno zmarł jego wujek, ale ze względu na korupcję i chciwość władz miasta on sam nie ma możliwości odkrycia, gdzie zmarły ukrył oszczędności. Ryberg poprosił mnie o znalezienie sposobu na przyzwanie jego wujka z krainy umarłych, aby mógł porozmawiać z duchem i znaleźć pieniądze.~ ~Zaginiony spadek
+
+Spotkałam zmartwionego młodego mężczyznę o imieniu Ryberg. Powiedział mi, że niedawno zmarł jego wujek, ale ze względu na korupcję i chciwość władz miasta on sam nie ma możliwości odkrycia, gdzie zmarły ukrył oszczędności. Ryberg poprosił mnie o znalezienie sposobu na przyzwanie jego wujka z krainy umarłych, aby mógł porozmawiać z duchem i znaleźć pieniądze.~
+@79  = ~Zaginiony spadek?
+
+Wróciłem do zaniepokojonego Ryberga. Udało mi się znaleźć zwój umożliwiający przyzwanie ducha jego wujka, dzięki czemu Ryberg mógł z nim przez chwilę porozmawiać. Niestety, wujek Ryberga nie był zbyt chętny do udzielenia informacji, co do miejsca ukrycia pieniędzy. Powiedziałem Rybergowi, że postaram się rozwikłać zagadkę, ale nie ma zbyt wielu wskazówek.
+Wujek Ryberga wspomniał coś o utracie wzroku w celu zyskania wiary, oraz coś o sensie życia, w formie metafory mostu. Na podstawie tych wskazówek będę musiał ustalić, gdzie mogą znajdować się pieniądze.~ ~Zaginiony spadek?
+
+Wróciłam do zaniepokojonego Ryberga. Udało mi się znaleźć zwój umożliwiający przyzwanie ducha jego wujka, dzięki czemu Ryberg mógł z nim przez chwilę porozmawiać. Niestety, wujek Ryberga nie był zbyt chętny do udzielenia informacji, co do miejsca ukrycia pieniędzy. Powiedziałam Rybergowi, że postaram się rozwikłać zagadkę, ale nie ma zbyt wielu wskazówek.
+Wujek Ryberga wspomniał coś o utracie wzroku w celu zyskania wiary, oraz coś o sensie życia, w formie metafory mostu. Na podstawie tych wskazówek będę musiała ustalić, gdzie mogą znajdować się pieniądze.~
+@80  = ~Zaginiony spadek odnaleziony
+
+Udało mi się wreszcie znaleźć pieniądze zmarłego wujka Ryberga i wręczyć je spadkobiercy. Ryberg był tak zadowolony z mojej pomocy, że podzielił się ze mną spadkiem, pozwalając mi zatrzymać połowę z 26000 znalezionych sztuk złota.~
+@81  = ~W poszukiwaniu księgi "Ponad duchowe"
+
+Mag, którego spotkałem pewnego razu w wiosce Soubar, przybył do Athkatli w poszukiwaniu księgi o życiu pozagrobowym. Obiecał że, jeśli odnajdę kopię księgi "Ponad duchowe", da mi zwój z zaklęciem: Rozmowa ze zmarłym.~ ~W poszukiwaniu księgi "Ponad duchowe"
+
+Mag, którego spotkałam pewnego razu w wiosce Soubar, przybył do Athkatli w poszukiwaniu księgi o życiu pozagrobowym. Obiecał że, jeśli odnajdę kopię księgi "Ponad duchowe", da mi zwój z zaklęciem: Rozmowa ze zmarłym.~
+@82  = ~Znalezienie księgi "Ponad duchowe"
+
+Znalazłem księgę, której poszukiwał mag Ceeb. Będę musiał wrócić do Doków i mu ją oddać.~ ~Znalezienie księgi "Ponad duchowe"
+
+Znalazłam księgę, której poszukiwał mag Ceeb. Będę musiała wrócić do Doków i mu ją oddać.~

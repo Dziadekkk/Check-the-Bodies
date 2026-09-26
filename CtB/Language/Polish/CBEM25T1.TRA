@@ -1,0 +1,75 @@
+@1   = ~Nadchodzi czas, kiedy będę musiała zacząć przygotowania do mojej podróży do Elfiego Dworu na Evermeet.~ 
+@2   = ~Tel'Quessir w głębi duszy czują, kiedy muszą udać się na zachód, jednakże moje przeznaczenie w Faerunie jeszcze się nie wypełniło.~
+@3   = ~<GABBER>, kiedy cię zobaczyłam, wiedziałam, co pozostaje mi i nam trzem. Wszystkim nam coś przeznaczono, lecz dopiero twoja obecność tutaj, stała się dla nas objawieniem.~
+@4   = ~Nie miałyśmy ochoty uczestniczyć w Odwrocie, a teraz wiemy dlaczego. Zostałeś nam zesłany, by zakończyć część drogi swojego życia, a jednocześnie abyśmy my mogły dokończyć naszą podróż.~ ~Nie miałyśmy ochoty uczestniczyć w Odwrocie, a teraz wiemy dlaczego. Zostałaś nam zesłana, aby zakończyć część drogi swojego życia, a jednocześnie abyśmy my mogły dokończyć naszą podróż.~
+@5   = ~Proszę, nie mam na to czasu.~
+@6   = ~Powiedz mi, siostro, jaki to rodzaj więzi nas łączy?~
+@7   = ~Nie rozumiem. To nie ma sensu.~
+@8   = ~<GABBER>, nie opuścimy Faerunu, dopóki nie wypełnimy naszych obowiązków. Wróć do nas, kiedy będziesz gotów.~ ~<GABBER>, nie opuścimy Faerunu, dopóki nie wypełnimy naszych obowiązków. Wróć do nas, kiedy będziesz gotowa.~
+@9   = ~<GABBER>, to proste. Musisz zrozumieć, że nasza trójka ma udzielić ci pomocy w przeżywaniu twoich fizycznych oraz duchowych doświadczeń. Poprowadzimy cię najlepiej, jak potrafimy. A teraz, czy jesteś gotów, aby pozwolić nam spełnić naszą misję?~ ~<GABBER>, to proste. Musisz zrozumieć, że nasza trójka ma udzielić ci pomocy w przeżywaniu twoich fizycznych oraz duchowych doświadczeń. Poprowadzimy cię najlepiej, jak potrafimy. A teraz, czy jesteś gotowa, aby pozwolić nam spełnić naszą misję?~
+@10  = ~To dobrze dla nas wszystkich, że na to, co ma się stać, spoglądasz z otwartym umysłem.~
+@11  = ~Musisz spełniać nasze wymagania i żądania bez żadnych pytań, <GABBER>. Przędza naszego życia staje się coraz bardziej postrzępiona i jeśli nie wypełnisz zleconych przez nas zadań, przyjdzie nam udać się na zachód przed czasem.~
+@12  = ~<GABBER>, proszę, weź te sadzonki. Zanieś je do Vaelasy, nimfy ze Wzgórz Wichrowych Włóczni. Będzie ona mogła zająć się nimi, kiedy nas już nie będzie. Ale uważaj, sadzonki są bardzo delikatne i ogień lub zimno może je zniszczyć.~
+@13  = ~<GABBER>! Zleciłam ci wykonanie zadania. Powiedz mi, czy sadzonki są bezpieczne?~
+@14  = ~Nie, pani, sadzonki uległy zniszczeniu.~
+@15  = ~Tak, pani, wciąż są pod moją opieką.~
+@16  = ~Tak, siostro. Zabrałem je do Vaelasy, która przesyła ci swoje pozdrowienia i bardzo żałuje waszego zbliżającego się Odwrotu.~ ~Tak, siostro. Zabrałam je do Vaelasy, która przesyła ci swoje pozdrowienia i bardzo żałuje waszego zbliżającego się Odwrotu.~
+@17  = ~Przykro mi, elfia siostro, ale nie mogę dostarczyć tych sadzonek driadzie Vaelasie. Nie ma jej na Wzgórzach Wichrowych Włóczni i obawiam się, że może już nie żyć.~
+@18  = ~Nieszczęście! Katastrofa! Nasze życia przepadły. Odejdziemy na zachód, <GABBER>, bez wypełnienia naszej śmiertelnej misji. Żegnaj...~
+@19  = ~W takim razie jak najszybciej zabierz je na Wzgórza Wichrowych Włóczni.~
+@20  = ~<GABBER>, dziękuję ci. Jej słowa, jak i twój uczynek, podnoszą mnie na duchu.~
+@21  = ~<GABBER>, pomogłeś nam bardziej, niż możesz to sobie wyobrazić. Chcemy ci podziękować za twoją pomoc. Nauczymy cię jednej rzeczy, ale musisz dokonać wyboru.~ ~<GABBER>, pomogłaś nam bardziej, niż możesz to sobie wyobrazić. Chcemy ci podziękować za twoją pomoc. Nauczymy cię jednej rzeczy, ale musisz dokonać wyboru.~
+@22  = ~Czego chciałbyś się od nas nauczyć: potrafić zapamiętywać więcej zaklęć niż normalny mag, skrócić czas rzucania czarów, by rzucać dwa czary niemal jednocześnie, czy może nauczyć się jak szybko przypominać sobie czary bez konieczności odpoczynku?~ ~Czego chciałabyś się od nas nauczyć: potrafić zapamiętywać więcej zaklęć niż normalny mag, skrócić czas rzucania czarów, by rzucać dwa czary niemal jednocześnie, czy może nauczyć się jak szybko przypominać sobie czary bez konieczności odpoczynku?~
+@23  = ~Chciałbym nauczyć się jak zapamiętywać dodatkowe zaklęcie na poziom.~ ~Chciałabym nauczyć się jak zapamiętywać dodatkowe zaklęcie na poziom.~
+@24  = ~Myślę, że zwiększona prędkość rzucania czarów byłaby bardziej użyteczna.~
+@25  = ~Chcę, żebyś nauczyła mnie przypominać sobie zaklęcia bez potrzeby odpoczynku.~
+@26  = ~Czego chciałbyś się od nas nauczyć: potrafić zapamiętywać więcej zaklęć niż normalny mag, skrócić czas rzucania czarów, by rzucać dwa czary niemal jednocześnie, nauczyć się jak szybko przypominać sobie czary bez konieczności odpoczynku, czy może nauczyć się używać dowolnych przedmiotów - nawet takich, których magowie nie mogą normalnie używać - przy czym niektóre z nich mogą ograniczać twoją zdolność rzucania zaklęć?~ ~Czego chciałabyś się od nas nauczyć: potrafić zapamiętywać więcej zaklęć niż normalny mag, skrócić czas rzucania czarów, by rzucać dwa czary niemal jednocześnie, nauczyć się jak szybko przypominać sobie czary bez konieczności odpoczynku, czy może nauczyć się używać dowolnych przedmiotów - nawet takich, których magowie nie mogą normalnie używać - przy czym niektóre z nich mogą ograniczać twoją zdolność rzucania zaklęć?~
+@27  = ~Chcę żebyś nauczyła mnie, jak używać dowolnych przedmiotów.~
+@28  = ~Jak sobie życzysz. Zrobię, co w mojej mocy, żeby nauczyć cię, jak zwiększyć liczbę zapamiętywanych czarów.~
+@29  = ~<GABBER>, udało mi się. Teraz możesz zapamiętać więcej zaklęć niż mag z twoim intelektem.~
+@30  = ~Jak sobie życzysz. Zrobię, co w mojej mocy, żeby nauczyć cię, jak podwoić liczbę rzucanych czarów w określonym przedziale czasu.~
+@31  = ~<GABBER>, udało mi się. Teraz w ciągu jednej tury możesz rzucić dwa razy więcej zaklęć niż większość magów.~
+@32  = ~Jak sobie życzysz. Zrobię, co w mojej mocy, żeby nauczyć cię, jak przypominać sobie zużyte zaklęcia.~
+@33  = ~<GABBER>, udało mi się. Teraz możesz przypominać sobie rzucone zaklęcia bez odpoczynku.~
+@34  = ~Nauka zdolności używania dowolnego przedmiotu przez maga to trudny proces. Zrobię co w mojej mocy, ale nie mogę zagwarantować, że się to uda.~
+@35  = ~<GABBER>, jesteś zaiste wyjątkową istotą. Była to dla mnie przyjemność i niewątpliwy zaszczyt uczyć cię, jak używać niemalże wszystkich przedmiotów, jakich sobie zażyczysz. Pamiętaj, że niektóre przedmioty, których będziesz używać, jak pancerz, uniemożliwią ci rzucanie zaklęć. Oprócz tego nie będzie dobrym pomysłem używanie broni oburęcznej, jako że nie jest ona przeznaczona dla magów i skutki mogą być katastrofalne.~
+@36  = ~<GABBER>, wyjątkowa z ciebie istota. Jednakże nie każdy jest w stanie nauczyć się zdolności używania dowolnych przedmiotów. Wybacz mi, proszę, ale nie byłam w stanie nauczyć cię tej umiejętności.~
+@37  = ~<GABBER>, nasz czas tu, w Faerunie, dobiegł końca. Udamy się teraz na Wyspę Elfów. Nasza misja została wypełniona. Żegnaj! I niech Seldarine ochrania cię i prowadzi.~
+@38  = ~Doczekałyśmy się czasu naszej ostatniej podróży z Faerunu do Evermeet. <GABBER>, niech Corellan Lotharian cię prowadzi.~
+@39  = ~Nieszczęście! Katastrofa! W takim razie nie zostało nic, co mogłybyśmy po sobie zostawić w Faerunie. Nasze życia przepadły. Odejdziemy bez wypełnienia naszej śmiertelnej misji. Żegnaj...~
+@40  = ~Starszyzna elfów: Dostawa
+
+Trójka elfich czarodziejek poprosiła mnie o dostarczenie świętych sadzonek z lasu Tethyr grupie nimf ze Wzgórz Wichrowych Włóczni. Mam się opiekować sadzonkami, kiedy będą w moim posiadaniu, ponieważ są wrażliwe na ogień i zimno. Elfki poprosiły mnie o powiadomienie ich, kiedy nimfy otrzymają już sadzonki. Mogę je spotkać tam, gdzie udało mi się wyjść z Podmroku. Obiecały mi nagrodę.~
+@41  = ~Starszyzna elfów: Dostawa
+
+Na prośbę trójki elfich czarodziejek, które przygotowywały się do Odwrotu, dostarczyłem święte sadzonki nimfom. Elfie czarodziejki obiecały mi, że nauczą mnie nowej umiejętności.~ ~Starszyzna elfów: Dostawa
+
+Na prośbę trójki elfich czarodziejek, które przygotowywały się do Odwrotu, dostarczyłam święte sadzonki nimfom. Elfie czarodziejki obiecały mi, że nauczą mnie nowej umiejętności.~
+@42  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak zwiększyć liczbę zaklęć, które mogę zapamiętać.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak zwiększyć liczbę zaklęć, które mogę zapamiętać.~
+@43  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak rzucać większą liczbę zaklęć w ciągu jednej rundy.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak rzucać większą liczbę zaklęć w ciągu jednej rundy.~
+@44  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak przypomnieć sobie zużyte zaklęcie bez potrzeby odpoczynku.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak przypomnieć sobie zużyte zaklęcie bez potrzeby odpoczynku.~
+@45  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak używać ekwipunku, którego nie mogą normalnie używać magowie.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, by nauczyć mnie, jak używać ekwipunku, którego nie mogą normalnie używać magowie.~
+@46  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były tak miłe, że próbowały mnie nauczyć, jak używać dowolnych przedmiotów, ale nie byłem w stanie pojąć ich nauk.~ ~Starszyzna elfów: Nauka magicznych umiejętności 
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były tak miłe, że próbowały mnie nauczyć, jak używać dowolnych przedmiotów, ale nie byłam w stanie pojąć ich nauk.~
+@47  = ~Starszyzna elfów: Ostateczny Odwrót
+
+Trójka elfich czarodziejek wypełniła swój ostatni obowiązek i opuściła Faerun. Udały się na Evermeet, żeby już nigdy nie powrócić. Bez wątpienia i Faerun i ja odnieśliśmy korzyść, mogąc obcować z tymi trzema elfimi duszami. Żal mi, że opuściły kontynent, ale z drugiej strony cieszę się wiedząc, że zawitały do starożytnej ojczyzny elfów.~

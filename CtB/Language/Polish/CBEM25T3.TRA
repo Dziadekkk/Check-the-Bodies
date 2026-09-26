@@ -1,0 +1,50 @@
+@1   = ~Na tym etapie mojej podróży przez Faerun nie mogę nic dla ciebie zrobić.~ 
+@2   = ~<GABBER>, zaiste jesteś duchem, który zasługuje na nasze nauki. Pokornie przyznajemy, że potrzebujemy cię, by wypełnić nasze obowiązki.~
+@3   = ~<GABBER>! Raz jeszcze, musisz dokonać wyboru. Pomożemy ci rozwinąć umiejętności, ale to ty musisz podjąć decyzję: chcesz się nauczyć zaawansowanej alchemii, to jest przyrządzania potężnych eliksirów i mikstur, czy raczej poznać ulepszone metody zaklinania broni, a może wolisz jeszcze bardziej przyspieszyć czas rzucania przez ciebie zaklęć? Przemyśl to uważnie, twój wybór będzie ostateczny.~ 
+@4   = ~Sądzę, że chciałbym się nauczyć sztuki alchemii.~ ~Sądzę, że chciałabym się nauczyć sztuki alchemii.~
+@5   = ~Byłbym wdzięczny, gdybyś nauczyła mnie jak zaklinać ostrza broni.~ ~Byłabym wdzięczna, gdybyś nauczyła mnie jak zaklinać ostrza broni.~ 
+@6   = ~Proszę, pani, abyś nauczyła mnie, jak szybciej rzucać zaklęcia.~
+@7   = ~<GABBER>, będę wielce zadowolona mogąc pokazać ci, jak mieszać chemikalia i proszki, żeby tworzyć mikstury.~
+@8   = ~<GABBER>, dziękuję ci, że mogłam nauczyć cię zaawansowanych metod alchemicznych. Pozwoliło mi to zbliżyć się o krok do opuszczenia Faerunu i udania się na Elfią Wyspę.~ 
+@9   = ~<GABBER>, będę wielce zadowolona mogąc pokazać ci, zaawansowane techniki zaklinania ostrzy broni.~
+@10  = ~<GABBER>, dziękuję ci, że mogłam nauczyć cię, jak zaczarować ostrze, aby broń była jeszcze potężniejsza. Pamiętaj tylko, że przedmiot, który chcesz zaczarować, musisz mieć przy sobie, bo inaczej umagicznienie nie powiedzie się. Zapamiętaj również, że działa to tylko na broń trzymaną w ręku i że nie może być to broń miotana. Pomogłeś zbliżyć mi się o jeden krok do tego, abym mogła opuścić Faerun i udać się na Elfią Wyspę.~ ~<GABBER>, dziękuję ci, że mogłam nauczyć cię, jak zaczarować ostrze, aby broń była jeszcze potężniejsza. Pamiętaj tylko, że przedmiot, który chcesz zaczarować, musisz mieć przy sobie, bo inaczej umagicznienie nie powiedzie się. Zapamiętaj również, że działa to tylko na broń trzymaną w ręku i że nie może być to broń miotana. Pomogłaś zbliżyć mi się o jeden krok do tego, abym mogła opuścić Faerun i udać się na Elfią Wyspę.~ 
+@11  = ~<GABBER>, będę wielce zadowolona mogąc pokazać ci, jak polepszyć twoją prędkość rzucania czarów.~
+@12  = ~<GABBER>, dziękuję ci, że mogłam nauczyć cię, jak rzucać zaklęcia szybciej i bardziej efektywnie. Pomogłeś zbliżyć mi się o jeden krok do tego, abym mogła opuścić Faerun i udać się na Elfią Wyspę.~ ~<GABBER>, dziękuję ci, że mogłam nauczyć cię, jak rzucać zaklęcia szybciej i bardziej efektywnie. Pomogłaś zbliżyć mi się o jeden krok do tego, abym mogła opuścić Faerun i udać się na Elfią Wyspę.~
+@13  = ~Jest mi bardzo miło, że mogłam ci pomóc. Pozostała jeszcze ostatnia misja, którą musisz wypełnić, abyśmy i my mogły wykonać nasze własne zadania. Dzięki temu będziemy mogły pomóc ci kontynuować twoją naukę. Jesteś gotowy?~ ~Jest mi bardzo miło, że mogłam ci pomóc. Pozostała jeszcze ostatnia misja, którą musisz wypełnić, abyśmy i my mogły wykonać nasze własne zadania. Dzięki temu będziemy mogły pomóc ci kontynuować twoją naukę. Jesteś gotowa?~ 
+@14  = ~Tak, siostro. Co muszę zrobić?~
+@15  = ~Nie teraz, siostro. Potrzebuję czasu.~ 
+@16  = ~Wobec tego będę oczekiwała naszego kolejnego spotkania, rozmyślając o mojej zbliżającej się podróży na zachód.~
+@17  = ~Podczas gdy twoje pierwsze zadanie było dość proste, to drugie już znacznie trudniejsze. Ostatnie zadanie jest natomiast łatwe, ale tylko dlatego, że nie musisz ryzykować własnego życia. <GABBER>! Proszę, weź tę rękojeść. Jest to rękojeść Księżycowego Ostrza, które było uważane za niezniszczalną broń.~
+@18  = ~Ostrze zostało utracone, ale przy pomocy odpowiednich metali można je odbudować. W tej okolicy znam tylko jedną duszę, która jest w stanie to zrobić - potomek Zaginionego Królestwa, krasnolud imieniem Cromwell. Zanieś mu rękojeść i metal, aby przekuć ostrze. Kiedy Księżycowe Ostrze zostanie odnowione, przynieś je do mnie.~
+@19  = ~Spróbuję, dobra pani.~ 
+@20  = ~Wiem, że tak.~
+@21  = ~Byłeś w stanie odnowić Księżycowe Ostrze?~ ~Byłaś w stanie odnowić Księżycowe Ostrze?~ 
+@22  = ~Tak, siostro. Mam je.~ 
+@23  = ~Nie, siostro. Jeszcze nie udało mi się odbudować ostrza.~
+@24  = ~Wróć do mnie, kiedy już to zrobisz.~ 
+@25  = ~W takim razie dokonało się. Jestem o krok bliżej mojego odejścia. <GABBER>! Proszę, zaczaruję jeszcze to ostrze i dam ci je w prezencie. Zasłużyłeś na to, by dzierżyć starożytny elfi artefakt, i powinieneś czuć się zaszczycony.~ ~W takim razie dokonało się. Jestem o krok bliżej mojego odejścia. <GABBER>! Proszę, zaczaruję jeszcze to ostrze i dam ci je w prezencie. Zasłużyłaś na to, by dzierżyć starożytny elfi artefakt, i powinnaś czuć się zaszczycona.~
+@26  = ~Oczekujemy chwili, w której wyruszymy w ostatnią podróż z Faerunu do Evermeet. <GABBER>, niech Seldarine cię prowadzi.~
+@27  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak używać zaawansowanych alchemicznych procedur, aby tworzyć potężne mikstury.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak używać zaawansowanych alchemicznych procedur, aby tworzyć potężne mikstury.~
+@28  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zaczarowywać ostrza zwykłych broni potężną magią.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zaczarowywać ostrza zwykłych broni potężną magią.~
+@29  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak rzucać zaklęcia ze znacznie większą szybkością.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko jaskiniowego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak rzucać zaklęcia ze znacznie większą szybkością.~
+@30  = ~Starszyzna elfów: Przekucie Księżycowego Ostrza
+
+Starsze czarodziejki, które nauczyły mnie wartościowych umiejętności, poprosiły mnie o wypełnienie jeszcze jednego zadania. Tym razem dały mi rękojeść strzaskanego Księżycowego Ostrza, które było uważane za niezniszczalną broń. Cokolwiek spowodowało zniszczenie ostrza, musiało w istocie mieć potężną moc.
+Mam znaleźć metal, który może zostać użyty do przekucia tej rękojeści w broń zdatną do użycia. Nie wiem, gdzie mogę zdobyć taki metal, ale te, napotkane przy wyjściu z Podmroku, czarodziejki powiedziały mi, że krasnolud imieniem Cromwell może mi pomóc przekuć magiczną broń.~
+@31  = ~Starszyzna elfów: Przekucie Księżycowego Ostrza
+
+Przy pomocy krasnoluda Cromwella byłem w stanie odtworzyć starożytne elfie Księżycowe Ostrze. Kiedy przyniosłem je trzem czarodziejkom, wynagrodziły mnie poprzez dalsze umagicznienie ostrza. Wierzyłem dotąd, że to Księżycowe Ostrza wybierają swoich właścicieli, ale elfy obdarowały mnie tą potężną bronią, co widocznie uchodzi za wielki zaszczyt dla elfów, a wśród przedstawicieli innych ras jest wydarzeniem niemal niespotykanym.~ ~Starszyzna elfów: Przekucie Księżycowego Ostrza
+
+Przy pomocy krasnoluda Cromwella byłam w stanie odtworzyć starożytne elfie Księżycowe Ostrze. Kiedy przyniosłam je trzem czarodziejkom, wynagrodziły mnie poprzez dalsze umagicznienie ostrza. Wierzyłam dotąd, że to Księżycowe Ostrza wybierają swoich właścicieli, ale elfy obdarowały mnie tą potężną bronią, co widocznie uchodzi za wielki zaszczyt dla elfów, a wśród przedstawicieli innych ras jest wydarzeniem niemal niespotykanym.~

@@ -1,0 +1,78 @@
+@1   = ~<GABBER>! Wiemy o tobie wszystko. Twoja biegłość w sztuce magicznej nie pozostała przez nas niezauważona.~
+@2   = ~Kim jesteście, że wiecie o mnie wszystko?~
+@3   = ~Jestem już zmęczony tym, że mnie obserwujecie i wszędzie śledzicie. Zostawcie mnie w spokoju.~ ~Jestem już zmęczona tym, że mnie obserwujecie i wszędzie śledzicie. Zostawcie mnie w spokoju.~
+@4   = ~Chcę tylko wiedzieć, gdzie jest Imoen! Jeśli wy, czarodzieje, mi tego nie powiecie, zamierzam wyciągnąć to z was siłą!~
+@5   = ~Oczywiście. Mam licencję, więc nie zawracajcie mi głowy tym, że używam tu zaklęć.~ 
+@6   = ~Nie twoja sprawa, kim jesteśmy. Jednakże reprezentujemy potężną grupę, która jest ci skądinąd znana, nieprawdaż?~
+@7   = ~<GABBER>! Potrzebujemy twojej pomocy. W bardzo delikatnej sprawie.~
+@8   = ~Zdaję sobie sprawę, że taka prośba może wydać ci się dziwna po tym, co zaszło pomiędzy tobą a niektórymi z moich konfratrów.~ 
+@9   = ~Pomimo tego jestem pewien, że zrekompensują ci to, jeśli wyciągniesz ich z opałów - o ile zgodzisz się to zrobić.~
+@10  = ~Nie pomogę wam, Zakapturzeni. Nieważne w jakie tarapaty wpadliście, sami musicie sobie z tym poradzić.~ 
+@11  = ~Wygląda na to, że pomagam wam bardziej, niż wy sami sobie. Co tym razem? Kolejny przerażający wędrowny mag, który sprawia, że trzęsiecie się cali ze strachu?~
+@12  = ~Dopóki mi dobrze płacicie, zrobię wszystko, czego wam trzeba.~
+@13  = ~Przykro mi to słyszeć. Jeśli nie chcesz się zająć tą sprawą, będę musiał znaleźć kogoś bardziej chętnego do współpracy.~ 
+@14  = ~Pomiędzy mną a tobą nie ma żadnych złych emocji. Nie kazałem zabierać twojej przyjaciółki do Przytułku. Nie powinieneś mnie więc obrażać.~ ~Pomiędzy mną a tobą nie ma żadnych złych emocji. Nie kazałem zabierać twojej przyjaciółki do Przytułku. Nie powinnaś mnie więc obrażać.~
+@15  = ~I nie, jest to sprawa, w której udział Zakapturzonych nie może wyjść na jaw. Z tego powodu potrzebujemy pomocy kogoś z zewnątrz.~ 
+@16  = ~Jeśli pogodzisz się z faktem, że cię potrzebujemy, i zgodzisz się wypełnić to zadanie, wówczas wyjaśnię ci, czego od ciebie wymagamy. Jeśli nie, będę musiał znaleźć kogoś bardziej chętnego do współpracy.~
+@17  = ~No dobrze, magu. Pomogę wam.~
+@18  = ~Nie pomogę wam, Zakapturzeni. Wyrządziliście mi więcej krzywdy, niż bym mógł kiedykolwiek wam wybaczyć.~ ~Nie pomogę wam, Zakapturzeni. Wyrządziliście mi więcej krzywdy, niż bym mogła kiedykolwiek wam wybaczyć.~
+@19  = ~Przykro mi to słyszeć. W takim razie życzę ci powodzenia w dalszych przygodach.~
+@20  = ~Członkowie mojej organizacji nie przestaną cię obserwować tylko dlatego, że jesteś na nich zły. Takie myślenie byłoby z twojej strony głupotą.~ ~Członkowie mojej organizacji nie przestaną cię obserwować tylko dlatego, że jesteś na nich zła. Takie myślenie byłoby z twojej strony głupotą.~
+@21  = ~Nie potrafię ci na to odpowiedzieć. Są znacznie potężniejsi ode mnie magowie, z którymi musiałbyś się porozumieć, jeśli chcesz odnaleźć swoją towarzyszkę.~ ~Nie potrafię ci na to odpowiedzieć. Są znacznie potężniejsi ode mnie magowie, z którymi musiałabyś się porozumieć, jeśli chcesz odnaleźć swoją towarzyszkę.~
+@22  = ~<GABBER>, nie pomożesz sobie obrażając mnie. Niezbyt dobrze reaguję na groźby.~
+@23  = ~Jednakże zignoruję twój występek. Widzisz, w mojej organizacji są inni, którzy, podobnie jak ja, potrzebują twojej pomocy w bardzo delikatnej sprawie.~
+@24  = ~Nie jestem tu, aby karać cię za nielegalne użycie magii. Nie zamierzam też unieważniać twojej zdobytej zgodnie z prawem licencji.~
+@25  = ~<GABBER>, jestem tu, aby prosić cię o pomoc. Widzisz, w mojej organizacji są inni, którzy, podobnie jak ja, potrzebują twojej pomocy w bardzo delikatnej sprawie.~
+@26  = ~Nie mam czasu ani ochoty, aby z tobą rozmawiać. Może zrobiłbyś lepiej, gdybyś poszukał kogoś ważniejszego.~ ~Nie mam czasu ani ochoty, aby z tobą rozmawiać. Może zrobiłabyś lepiej, gdybyś poszukała kogoś ważniejszego.~
+@27  = ~W takim razie ruszam w drogę.~
+@28  = ~Mógłbyś mi pomóc? Interesują mnie ludzie, którzy zostali pojmani przez Zakapturzonych Czarodziejów.~
+@29  = ~Szukam maga, albo grupy magów. Mogą nosić zielone albo czarne szaty.~
+@30  = ~Doszły mnie słuchy o wojnie pomiędzy Złodziejami Cienia a kimś jeszcze. Czy coś ci o tym wiadomo?~
+@31  = ~Informacje o losie osób pojmanych przez Zakapturzonych Czarodziejów nie są powszechnie dostępne. Żaden użytkownik magii nie pozostanie dla nas anonimowy i każdy z nich wcześniej czy później może przejść przez to miejsce, ale to nie jest informacja dla twoich uszu. Do widzenia.~
+@32  = ~Tak, dobrze, dobrze. Idź sobie już... i nie zawracaj mi więcej głowy.~
+@33  = ~Nie wiem nic o tych magach, a zresztą nawet gdybym wiedział, to nic ci do tego. Zakapturzeni Czarodzieje rozprawią się z nimi. Idź już i nie pytaj mnie więcej o takie sprawy.~
+@34  = ~Nikt nie wie, a ja i tak nie mógłbym ci powiedzieć, gdybym coś o tym wiedział. To nie twoja sprawa. Nie wtykaj nosa, gdzie nie trzeba, jeśli nie chcesz się znaleźć w opałach.~
+@35  = ~<GABBER>, twoja zgoda została odnotowana. Lepiej żebyś nie złamał danego słowa, w przeciwnym razie każdy Zakapturzony Czarodziej w mieście stanie się twoim wrogiem.~ ~<GABBER>, twoja zgoda została odnotowana. Lepiej żebyś nie złamała danego słowa, w przeciwnym razie każdy Zakapturzony Czarodziej w mieście stanie się twoim wrogiem.~
+@36  = ~Sprawa jest prosta. W mieście jest pewna kobieta. Ukryła się pod powierzchnią i nasza magia poszukiwawcza nie może się przebić przez jej zabezpieczenia, czymkolwiek mogą one być.~
+@37  = ~Dla Zakapturzonych Czarodziejów koniecznym jest, aby ta kobieta została odnaleziona i aresztowana, bez użycia zbędnej siły.~
+@38  = ~<GABBER>, odszukaj ją. Przyprowadź ją do nas. Jeśli nie będzie chciała pójść dobrowolnie - nie przejmuj się tym. Wolimy, abyś jej nie krzywdził, a jedynie trwale ją uciszył. Możesz to dla nas zrobić, jeśli tak będzie łatwiej.~ ~<GABBER>, odszukaj ją. Przyprowadź ją do nas. Jeśli nie będzie chciała pójść dobrowolnie - nie przejmuj się tym. Wolimy, abyś jej nie krzywdziła, a jedynie trwale ją uciszyła. Możesz to dla nas zrobić, jeśli tak będzie łatwiej.~
+@39  = ~Nie obchodzą mnie metody, a rezultaty. Zajmij się tym i nie wracaj, dopóki nie uda ci się jej odnaleźć.~
+@40  = ~Czy możesz dać mi jakąś wskazówkę odnośnie miejsca pobytu tej kobiety?~
+@41  = ~Skąd będę wiedział, że znalazłem właściwą kobietę?~ ~Skąd będę wiedziała, że znalazłam właściwą kobietę?~
+@42  = ~Nie mogę tego zrobić. To jest niegodziwe i nie zamierzam być częścią tego planu.~
+@43  = ~Uciszyć ją? Czym ta kobieta sobie zasłużyła na taką karę?~
+@44  = ~Nie mam pojęcia, gdzie ona się znajduje. Gdybym wiedział, setka Zakapturzonych spaliłaby to miejsce w ciągu kilku sekund.~
+@45  = ~Jej imię to Miranda albo Melanie. Ma wiele różnych pseudonimów, ale poznasz ją po ubraniu, które nosi. Bardzo skąpym ubraniu. I po tym, że będzie oferować swoje usługi.~
+@46  = ~<GABBER>! Dałeś już swoje słowo. Czy teraz chcesz je wycofać?~ ~<GABBER>! Dałaś już swoje słowo. Czy teraz chcesz je wycofać?~
+@47  = ~Nie mogę zrobić tego, o co mnie prosisz.~
+@48  = ~Nie podoba mi się to, ale postaram się zająć waszym problemem.~
+@49  = ~<GABBER>! W takim razie strzeż się gniewu Zakapturzonych Czarodziejów!~
+@50  = ~Dobrze. Czy masz jeszcze jakieś pytania?~
+@51  = ~Nie mogę tego zrobić. To jest niegodziwe i nie zamierzam być częścią tego zbrodniczego planu.~
+@52  = ~Nie, ruszam w drogę i odnajdę dla ciebie tę kobietę.~
+@53  = ~<GABBER>, nie wracaj, dopóki nie uda ci się rozwiązać tego problemu.~
+@54  = ~To nie twoje zmartwienie. Powinno cię obchodzić wyłącznie to, że ta kobieta musi zostać uciszona - albo przez nas, albo przez ciebie.~
+@55  = ~Masz jeszcze jakieś pytania?~
+@56  = ~Nie mam żadnych wiadomości, którymi mógłbym się z tobą podzielić. Porozmawiaj z moimi kompanami, jeżeli czegoś potrzebujesz.~
+@57  = ~Już ci powiedziałem, żebyś porozmawiał z moimi kompanami.~ ~Już ci powiedziałem, żebyś porozmawiała z moimi kompanami.~
+@58  = ~Czy już rozmawiałeś z tą ladacznicą?~ ~Czy już rozmawiałaś z tą ladacznicą?~
+@59  = ~Nie, ale zrobię to.~
+@60  = ~Naprawdę nie powinieneś używać takich słów. To mnie obraża.~
+@61  = ~Tak, zgodziła się na twoje warunki. Wszystko, co musicie zrobić, to zwrócić jej głos, a ja zabiorę ją z tego miasta.~
+@62  = ~Nie obchodzi mnie, ile to zajmie czasu. Jak dla mnie, to może nawet zeżreć ją trąd.~
+@63  = ~Pogódź się z tym.~
+@64  = ~Dobrze. Zrobię to. Stój spokojnie, a ja rzucę na ciebie odpowiednie zaklęcie.~
+@65  = ~Kiedy zobaczysz się z nią następnym razem, będzie mogła rozmawiać wyłącznie z tobą przez krótki czas, dopóki nie znajdzie się pięćset mil od Amn.~
+@66  = ~Kiedy tylko oddali się na odpowiednią odległość, znowu odzyska mowę. Ale jeżeli kiedykolwiek powróci do Amn, utraci swój głos na stałe.~
+@67  = ~Masz godzinę, żeby zabrać ją z miasta. Idź.~
+@68  = ~<GABBER>, musisz zająć się naszym problemem. Nie mam ci nic więcej do powiedzenia.~
+@69  = ~Polowanie Zakapturzonych Czarodziejów
+
+Najwyraźniej obraziłem Zakapturzonych Czarodziejów o jeden raz za dużo. Teraz polują na mnie i muszę mieć się na baczności. Nie wiem, czy uda mi się przed nimi uciec.~ ~Polowanie Zakapturzonych Czarodziejów
+
+Najwyraźniej obraziłam Zakapturzonych Czarodziejów o jeden raz za dużo. Teraz polują na mnie i muszę mieć się na baczności. Nie wiem, czy uda mi się przed nimi uciec.~
+@70  = ~Zakapturzeni Czarodzieje potrzebują pomocy
+
+Postanowiłem pomóc Zakapturzonym Czarodziejom w poszukiwaniu kolejnej osoby, która w jakiś sposób im zaszkodziła. Szukają kobiety, ale nie są pewni, gdzie się ona znajduje ani jak ma na imię. Zakapturzony, z którym rozmawiałem twierdzi, że jej imię to Melanie albo Miranda. Nie był tego pewien, ale powinienem szukać osoby o podobnie brzmiącym imieniu.~ ~Zakapturzeni Czarodzieje potrzebują pomocy
+
+Postanowiłam pomóc Zakapturzonym Czarodziejom w poszukiwaniu kolejnej osoby, która w jakiś sposób im zaszkodziła. Szukają kobiety, ale nie są pewni, gdzie się ona znajduje ani jak ma na imię. Zakapturzony, z którym rozmawiałam twierdzi, że jej imię to Melanie albo Miranda. Nie był tego pewien, ale powinnam szukać osoby o podobnie brzmiącym imieniu.~

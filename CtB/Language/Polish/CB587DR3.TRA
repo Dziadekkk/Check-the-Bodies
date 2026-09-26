@@ -1,0 +1,57 @@
+@1   = ~Bracie, zanim będę mogła ci pomóc, muszę wpierw ukończyć moje własne studia pod opieką arcydruidki. Powinieneś porozmawiać z nią.~ 
+@2   = ~Bracie, arcydruidka powiedziała mi, że duchowo jesteś godzien naszych wskazówek. Poprosiła, abym poświęciła swój czas na nauczenie cię wartościowych umiejętności.~
+@3   = ~Ponownie, bracie, musisz dokonać wyboru. Pomożemy ci rozwinąć umiejętności, ale to ty musisz podjąć decyzję: chciałbyś nauczyć się przemiany w magicznego smoka, ulepszonych metod leczenia, czy też rzucania zaklęć z większą prędkością? Przemyśl to uważnie, bracie, twój wybór będzie ostateczny.~ 
+@4   = ~Kapłanko, myślę, że chciałbym się nauczyć zmiany kształtu.~ ~Kapłanko, myślę, że chciałabym się nauczyć zmiany kształtu.~
+@5   = ~Kapłanko, chciałbym skuteczniej leczyć innych.~ ~Kapłanko, chciałabym skuteczniej leczyć innych.~ 
+@6   = ~Naucz mnie proszę, jak szybciej rzucać zaklęcia, kapłanko.~
+@7   = ~Będę więcej niż szczęśliwa, ucząc cię tego, bracie.~
+@8   = ~Dziękuję ci, bracie, że dałeś mi sposobność nauczenia cię, jak zmieniać się w magicznego smoka.~ 
+@9   = ~Dziękuję ci, bracie, że dałeś mi sposobność nauczenia cię, jak leczyć innych.~
+@10  = ~Dziękuję ci, bracie, że dałeś mi sposobność nauczenia cię, jak szybciej rzucać zaklęcia.~ 
+@11  = ~Miło mi było pomóc ci, bracie, abyś stał się bliższy naturze. Cieszy mnie również to, że i ty nam pomogłeś. Jest jeszcze jedno, ostatnie zadanie, które musisz wypełnić, zanim arcydruidka nauczy cię nowej umiejętności. Jesteś gotów?~
+@12  = ~Tak, kapłanko. Co muszę zrobić?~
+@13  = ~Jeszcze nie, kapłanko. Potrzebuję czasu.~
+@14  = ~W takim razie będę z niecierpliwością oczekiwać naszego kolejnego spotkania, bracie.~
+@15  = ~Podczas gdy twoje pierwsze zadanie było dość proste, to drugie okazało się już znacznie trudniejsze. Ostatnie zadanie jest zaś łatwe, ale tylko dlatego, że nie musisz ryzykować własnego życia. Proszę, bracie, weź to. Jest to magiczny kostur, który był uważany za niezniszczalną broń.~
+@16  = ~Drewno tego kostura jest teraz uszkodzone. Przy pomocy odpowiedniego budulca może on zostać odnowiony i odzyskać swoje magiczne właściwości. W tej okolicy jest tylko jedna osoba, która posiada wystarczające umiejętności, aby naprawić ten kostur - krasnolud o imieniu Cromwell. Znajdź drewno i wraz z kosturem zanieś je do niego. Kiedy kostur zostanie naprawiony, wróć do mnie.~
+@17  = ~Spróbuję, kapłanko.~
+@18  = ~Wiem, że tak, bracie.~
+@19  = ~Powiodło ci się z kosturem, bracie?~ 
+@20  = ~Tak, kapłanko. Mam go.~
+@21  = ~Nie, kapłanko. Nie udało mi się jeszcze go naprawić.~ 
+@22  = ~Wróć do mnie, bracie, kiedy już to zrobisz.~ 
+@23  = ~W takim razie ukończyłeś zadanie. Proszę, bracie, umagicznię dodatkowo ten kostur i oddam ci go w prezencie.~
+@24  = ~Nie ukończyłam jeszcze moich praktyk u arcydruidki, <GABBER>, i jestem zbyt zajęta, aby przerywać moje medytacje.~ 
+@25  = ~Siostro, zanim będę mogła ci pomóc, muszę wpierw ukończyć moje własne studia pod opieką arcydruidki. Powinnaś porozmawiać z nią.~
+@26  = ~Siostro, arcydruidka powiedziała mi, że duchowo jesteś godna naszych wskazówek. Poprosiła, abym poświęciła swój czas na nauczenie cię wartościowych umiejętności.~
+@27  = ~Ponownie, siostro, musisz dokonać wyboru. Pomożemy ci rozwinąć umiejętności, ale to ty musisz podjąć decyzję: chciałabyś nauczyć się przemiany w magicznego smoka, ulepszonych metod leczenia, czy też rzucania zaklęć z większą prędkością? Przemyśl to uważnie, siostro, twój wybór będzie ostateczny.~
+@28  = ~Będę więcej niż szczęśliwa, ucząc cię tego, siostro.~
+@29  = ~Dziękuję ci, siostro, że dałaś mi sposobność nauczenia cię, jak się zmieniać w magicznego smoka.~
+@30  = ~Dziękuję ci, siostro, że dałaś mi sposobność nauczenia cię, jak leczyć innych.~
+@31  = ~Dziękuję ci, siostro, że dałaś mi sposobność nauczenia cię, jak szybciej rzucać zaklęcia.~
+@32  = ~Miło mi było pomóc ci, siostro, byś stała się bliższa naturze. Cieszy mnie również to, że i ty nam pomogłaś. Jest jeszcze jedno, ostatnie zadanie, które musisz wypełnić, zanim arcydruidka nauczy cię nowej umiejętności. Jesteś gotowa?~
+@33  = ~W takim razie z niecierpliwością będę oczekiwać naszego kolejnego spotkania, siostro.~
+@34  = ~Podczas gdy twoje pierwsze zadanie było dość proste, to drugie okazało się już znacznie trudniejsze. Ostatnie zadanie jest zaś łatwe, ale tylko dlatego, że nie musisz ryzykować własnego życia. Proszę, siostro, weź to. Jest to magiczny kostur, który był uważany za niezniszczalną broń.~
+@35  = ~Wiem, że tak, siostro.~
+@36  = ~Powiodło ci się z kosturem, siostro?~
+@37  = ~Wróć do mnie, siostro, kiedy już to zrobisz.~
+@38  = ~W takim razie ukończyłaś zadanie. Proszę, siostro, umagicznię dodatkowo ten kostur i oddam ci go w prezencie.~
+@39  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak zmieniać swój kształt w formę smoka, co jest zwieńczeniem umiejętności zmiany kształtów.~
+@40  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak skuteczniej leczyć innych.~
+@41  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak szybciej rzucać zaklęcia.~
+@42  = ~Arcydruidka: Odnowa
+
+Trzy, opiekujące się północnym gajem, druidki poprosiły mnie, abym pomógł im naprawiając uszkodzony magiczny kostur. Powiedziały mi, że powinienem odnaleźć rzadki gatunek drewna i zanieść go do krasnoluda w Athkatli, Cromwella. On powinien być w stanie naprawić kostur.
+Kiedy już skończę z kosturem, mam o tym powiadomić, przebywające na południe od Wrót Baldura, druidki. Obiecały one nauczyć mnie nowej umiejętności.~ ~Arcydruidka: Odbudowa
+
+Trzy, opiekujące się północnym gajem, druidki poprosiły mnie, abym pomogła im naprawiając uszkodzony magiczny kostur. Powiedziały mi, że powinnam odnaleźć rzadki gatunek drewna i zanieść go do krasnoluda w Athkatli, Cromwella. On powinien być w stanie naprawić kostur.
+Kiedy już skończę z kosturem, mam o tym powiadomić, przebywające na południe od Wrót Baldura, druidki. Obiecały one nauczyć mnie nowej umiejętności.~
+@43  = ~Arcydruidka: Odnowa
+
+Przy pomocy krasnoluda Cromwella udało mi się naprawić magiczny kostur i przywrócić go do jego magicznego stanu, o co prosiły mnie trzy druidki. Kostur był uszkodzony, ale teraz, po odnowieniu, zdaje się być znacznie potężniejszy.~

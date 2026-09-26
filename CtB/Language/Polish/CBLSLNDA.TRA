@@ -1,0 +1,74 @@
+@1   = ~Co? Czy ktoś wypowiedział moje imię? O co chodzi, Tardecie?~ 
+@2   = ~Tak, tak. Witaj.~
+@3   = ~Tak, tak, Tardecie. Skończmy z tym.~ 
+@4   = ~Wyjaśnienie jest proste, Arkaneusie. To, że niektóre gatunki roślin nie poddają się działaniom nadnaturalnych środków, jak na przykład zaklęciu na wzrost rośliny, zależy od tego, z jakiego obszaru dana roślina pochodzi.~
+@5   = ~Dla przykładu, drzewa bambusowe z Calimshanu albo nawet z południowego Tethyru potrzebują mało wody, ale za to dużo słońca. Na pustyni nie ma wystarczającej ilości wody dla dużego drzewa bambusowego, więc dorasta ono tylko do takich rozmiarów, by móc zapewnić sobie ilość wody wystarczającą do przetrwania. Nienaturalnie zmienione rośliny nie są w stanie uzyskać odpowiedniej ilości wody i w efekcie umierają.~ 
+@6   = ~Tak więc przyczyną, dla której wiele gatunków nie może zostać magicznie zmienionych, są uwarunkowania genetyczne, albo, jeśli wolisz, zdolności rośliny do przetrwania.~
+@7   = ~Nigdy bym nie pomyślała, że Sylvanus lepiej włada łukiem niż ty, Tardecie.~
+@8   = ~Zbyt wiele razy. Pewnego razu o mało nie pozbawił mnie głowy, pamiętasz?~ 
+@9   = ~Nie pozwól Sylvanusowi cię okłamywać. On potrafi rozmawiać z końmi i powiedział jednemu z nich, żeby nie pozwalał mi na sobie jeździć.~
+@10  = ~*chichocze* Biedny Manny. Ci gniewni myślący męskością pragną tylko jednej rzeczy. Nie mam racji, Manny?~ 
+@11  = ~Mów za siebie, druidzie. Myślę o nim jak o zauroczonym dzieciaku, nie lepszym od tych wiejskich chłopców i dziewczynek, które biegną za nami, kiedy przejeżdżamy przez ich miasteczka.~
+@12  = ~No proszę. Dla mnie nawet brzmi to jak oferta.~
+@13  = ~Mogłabym nawet pozwolić ci ją zrealizować, mój duży przyjacielu. Może udałoby się wzbudzić w małym Mannym jeszcze większą zazdrość o to, co potrafi prawdziwy mężczyzna.~ 
+@14  = ~Znam nawet kilka zaklęć, które pomogą ci stać się większym, dodadzą ci energii, a nawet sprawią, że doznania staną się przyjemniejsze.~
+@15  = ~Muszę stwierdzić, że nie posiadasz żadnego przeszkolenia w mistycznymi sztukach. Niczego się od ciebie nie nauczę.~
+@16  = ~Ach, kolega czarodziej. Chodź. Chętnie z tobą porozmawiam, jeśli masz czas.~ ~Ach, koleżanka czarodziejka. Chodź. Porozmawiałabym z tobą, jeśli masz czas.~
+@17  = ~Z przyjemnością wysłucham twojego wykładu. Kontynuuj, proszę.~
+@18  = ~Musisz mi wybaczyć. Nie mam teraz czasu słuchać twojego wykładu.~
+@19  = ~W takim razie porozmawiamy później, jeśli nadarzy się okazja.~ 
+@20  = ~Może będziesz miał okazję podyskutować o biologii - florze oraz faunie Amnu, Tethyru i Calimshanu - kiedyś.~ ~Może będziesz miała okazję podyskutować o biologii - o florze oraz faunie Amnu, Tethyru i Calimshamu - kiedyś.~
+@21  = ~A może odwiedzisz mnie dziś wieczorem w moim namiocie i zajmiemy się zgłębianiem tajemnic botaniki, biologii i fizyki?~ 
+@22  = ~Postaram się złożyć ci wizytę.~ 
+@23  = ~Myślę, że później mogę nie mieć czasu. Może kiedy indziej?~
+@24  = ~To nie jest dobry pomysł, Lawantho. Po za tym powiedziałem Manny'emu, że szepnę o nim dobre słówko.~
+@25  = ~Właściwie, Lawantho, to właśnie zdałem sobie sprawę, że nie mam teraz nic innego do roboty.~
+@26  = ~Manny? Przestań, <CHARNAME>, chyba nie myślisz, że zainteresowałby mnie ten dzieciak?~
+@27  = ~Niezmiernie ucieszyłoby mnie uczenie się ciebie... ee, znaczy miałam na myśli - z tobą.~
+@28  = ~Oczywiście, jestem pewien, że to właśnie miałaś na myśli.~ ~Oczywiście, jestem pewna, że to właśnie miałaś na myśli.~
+@29  = ~Będzie dla mnie wielką przyjemnością studiowanie z tobą nauk.~
+@30  = ~Cóż, mam nadzieję, że przynajmniej wciśniesz we mnie... ee, znaczy miałam na myśli - wciśniesz mnie na inny dzień.~
+@31  = ~W takim razie, czy zechcesz podyskutować ze mną na pewne naukowe tematy?~
+@32  = ~Może mogłabyś mi powiedzieć trochę więcej o tym, co chciałaś studiować?~
+@33  = ~Moglibyśmy dyskutować na temat wpływu, jaki niektóre typy roślin wywierają na umysł i ciało, o różnicach pomiędzy różnymi gatunkami półludzi. Albo o fizyce, na przykład o efektach tarcia, gdy jedno ciało pociera o drugie.~
+@34  = ~TAK! BARDZO CHCIAŁBYM O TYM Z TOBĄ PODYSKUTOWAĆ, LAWANTHO!~
+@35  = ~Kompletnie nie rozumiem, co do mnie przed chwilą powiedziałaś.~
+@36  = ~Cokolwiek, Lawantho. Po prostu chodźmy do twojego namiotu.~
+@37  = ~Usiądziemy sobie na tym pniu, a ja opowiem ci o badaniach, które prowadziłam. Masz czas, tak?~
+@38  = ~Bardzo dobrze. Na początek powiem, że jestem zielarką. Studiowałam w różnych miejscach, ale najwięcej w Calimshanie, mojej ojczyźnie.~
+@39  = ~Poznawałam najróżniejsze zioła i grzyby charakterystyczne dla poszczególnych obszarów Faerunu.~
+@40  = ~Szczególnie ważny jest elliskański Ubik Fern. Jego liście mogą zostać użyte do wywołania najróżniejszych efektów, na przykład nieprzyjemnych halucynacji i paranoidalnych złudzeń.~
+@41  = ~Są też Koniczyny Morgana, które można znaleźć tylko na półwyspie Velen. Te jasnozielone koniczyny mogą być użyte przez arkanistów w celu pogłębienia wiedzy i pamięci.~
+@42  = ~Jednakże moją ulubioną rośliną z trzech południowych imperiów jest ta. Spójrz tutaj. Botanicy nazywają ją "Astragalus Kentrophyta Grey", ale ci, którzy nie znają fachowych określeń, mówią na nią nią po prostu kentrofitia.~
+@43  = ~To kolczasta roślina użyteczna dla alchemików przy produkcji określonych mikstur, które zapewniają pijącemu silne ożywcze efekty.~
+@44  = ~Był to zatem mały wstęp do tego, jakie gatunki roślin można znaleźć lesie Tethyr.~
+@45  = ~Czy jest jeszcze coś, czego chciałbyś się dowiedzieć?~ ~Czy jest jeszcze coś, czego chciałabyś się dowiedzieć?~
+@46  = ~Nie teraz. Ten wykład był już wystarczająco nudny.~
+@47  = ~Mogę ci później opowiedzieć o innych rzeczach, jeśli sobie tego życzysz.~
+@48  = ~Och, nie podniecaj się tak bardzo... ech, widzę, że powiedziałam to za późno.~
+@49  = ~Nie potrzebuję cię już. Manny! Mógłbyś tu podejść?~
+@50  = ~Nie sądzę, abym potrafiła wyrażać się jaśniej, zachowując jednocześnie odpowiedni poziom przyzwoitości ze względu na tych niedorostków, którzy mogą być tego świadkami.~
+@51  = ~Powiem to inaczej. C-z-y z-e-c-h-c-i-a-ł-b-y-ś p-r-z-y-j-ś-ć d-o m-o-j-e-g-o n-a-m-i-o-t-u i d-o-w-i-e-d-z-i-e-ć s-i-ę c-z-e-g-o-ś o n-a-r-k-o-t-y-k-a-c-h i s-e-k-s-i-e?~
+@52  = ~Weź mnie za rękę. Tardecie, nie odchodźcie nigdzie bez nas. Niedługo wrócimy.~
+@53  = ~Jestem teraz zmęczona. Muszę trochę odpocząć przed naszym kolejnym wykładem.~
+@54  = ~A zatem ty i Tardeth staliście się dobrymi przyjaciółmi. Dobrze cię widzieć. Jeśli masz czas, to chętnie z tobą porozmawiam.~
+@55  = ~Jestem wykończona. Muszę się pozbierać i zregenerować siły przed atakiem na twierdzę Kultu.~
+@56  = ~<CHARNAME>, daj mi trochę odpocząć przed naszym następnym wykładem.~
+@57  = ~Ludzie! Mamy problem! To nie jakiś tam zwykły stary lisz! Jeśli macie jakieś zabezpieczenia, to czas, by ich użyć!~
+@58  = ~<CHARNAME>, mój drogi. Będę tęskniła za naszymi wspólnymi przygodami.~ ~<CHARNAME>, moja droga. Będę tęskniła za naszymi wspólnymi przygodami.~
+@59  = ~Ale cóż, wszystko kiedyś przemija i ten mały pakt pomiędzy twoją grupą i Kompanią Ośmiorga właśnie się kończy. Była to doprawdy niezła zabawa.~
+@60  = ~Jestem pewna, że reszta chciałaby wyrazić swoją wdzięczność, ale uczynię to w ich imieniu.~
+@61  = ~<CHARNAME>. Proszę, weź to. Potraktuj to jako prezent ode mnie.~
+@62  = ~Idziemy, Kompanio Ośmiorga, musimy poszukać przygód gdzie indziej.~
+@63  = ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłem walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miał jeszcze okazję stanąć kiedyś u ich boku.~ ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłam walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miała jeszcze okazję stanąć kiedyś u ich boku.~
+@64  = ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałem. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałem poproszony o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowy na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~ ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałam. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałam poproszona o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowa na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~

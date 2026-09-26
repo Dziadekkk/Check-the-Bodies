@@ -1,0 +1,28 @@
+@800000 = ~Check The Bodies~
+@800001 = ~Biffowanie zasobów Check The Bodies~
+@800002 = ~Musisz miec zainstalowana modyfikacje CtB~
+@800003 = ~Nieprzeznaczone dla EET lub BG2EE~
+@800004 = ~Biffowanie plików...~
+@800005 = ~Obowiazki w Candlekeep~
+@800006 = ~Ten komponent wymaga zainstalowania g³ównego komponentu Check the Bodies.~
+@800007 = ~Przyspieszenie Obowi¹zków w Candlekeep (dla CtB w wersji 2.2 lub nowszej)~
+@800008 = ~Musisz mieæ zainstalowane Obowi¹zki w Candlekeep w wersji 2.2 (lub nowszej)~
+@800009 = ~Inne ulepszenia~
+@800010 = ~Czary maga z CtB~
+
+// gui
+@20001 = ~Registering GUI...~
+@20003 = ~ Baldur's Gate<TM> and the Tales of the Sword Coast<TM> or play ~
+@20004 = ~"Tortured Souls"~
+@20005 = ~%separator%"The Darkest Day"~
+@20006 = ~%separator%"Shadows Over Soubar"~
+@20007 = ~ with the new expansion(s): ~
+@20008 = ~%separator%"Neverending Journey"~
+@20009 = ~%separator%"Big Picture"~
+@20010 = ~%separator%"Check The Bodies"~
+@200101 = ~%separator%"Region Of Terror"~
+@20011 = ~Play%bgt%Shadows of Amn<TM>%separator2%%ts%%tdd%%sos%%nej%%bp%%ctb%%rot%~
+
+@21008 = ~"Oryginalne SoA/ToB"~
+@21009 = ~"Check The Bodies"~
+@21010 = ~Graficzny Interfejs U¿ytkownika gry (GUI)~

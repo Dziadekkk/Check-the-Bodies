@@ -1,0 +1,479 @@
+//ten plik zawiera wszystkie skryptowe STRREF
+@550000 = ~Twoje konkurentki zzielenieją z zazdrości, Surayo.~
+@550001 = ~Są uroczą parą.~
+@550002 = ~Czarująca kobieta!~
+@550003 = ~Gratuluję, moi drodzy.~
+@550004 = ~Nie pomyli się ten, kto tak elegancką i pełną wdzięku istotę jak ty określi mianem wytwornej damy.~
+@550005 = ~Moja droga, będziesz wspaniałą żoną dla jakiegoś szczęśliwca.~
+@550006 = ~Niech żyją nowożeńcy!~
+@550007 = ~Nieznacznie wyciągasz kinkiet ze ściany. Dociera do ciebie cichy zgrzyt i gasną światła, nie ma jednak żadnych innych słyszalnych czy widzialnych efektów.~
+@550008 = ~Masz silne odczucie, że coś jest nie w porządku. Nie masz do końca pewności, ale wydaje ci się, że jakieś stworzenie, bądź stworzenia, najprawdopodobniej dwunożne, znajdują się pobliżu twojej chaty.~
+@550009 = ~Wspinasz się szlakiem do tego niewielkiego obszaru, a roztaczający się przed tobą widok momentalnie cię zachwyca. W tym miejscu, góry wydają się majestatyczne i trudno ci wyobrazić sobie bardziej oddaloną od codziennego zgiełku lokację. Zewsząd docierają do ciebie jedynie dźwięki natury i ciężko ci uwierzyć, by odnaleźli cię tu twoi prześladowcy. Czujesz się tu całkiem bezpiecznie, może pomijając dzikie zwierzęta.~
+@550010 = ~Wygląda na to, że wszystko jest na swoim miejscu. Nie ma żadnego powodu, by przypuszczać, że jakiekolwiek inteligentne formy życia odnalazły szlak wzdłuż górskiego zbocza.~
+@550011 = ~Czujesz, że coś jest nie w porządku. Nie masz całkowitej pewności, ale wydaje ci się, że jakieś stworzenie, bądź stworzenia, najprawdopodobniej dwunożne, znajdują się pobliżu twojej chaty.~
+@550012 = ~Konstrukcję tej starożytnej Wieży Maga nadwyrężył ząb czasu i niespodziewanie zawala się jej sufit, niemalże grzebiąc cię pod gruzem.~
+@550013 = ~Zabierasz pokryty kurzem symbol z jego miejsca na ołtarzu.~
+@550014 = ~Po wieży rozchodzi się głośny, odbijający się echem od ścian huk, choć ty ten dźwięk bardziej czujesz, niż słyszysz. Coś w wieży się poruszyło, coś dużego i ciężkiego.~
+@550015 = ~Leśni przyjaciele! Jestem w niebezpieczeństwie! Pomóżcie mi!~
+@550016 = ~Leśne zwierzęta! Potrzebuję waszej pomocy! Przybądźcie!~
+@550017 = ~ZNÓW NADCHODZĄ!!!~
+@550018 = ~PRZYGOTOWAĆ SIĘ NA ATAK!!!~
+@550019 = ~UTRZYMAĆ SZYK!! NIE MOŻEMY ICH PUŚCIĆ!!!~
+@550020 = ~Woda jest mętna i głęboka. Nie widzisz dna basenu, a instynkt podpowiada ci, że stojąca woda może być połączona z podziemną rzeką, która na pewno gdzieś prowadzi. Jeśli chcesz, możesz popłynąć i to sprawdzić.~
+@550021 = ~Brzoskwinia
+To drzewo jeszcze nie zakwitło, nie ma więc żadnych owoców do zjedzenia, a zamiast tego, na jego słabych i delikatnych gałęziach jest niezliczenie wiele małych listków, które możesz zerwać.~
+@550022 = ~Dziki bez
+Na gałęziach tego krzewu wiszą świeże jagody.~
+@550023 = ~U podnóża pnia tego drzewa, z północnej strony, rośnie kępa rzadkiego gatunku, widłaka goździstego.~
+@550024 = ~Te rośliny to piołun. Medycy i uzdrowiciele używają jego zdrzewiałych łodyg przede wszystkim by polepszyć trawienie.~
+@550025 = ~Na skraju ścieżki, pośród wielu różnych gatunków paproci, rośnie perz, czyli Agropyron repens.~
+@550026 = ~Kiedy stawiasz stopę na jednej z porcelanowych płyt, czujesz, jak nieznacznie zapada się ona w ziemię.~
+@550027 = ~W tym miejscu czar strażniczy jest tak słaby, że rzucone przez ciebie zaklęcie Otwarcie rozproszyło starożytną barierę magiczną.~
+@550028 = ~Kiedy ruszasz w stronę bariery, zagęszcza się magiczna energia uniemożliwiająca ci przejście, a z twojego plecaka rozlega się głośny, brzęczący dźwięk.~
+@550029 = ~Po wyrzuceniu z plecaka pewnych przedmiotów, bez problemu przekraczasz barierę.~
+@550030 = ~Tajemna magia obronna Wieży Maga nagle przenosi cię na inne piętro, dezorientując cię na kilka chwil.~
+@550031 = ~"Teraz wszyscy wiemy, że nie radzisz sobie z łukiem, Tardecie."~
+@550032 = ~"Nawet ja zrobię to lepiej niż ty."~
+@550033 = ~"Patrz, jak się to robi."~
+@550034 = ~"Proszę bardzo, Tardecie. Łatwiej było zrobić, niż mówić."~
+@550035 = ~"Wchodzę w to."~
+@550036 = ~"Sylvanusie i Tardecie, uważajcie."~
+@550037 = ~"Pokażę ci, jak to się robi."~
+@550038 = ~"Proszę bardzo, Tardecie. Łatwiej było zrobić, niż mówić."~
+@550039 = ~"Patrzcie wszyscy. Ten elf nadal udaje łucznika."~
+@550040 = ~"Sądziłby kto, że elfy powinny dobrze sobie radzić z łukiem."~
+@550041 = ~"Sylvanusie, nie trafiłbyś strzałą nawet w stodołę."~
+@550042 = ~"Naprzód, Kompanio Ośmiorga! Chodźmy!"~
+@550043 = ~"Chętnie się przekonam, jak tobie to wyjdzie, Zajęcze Wzgórze."~
+@550044 = ~"Nie zwracaj na nią uwagi, Sylvanusie."~
+@550045 = ~"Poćwiczę trochę z tobą."~
+@550046 = ~"Niech to szlag, stąd nie mogę strzelać."~
+@550047 = ~"Trzy na cztery. Nieźle."~
+@550048 = ~"Nie zwracaj na nią uwagi, Sylvanusie."~
+@550049 = ~"Poćwiczę trochę z tobą."~
+@550050 = ~"Niech to szlag, stąd nie mogę strzelać."~
+@550051 = ~"Psiakrew! Tylko jeden."~
+@550052 = ~"Nieźle."~
+@550053 = ~"Dobry strzał!"~
+@550054 = ~"Trafiony."~
+
+@550058 = ~Odkryję ten sekret!~
+@550059 = ~Ciekawe. To będzie wymagało głębszej analizy.~
+@550060 = ~Te rezultaty nie potwierdzają wyników moich wcześniejszych eksperymentów. Będę musiała spróbować jeszcze raz.~
+@550061 = ~Hmmmm... To niecodzienne zjawisko. Będzie wymagało dogłębnych badań.~
+@550062 = ~Panie, nie można dostrzec źródła.~
+@550063 = ~Czyż nie monitorujecie miasta w swych szklanych kulach? Może w którejś z willi możnych.~
+@550064 = ~Już to zrobiliśmy, panie, jednak nasza magia nie pozwala na ostateczne zdefiniowanie miejsca, gdzie znajduje się źródło. Zaklęcia wskazują na różne lokacje w mieście, które wydają się zmieniać losowo.~
+@550065 = ~Musi istnieć jakieś wytłumaczenie, mistrzu. Czary nie rzucają się same z siebie.~
+@550066 = ~Achhh, tak panie. Rozumiem, lecz mimo to, nie możem...~
+@550067 = ~Może najlepiej, by źródła tych odstępstw poszukał ktoś, kto nie może zostać z nami powiązany?~
+@550068 = ~Jakim cudem ktoś ma dokonać tego, co nam się nie ud...~
+@550069 = ~DOSYĆ! Nie będę nawet rozważał myśli o fiasku. Znajdziecie źródło, a sprawca zostanie oddany w ręce sprawiedliwości. Nie chcę więcej słyszeć wymówek.~
+@550070 = ~Ta... tak, panie. Bezzwłocznie, panie.~
+@550071 = ~Eleonoro. Wygląda na to, że zajmujesz się badaniami, za które ci nie płacę.~
+@550072 = ~Zechcesz mi wyjaśnić, co robisz w tym zacofanym mieście? Z całą pewnością nie ma tu żadnych wartościowych dokumentów. Jakąż to wiedzę, która mogłaby mi się przydać, zamierzasz posiąść w tym miejscu?~
+@550073 = ~Ja... Usłyszałam plotkę. To wszystko. T... tylko plotkę o artefakcie. Po.. pomyślałam, że może być ważna, a... ale jej źródło okazało się niewiarygodne.~
+@550074 = ~Czy nie kazałem informować mnie o każdym podjętym działaniu? Instrukcje były dość jasne. Hmmm. Nie. Nie wierzę w twoją opowieść o plotce.~
+@550075 = ~A teraz chcę usłyszeć prawdę. Co robisz w Targowie?~
+@550076 = ~Nie zdradzę tych, którzy są twoimi wrogami! Nawet nie śnij, że kiedykolwiek uda ci się przeprowadzić rytuał!~
+@550077 = ~Ależ mylisz się, droga Eleonoro. Uda mi się. Uda, i naprawdę wielka szkoda, że nie będziesz świadkiem mojego triumfu. Z chęcią pozbawię cię życia! Brać ją!~
+@550078 = ~To trwa zbyt długo! Giń, głupia elfko!~
+@550079 = ~Magiczna ochrona Siedliszcza Ekstaminów gwałtownie teleportuje cię z dala od głównego wejścia. Musisz znaleźć inną drogę lub sposób, by obejść te zabezpieczenia.~
+
+@550080 = ~Teraz ty.~
+@550081 = ~Nie. <CHARNAME>, przypatrz mi się uważniej.~
+@550082 = ~<CHARNAME>, nie tak, tylko tak. Patrz.~
+@550083 = ~Blisko! Niezła robota. Po prostu wyraź słowami więcej.~
+@550084 = ~Na Gonda, <PRO_GIRLBOY>! To jest to! Zrób to jeszcze raz!~
+@550085 = ~Nie tak. Spróbuj ponownie.~
+@550086 = ~Skoncentruj się, dziecko.~
+@550087 = ~Łaskawy Gondzie, <CHARNAME>! Uważaj!~
+
+//Cutscena: Hull naucza Piruetu defensywnego
+@550088 = ~Więc, dzieciaku, ażeby właściwie chronić się w ogniu bitwy, powszechnym jest wprowadzanie się na kilka chwil w stan podobny do transu.~
+@550089 = ~Trans ten jest powszechnie znany wśród wojowników jako piruet defensywny. Podczas jego użycia jedyne, co musisz robić, to koncentrować się na atakach przeciwnika.~
+@550090 = ~Przez skoncentrowanie się na ruchach przeciwnika, możesz obronić się przed niemal każdym atakiem, a im więcej dowiesz się o stylach walki przeciwników, tym większą ilość rodzajów ataków będziesz potrafił<PRO_HESHE> powstrzymać.~
+@550091 = ~Cóż, spróbujmy. Będę atakował cię tym owiniętym mieczem, a twoim zadaniem będzie parowanie moich ataków ramionami, rękoma lub czymkolwiek innym zdołasz. Po prostu próbuj parować moje ciosy.~
+@550092 = ~W miarę ćwiczeń, poczujesz, że twoja koncentracja wzrośnie, a ty będziesz potrafił<PRO_HESHE> parować coraz więcej moich ciosów.~
+
+//Cutscena: Hull naucza Wytrzymałości
+@550093 = ~Musisz nauczyć się, jak rozpoznawać, że twoje fizyczne ciało jest w niebezpieczeństwie.~
+@550094 = ~Musisz także wiedzieć, że ciało ma sposoby na chronienie siebie.~
+@550095 = ~Aby się tego nauczyć, musisz poczuć czym jest ból.~
+@550096 = ~Wiem, że to będzie boleć, ale to jedyny sposób jaki znam, który umożliwi ci zrozumienie tego.~
+@550097 = ~Nie martw się dzieciaku, wiem, co robię. Nie chcę cię poważnie zranić, ale poczujesz mocny ból.~
+@550098 = ~Przygotuj się.~
+@550099 = ~To naprawdę bolało, Hullu.~
+@550100 = ~Wiem o tym, ale spójrz na siebie, dzieciaku. Nie masz żadnego złamania czy rozcięcia.~
+@550101 = ~To właśnie miałem na myśli mówiąc, że twoje ciało ma sposoby na chronienie siebie. Było nieprzygotowane, a ja zadałem niezły cios. Mimo to nie odniosło prawdziwej rany, a jedynie odczuło ból.~
+@550102 = ~Teraz, kiedy wiesz co mam na myśli, uderzę cię mocniej, pamiętaj jednak, dzieciaku, że tym razem nawet nie poczujesz bólu.~
+
+//Cutscena: Hull naucza Piruetu ofensywnego
+@550103 = ~Cóż, dzieciaku, kiedy walczysz w starciu i chcesz poważnie zranić swego przeciwnika w krótkim czasie, wielu wojowników sięga po technikę powszechnie zwaną ofensywnym piruetem.~
+@550104 = ~Jest to stan podobny do transu, w którym atakujący porusza się szybciej, podnosi swoje umiejętności trafiania, uderza niemal z prędkością błyskawicy, celniej i zadając maksymalne możliwe dana bronią obrażenia.~
+@550105 = ~W ogniu walk ta technika, czy też trans będzie trwał tylko kilka chwil, jednak może okazać się zabójczy dla słabszych przeciwników czy szykujących się do rzucania czarów magów.~
+@550106 = ~Aby sprawdzić tę technikę, dam ci miecz; masz go użyć przeciwko mnie, zaatakować. Nie będę z tobą walczył, ale chcę byś koncentrował<PRO_HESHE> się na tym, gdzie jestem, jak porusza się twój miecz, jak musisz się ustawić do cięcia czy pchnięcia i, co najważniejsze, musisz zaplanować następne uderzenie na długo przedtem, nim wykonasz atak.~
+@550107 = ~Oto podstawa ofensywnego piruetu, dzieciaku, planuj gdzie uderzać zanim w ogóle zaczniesz atakować. Cóż, spróbujmy jeszcze raz.~
+
+//Cutscena: Hull naucza Tropienia
+@550108 = ~Aby znaleźć swoich wrogów, dzieciaku, musisz poznać otoczenie.~
+@550109 = ~Na przykład, nie znajdziesz yeti w ciemnej jaskini w Podmroku. Chyba że towarzyszyć ci będzie Zgromadzenie Mystry, wiesz?~
+@550110 = ~Tak samo, nie znajdziesz mumii w lesie.~
+@550111 = ~To najważniejsza zasada tropienia - musisz wiedzieć, czego szukać. Zademonstrowałbym ci to lepiej, gdybyśmy byli w lesie, a nie w koszarach, ale użyj wyobraźni.~
+@550112 = ~Wyobraź sobie, że widzisz na ziemi dwie pary odcisków stóp. Zastanów się, jakich wskazówek mogą ci one dostarczyć.~
+@550113 = ~Jeśli są głębokie, możesz się domyślać, że zostawił je ktoś masywny, noszący ciężkie buty.~
+@550114 = ~A jeśli druga para będzie delikatniejsza? Wyobraź sobie, że widzisz te ślady, tu w twierdzy.~
+@550115 = ~Połącz te wskazówki z otoczeniem, a dojdziesz do wniosku, że odciski pozostawili, jako że w pobliżu raczej nie ma wielu słoni, ludzie lub półludzie - prawdopodobnie strażnik – nosi bowiem ciężkie buty – i kapłan – lekkie pantofle – z tej twierdzy.~
+@550116 = ~Co nie, dzieciaku?~
+@550117 = ~Brzmi sensownie, panie Hullu.~
+@550118 = ~Dobrze. Dalej, drugą ważną czynnością w tropieniu jest ustalenie, dokąd stworzenia się udały i jak dawno tędy przechodziły.~
+@550119 = ~Przypatrz się, w jakim kierunku zmierzają ślady. Weź też pod uwagę warunki pogodowe z ostatnich kilku dni.~
+@550120 = ~Mam na myśli to, by zwrócić szczególną uwagę, czy ślady nie są zatarte przez deszcz lub wiatr.~
+@550121 = ~Jeśli ślady są dobrze zachowane, a dwa dni temu padał deszcz, możesz zakładać, że zostały pozostawione po ulewie.~
+@550122 = ~Wtedy możesz się domyślać, czy tropione stworzenie nadal znajduje się w okolicy.~
+@550123 = ~Na tym w skrócie polega umiejętność tropienia, dzieciaku.~
+
+@550124 = ~Musisz mieć czystą pościel, by pościelić to łóżko.~
+@550125 = ~Kładziesz prześcieradło oraz kołdrę na łóżku i układasz poduszki. Teraz jest ono gotowe do użycia przez któregoś z mieszkańców twierdzy.~
+@550126 = ~Musisz podejść bliżej łóżka, by je pościelić.~
+@550127 = ~Głupi magowie. Zawsze zadzierają z mocami, których nie potrafią pojąć.~
+@550128 = ~Głupiec ma za swoje, skoro zadziera z magią.~
+@550129 = ~Myrkul, albo jakieś inne potężne bóstwo, odmówił ci prawa do noszenia Rogatej Korony. Znika ona z twojego ekwipunku, pozostawiając cię na chwilę w stanie zdekoncentrowania.~
+@550130 = ~Niemalże dekadę temu, kiedy twój wiek i doświadczenie, były znacznie mniejsze...~
+@550131 = ~Dotykasz złotej gwiazdy i masz przeczucie, że to był dobry ruch.~
+@550132 = ~Kiedy dotykasz złotej gwiazdy, zaczyna ona lśnić. Masz przygnębiające przeczucie, że to nie był dobry ruch.~
+@550133 = ~Kiedy dotykasz złotej gwiazdy, powietrze wokół ołtarza Mystry nieznacznie drga, a potem zanika.~
+@550134 = ~Dziś nie uda nam się podbić wyspy!~
+@550135 = ~Odwrót! Jeszcze tu wrócimy!~
+@550136 = ~To <CHARNAME>! J<PRO_HISHER> przyjaciele próbują <PRO_MALEFEMALE> odbić!~
+@550137 = ~Muszę poinformować Byron! J<PRO_HIMHER> nie możemy pozwolić uciec!~
+@550138 = ~Byron! To <CHARNAME>! J<PRO_HISHER> sprzymierzeńcy próbują <PRO_MALEFEMALE> ocalić! Szybko, nie pozwól <PRO_HIMHER> uciec!~
+@550139 = ~Zgromadzenie publiczne! Każdy jest zobowiązany do uczestnictwa!~
+@550140 = ~Rada Sześciu ogłasza zarządzenie! Więcej informacji w Budynku Rządowym!~
+@550141 = ~Pani Lanulin będzie przemawiać w Budynku Rządowym! Chodźcie wszyscy!~
+@550142 = ~Zaczynasz z całej siły ciągnąć drzwi i czujesz, jak drewniane odrzwia powoli poddają się twoim wysiłkom. W końcu drzwi się otwierają.~
+@550143 = ~Zaczynasz z całej siły ciągnąć drzwi, ale drewniane odrzwia niewzruszenie pozostają w swoich ramach. Potrzebny ci będzie ktoś silniejszy, by je ruszyć.~
+@550144 = ~Zaczynasz z całej siły ciągnąć drzwi, ale wydają się być zaklinowane. Być może uda się je otworzyć za którymś razem.~
+@550145 = ~Uch, och! Pozostali są w lesie. Tardeth musi się o tym dowiedzieć!~
+@550146 = ~Gonią mnie! Muszę ich odsadzić!~
+@550147 = ~Szlag! Jeszcze ich nie zgubiłem. Uciekaj! Pędź do Tardetha!~
+@550148 = ~Ciiii, Paddy, ciii..~
+@550149 = ~Ukryj się! Ukryj się i uciekaj! Zawsze to powtarzam!~
+@550150 = ~Chodź ze mną, dziecko.~
+@550151 = ~Chodź za mną, moje dziecko. Udamy się do niezwykłego i tajnego miejsca.~
+
+//Cutscena: śmierć Goriona (Chores): Gorion
+@550152 = ~Musimy się pośpieszyć, dziecko! Zmierzcha już i musimy znaleźć schronienie. Nie trap się, wszystko ci wyjaśnię w swoim czasie.~ [GORIN11]
+@550153 = ~Czekaj! Coś jest nie tak! Wpadliśmy w zasadzkę! Gotuj się!~ [GORIN03]
+@550155 = ~Durniem jesteś, jeśli mniemasz, że dam się zwieść twojej życzliwości. Idź precz, a tobie i twoim poplecznikom nie stanie się krzywda.~ [GORIN12]
+@550157 = ~Biegnij, dziecko, ile sił w nogach!~ [GORIN02]
+
+//Cutscena: śmierć Goriona (Chores): Sarevok
+@550154 = ~Jesteś bystry, jak na starca. Wiesz, dlaczego tu jestem. Wydaj mi swego wychowanka i nikomu nie stanie się krzywda. Opór jest daremny.~ [SAREV10]
+@550156 = ~Przykro mi starcze, że tak to odbierasz...~ [SAREV11]
+
+//Cutscena: walka finałowa BG1 (Chores): Sarevok
+@550055 = ~Rzeczywiście jesteśmy jedną rodziną. Nikt inny nie ośmieliłby się mi sprzeciwić. Oczywiście i tak nie ma to znaczenia. Ostatecznie ja zwyciężę... i dla Krain nastanie nowa era...~ [SAREV01]
+@550056 = ~Wznieć w sobie wściekłość i zakończymy wszystko zgodnie z naszym dziedzictwem! Stań przeciw mnie! Stań przeciw nowemu PANU ZBRODNI! Angelo! Tazok! Przybywajcie i kończmy to wszystko!~ [SAREV12]
+
+//Cutscena: walka finałowa BG1 (Chores): PC
+@550057 = ~Twoim podłościom nastanie koniec tu i teraz! Ten bóg zostanie martwy, ty zaś do niego dołączysz!~
+
+
+@550158 = ~O elfach i artefaktach
+
+Po opuszczeniu Świątyni Waukeen w Targowie, Eleonora została zaatakowana przez maga, o którym mi opowiadała. Miał ze sobą skromną obstawę, jednakże jej nie potrzebował. Jego magia była bowiem bez porównania potężniejsza niż Eleonory, którą zresztą zamordował w żywiołowej walce na magię, dla niej bardzo żywotnej. Uczczę jej poświęcenie i nie pozwolę, by uczyniła to na próżno.~
+@550159 = ~Spotka cię zguba! Ekstamini przetrwają!~
+@550160 = ~Ekstamini nie upadną!~
+@550161 = ~Módl się, by móc cało opuścić Siedliszcze!~
+@550162 = ~Czyż myślisz Hlondeth wolnym uczynić? Ekstamini pozostaną.~
+@550163 = ~O elfach i artefaktach
+
+Zanieśliśmy Rogatą koronę Cromwellowi, któremu udało się zniszczyć przepełniające ją starożytne zło, coś, czego przed laty nie potrafił pokonać sam Khelben Arunsun. Khaddyr, mag, który chciał spróbować Wiecznotrwałości, nie stanowi już zagrożenia, a biedna Eleonora, elfka, spotkana, zanim się to wszystko zaczęło, może spocząć w spokoju. Sądzę, że po raz kolejny Faerun został przeze mnie ocalony przed pewnym zniszczeniem.~
+@550164 = ~O elfach i artefaktach
+
+Kiedy przemierzaliśmy Dzielnicę Mostów nieznana elfka podeszła do mnie z dającym się zauważyć niepokojem. Nic nie powiedziała, jednak ukradkiem wsunęła do mojego ekwipunku małą statuetkę. Nie wiem jednak zarówno dlaczego, jak i jakie właściwości ma ten posążek. Powinniśmy to zbadać, a być może ta elfka poprowadzi nas ku kolejnej przygodzie.~
+@550165 = ~Porwanie!
+
+Podczas próby wykonania zleconego przez Bodhi zadania, wpadliśmy w zasadzkę Złodziei Cienia. Nie pozostawili nam zbyt dużego pola do manewru, a <CHARNAME> trafił<PRO_HESHE> do niewoli. Nie wiemy, co te rzezimieszki mają zamiar z <PRO_SIRMAAM> zrobić, ale wszyscy zgadzamy się, że najlepiej będzie, jeśli odbijemy <PRO_MALEFEMALE> przy pierwszej sposobności. Naprędce staraliśmy się dojść do tego, co dalej robić. Nie mamy przywódcy, który podejmowałby w naszym imieniu decyzje, więc najlepszym kierunkiem działania jest z pewnością odszukanie naszej pracodawczyni, Bodhi, na cmentarzu. Przekonamy się, czy zna jakiś sposób na to, by wyrwać <PRO_MALEFEMALE> z rąk Złodziei Cienia.~
+@550166 = ~Wiesz, co robić. Rozpocznij ceremonię!~
+@550167 = ~Dobrze! Dobrze! Zainicjuj ochrony!~
+@550168 = ~Kontynuuj! Nie rozpraszaj się! Nie możemy sobie pozwolić, by uwolnić dziką magię!~
+@550169 = ~Coś... czekaj! Nie! Tak nie jest dobrze! Coś jest nie tak!~
+@550170 = ~To działa! Kontynuuj rzucanie! Mogę poczuć Moc!~
+@550171 = ~O elfach i artefaktach
+
+Udało się powstrzymać Khaddyra przed ukończeniem rytuału Wiecznotrwałości. To, co zapowiadało się na niejasną obietnicę zadania przerażonej elfki, było już niemal ukończone. Odzyskaliśmy prawdziwą Rogatą koronę, a ja muszę podjąć decyzję, co też powinno się z nią stać. Mogę ją zatrzymać, jednak spowoduje to, że zawarte w niej zło wciąż będzie istnieć w Faerunie. Być może więc najlepszym rozwiązaniem byłoby jej zniszczenie.~
+@550172 = ~Jest czysta.~
+@550173 = ~Jest czysty.~
+@550174 = ~Porwanie!
+
+Podczas próby wykonania zleconego przez Bodhi zadania, wpadliśmy w zasadzkę Złodziei Cienia. Nie pozostawili nam zbyt dużego pola do manewru, a <CHARNAME> trafił<PRO_HESHE> do niewoli. Nie wiemy, co te rzezimieszki mają zamiar z <PRO_SIRMAAM> zrobić, ale wszyscy zgadzamy się, że najlepiej będzie, jeśli odbijemy <PRO_MALEFEMALE> przy pierwszej sposobności. Naprędce staraliśmy się dojść do tego, co dalej robić. Nie mamy przywódcy, który podejmowałby w naszym imieniu decyzje, więc najlepszym kierunkiem działania jest z pewnością odszukanie naszej pracodawczyni, Bodhi, na cmentarzu. Przekonamy się, czy zna jakiś sposób na to, by wyrwać <PRO_MALEFEMALE> z rąk Złodziei Cienia.~
+@550175 = ~W trakcie rytuału musicie być w pełni skoncentrowani na zadaniu, które macie do wykonania. Za niepowodzenie w którejkolwiek części zapłacicie życiem.~
+@550176 = ~W trakcie pierwszego etapu, będziemy rzucać czary do ochrony samych siebie przed szturmem magicznej energii, którą nasza trójka pobiera ze Splotu, i utrzymamy ją pod naszą kontrolą. Utrzymujcie kontrolę. To jest podstawa.~
+@550177 = ~Rozpocznę rytuał rzucając ochronny czar na siebie. Kiedy tylko skończę, obaj powinniście zabezpieczyć się przed energią. Ty (wskazuje na jednego ucznia) rzucisz ten sam czar, co i ja - Klosz niewrażliwości mniejszej, podczas gdy ty (wskazuje na drugiego ucznia) rzucisz Niepodatność na czary ze szkoły poznania.~
+@550178 = ~Nie możemy popełnić żadnego błędu. Zrobimy teraz próbę. Przygotujcie się.~
+@550179 = ~Dobrze. Podczas rytuału róbcie dokładnie to, co do was należy. Nie pozwólcie sobie na utratę kontroli nad magicznymi energiami.~
+@550180 = ~Odpocznijcie teraz. Próby będziemy kontynuować później.~
+@550181 = ~Niezwykle ważnym jest, abyście w trakcie rytuału nie pozwolili czemukolwiek przeszkodzić wam w rzuceniu czaru, wliczając w to wszystkie siły, które uwolnię.~
+@550182 = ~Obaj musicie rzucić zwykłą Ochronę przed złem na siebie samych. Zróbcie to, a energia, którą zgromadzę, nie spowoduje u was żadnego uszczerbku na zdrowiu, ani nie przerwie rzucanego przez was czaru. Zrozumiano?~
+@550183 = ~Tak, Mistrzu Khaddyrze. Możesz kontynuować próby.~
+@550184 = ~Dobrze. Podczas rytuału róbcie dokładnie to, co do was należy. Nie możecie pozwolić zgromadzonej przeze mnie mocy, by was rozproszyła.~
+@550185 = ~Odpocznijcie teraz. Próby będziemy kontynuować później.~
+@550186 = ~Suma magicznej energii, którą w trójkę przywołamy i poddamy sobie, znacznie przewyższa to, czego dotychczas doświadczyliście.~
+@550187 = ~Musicie być chronieni przed złożonymi i ujarzmionymi siłami. Magia rytuału będzie dążyć do przenikania między przewodnikami, w tym przypadku nami. Teraz poznacie potęgę Wiecznotrwałości.~
+@550188 = ~To czego dotychczas doświadczyliście, jest zaledwie drobiną mocy, z którymi połączymy się podczas rytuału. Nie możemy popełnić najmniejszego błędu, nie możecie zawieść.~
+@550189 = ~Wypychacz zwierząt~
+@550190 = ~Wytwórca mydła~
+@550191 = ~Rzeźnik~
+@550192 = ~Kołodziej~
+@550193 = ~Sprzedawca ryb~
+@550194 = ~Perfumerzysta~
+@550195 = ~Księgowy~
+@550196 = ~Aptekarz~
+@550197 = ~Piekarz~
+@550198 = ~Cyrulik~
+@550199 = ~Piwowar~
+@550200 = ~Mydlarz~
+@550201 = ~Szewc~
+@550202 = ~Kwiaciarz~
+@550203 = ~Złotnik~
+@550204 = ~Uzdrowiciel~
+@550205 = ~Jubiler~
+@550206 = ~Handlarz starzyzną~
+@550207 = ~Kamieniarz~
+@550208 = ~Bankier~
+@550209 = ~Garncarz~
+@550210 = ~Mędrzec~
+@550211 = ~Krawiec~
+@550212 = ~Wytwórca narzędzi~
+@550213 = ~Przedsiębiorca pogrzebowy~
+@550214 = ~Rzeźbiarz~
+@550215 = ~Tkacz~
+@550216 = ~Kowal~
+@550217 = ~Płatnerz~
+@550218 = ~Szyparz~
+@550219 = ~Rolnik~
+@550220 = ~Kucharz~
+@550221 = ~Rybak~
+@550222 = ~Posterunkowy~
+@550223 = ~Goniec~
+@550224 = ~Alchemik~
+@550225 = ~Pastuch~
+@550226 = ~Duchowny~
+@550227 = ~Dworzanin~
+@550228 = ~Rzemieślnik~
+@550229 = ~Skryba~
+@550230 = ~Poseł~
+@550231 = ~Ambasador~
+@550232 = ~Sędzia~
+@550233 = ~Młynarz~
+@550234 = ~Ekskluzywna kurtyzana~
+@550235 = ~Weteran wojenny~
+@550236 = ~Turysta~
+@550237 = ~Minstrel~
+@550238 = ~Lampiarz~
+@550239 = ~Pijany awanturnik~
+@550240 = ~Zalotnik~
+@550241 = ~Koń~
+@550242 = ~Łotr~
+@550243 = ~Najemnik~
+@550244 = ~Pijany cudzoziemiec~
+@550245 = ~Kupujący~
+@550246 = ~Ładowacz~
+@550247 = ~Obłąkany kapłan~
+@550248 = ~Kurtyzana~
+@550249 = ~Eskorta~
+@550250 = ~Pyszałek~
+@550251 = ~Żebrak~
+@550252 = ~Hlondecka szlachcianka~
+@550253 = ~Restaurator~
+@550254 = ~Posłaniec~
+@550255 = ~Widocznie zbyt długo zwlekaliście z przeniesieniem rodziny wampirów. Zostali zniszczeni przez światło słoneczne.~
+@550256 = ~Blok lodu, który taszczyliście ze sobą, stopił się. Być może należało dostarczyć go szybciej.~
+@550257 = ~Klinga Śpiewnych Czarów nie wybrała ciebie na swego prawowitego właściciela. W odruchu buntu, ostrze wybucha.~
+@550258 = ~Księżycowe ostrze nie wybrało ciebie na swego prawowitego właściciela. W odruchu buntu, ostrze wybucha.~
+@550259 = ~Elfi spijacz soków nie wybrał ciebie na swego prawowitego właściciela. Ostrze buntuje się przeciwko tobie, a ty masz obowiązek przestać go używać, tak szybko, jak to możliwe.~
+@550260 = ~To ostrze wybrało ciebie jako swego dzielnego i honorowego posiadacza, jedna z uśpionych mocy Księżycowego ostrza została uwolniona.~
+@550261 = ~Czasy się zmieniają, a my nie zmieniamy się z nimi.~ [CB_77725]
+@550262 = ~Zrobię wszystko, aby zapewnić ci bezpieczeństwo.~ [CB_77726]
+@550263 = ~Niech Corellan Lotharian obdarzy łaską nasze ścieżki.~ [CB_77727]
+@550264 = ~Uważaj, gdzie mną celujesz.~ [CB_77728]
+@550265 = ~Seldarine osądzą nas za wszystkie nasze czyny.~ [CB_77729]
+@550266 = ~Jesteśmy gotowi na nasze zadanie. Idziemy naprzód w imieniu Ludu.~ [CB_77730]
+@550267 = ~Zawsze myślałem o tobie jak o kimś wyjątkowym.~ [CB_77731]
+@550268 = ~Nie ucz matki chować dziatki.~ [CB_77732]
+@550269 = ~To zaszczyt być twoim towarzyszem.~ [CB_77733]
+@550270 = ~Nie lekce sobie ważę moich obowiązków.~ [CB_77734]
+@550271 = ~Wskaż drogę, a wykonamy dzieło Seldarine, tu w Faerunie.~ [CB_77735]
+@550272 = ~Trwaj w gotowości, a staniemy na wysokości zadania.~ [CB_77736]
+@550273 = ~Bez czci dla Seldarine, nie możemy mieć nadziei na heroiczne czyny.~ [CB_77737]
+@550274 = ~Śpiewaj hymny o Lesie i Splocie, a nic złego się nie stanie.~ [CB_77738]
+@550275 = ~Jesteś najzacniejszą osobą spośród moich dotychczasowych posiadaczy.~ [CB_77739]
+@550276 = ~Czas sprowadzić go na ziemię.~ [CB_77740]
+@550277 = ~Nawet nie wiesz, jak blisko jesteś tego, by poczuć moje ostrze.~ [CB_77741]
+@550278 = ~Spoczywaj spokojnie, śmierć już przychodzi po ciebie.~ [CB_77742]
+@550279 = ~Kolejny spieszący na cmentarz.~ [CB_77743]
+@550280 = ~Niech Seldarine mają dla ciebie litość.~ [CB_77744]
+@550281 = ~Niech twoja ostatnia wędrówka będzie spokojna.~ [CB_77745]
+@550282 = ~Posmakuj mego ostrza!~ [CB_77746]
+@550283 = ~Za Lud!~ [CB_77747]
+@550284 = ~To nie dziś polegniemy.~ [CB_77748]
+@550285 = ~Żegnaj i niech twój duch znajdzie pokój w przyszłym życiu.~ [CB_77749]
+@550286 = ~O elfach i artefaktach
+
+Udało się powstrzymać Khaddyra przed ukończeniem rytuału Wiecznotrwałości. To, co zapowiadało się na niejasną obietnicę zadania przerażonej elfki, było już niemal ukończone. Odzyskaliśmy prawdziwą Rogatą koronę, a ja muszę podjąć decyzję, co też powinno się z nią stać. Mogę ją zatrzymać, jednak spowoduje to, że zawarte w niej zło wciąż będzie istnieć w Faerunie. Być może więc najlepszym rozwiązaniem byłoby jej zniszczenie.~
+@550287 = ~O elfach i artefaktach
+
+Znaleźliśmy przedmiot, o którym mówiła Eleonora, a następnie zanieśliśmy go Cromwellowi. Udało mu się stworzyć niemal identyczną kopię Rogatej korony, którą zabiorę na spotkanie z magiem. Mam nadzieję, że nie przejrzy tej mistyfikacji.~
+@550288 = ~O elfach i artefaktach
+
+Znaleźliśmy, mające umożliwić stworzenie fałszywej Rogatej korony, części, o których powiedziała Eleonora; jednak nawet Cromwell, któremu je przynieśliśmy, nie potrafił stworzyć duplikatu. Mam do wyboru albo skłonić go do kolejnej próby, albo znaleźć inny sposób na powstrzymanie maga przed próbą Wiecznotrwałości.~
+@550289 = ~O elfach i artefaktach
+
+Po opuszczeniu Świątyni Waukeen w Targowie, Eleonora została zaatakowana przez maga, o którym mi opowiadała. Miał ze sobą skromną obstawę, jednakże jej nie potrzebował. Jego magia była bowiem bez porównania potężniejsza niż Eleonory, którą zresztą zamordował w żywiołowej walce na magię, dla niej bardzo żywotnej. Uczczę jej poświęcenie i nie pozwolę, by uczyniła to na próżno.~
+@550290 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać na łące nieopodal lasu Tethyr, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550291 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach nieopodal Wzgórz Umar, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550292 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach pod Wzgórzami Wichrowych Włóczni, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550293 = ~O elfach i artefaktach
+
+Otrzymana od pewnej elfki w Dzielnicy Mostów statuetka została zidentyfikowana, a magiczna wiadomość w niej przechowywana - odsłuchana. Głos, niewątpliwie elfi, chociaż przepełniony obawą i grozą, nie obfitował we wskazówki odnośnie przygody, o której wspominał. Wiem jedynie, że elfka ta może znajdować się w niebezpieczeństwie - jak, zgodnie z jej słowami, również całe Wybrzeże Mieczy - i, jeśli zdecyduję się z nią spotkać w Świątyni Waukeen w Targowie, postara się wytłumaczyć mi to dokładniej. Być może tak właśnie uczynię, jednak wcześniej wypadałoby zebrać o niej trochę informacji.~
+@550294 = ~O elfach i artefaktach
+
+Kiedy przemierzaliśmy Dzielnicę Mostów nieznana elfka podeszła do mnie z dającym się zauważyć niepokojem. Nic nie powiedziała, jednak ukradkiem wsunęła do mojego ekwipunku małą statuetkę. Nie wiem jednak zarówno dlaczego, jak i jakie właściwości ma ten posążek. Powinniśmy to zbadać, a być może ta elfka poprowadzi nas ku kolejnej przygodzie.~
+@550295 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach pod Wzgórzami Wichrowych Włóczni, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550296 = ~O elfach i artefaktach
+
+Po opuszczeniu Świątyni Waukeen w Targowie, Eleonora została zaatakowana przez maga, o którym mi opowiadała. Miał ze sobą skromną obstawę, jednakże jej nie potrzebował. Jego magia była bowiem bez porównania potężniejsza niż Eleonory, którą zresztą zamordował w żywiołowej walce na magię, dla niej bardzo żywotnej. Uczczę jej poświęcenie i nie pozwolę, by uczyniła to na próżno.~
+@550297 = ~O elfach i artefaktach
+
+Znaleźliśmy, mające umożliwić stworzenie fałszywej Rogatej korony, części, o których powiedziała Eleonora; jednak nawet Cromwell, któremu je przynieśliśmy, nie potrafił stworzyć duplikatu. Mam do wyboru albo skłonić go do kolejnej próby, albo znaleźć inny sposób na powstrzymanie maga przed próbą Wiecznotrwałości.~
+@550298 = ~O elfach i artefaktach
+
+Znaleźliśmy przedmiot, o którym mówiła Eleonora, a następnie zanieśliśmy go Cromwellowi. Udało mu się stworzyć niemal identyczną kopię Rogatej korony, którą zabiorę na spotkanie z magiem. Mam nadzieję, że nie przejrzy tej mistyfikacji.~
+@550299 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać na łące nieopodal lasu Tethyr, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550300 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach nieopodal Wzgórz Umar, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@550301 = ~O elfach i artefaktach
+
+Otrzymana od pewnej elfki w Dzielnicy Mostów statuetka została zidentyfikowana, a magiczna wiadomość w niej przechowywana - odsłuchana. Głos, niewątpliwie elfi, chociaż przepełniony obawą i grozą, nie obfitował we wskazówki odnośnie przygody, o której wspominał. Wiem jedynie, że elfka ta może znajdować się w niebezpieczeństwie - jak, zgodnie z jej słowami, również całe Wybrzeże Mieczy - i, jeśli zdecyduję się z nią spotkać w Świątyni Waukeen w Targowie, postara się wytłumaczyć mi to dokładniej. Być może tak właśnie uczynię, jednak wcześniej wypadałoby zebrać o niej trochę informacji.~
+@550302 = ~O elfach i artefaktach
+
+Kiedy przemierzaliśmy Dzielnicę Mostów nieznana elfka podeszła do mnie z dającym się zauważyć niepokojem. Nic nie powiedziała, jednak ukradkiem wsunęła do mojego ekwipunku małą statuetkę. Nie wiem jednak zarówno dlaczego, jak i jakie właściwości ma ten posążek. Powinniśmy to zbadać, a być może ta elfka poprowadzi nas ku kolejnej przygodzie.~
+@550303 = ~Wyzwalacz zaklęć śmierci Zannastera~
+@550304 = ~Niemożżż.....~
+@550305 = ~możliwe!~
+@550306 = ~(sssyczy) Nieeeeee!!~
+@550307 = ~"Na tyle cię stać?"~
+@550308 = ~"Zabierz ich stąd!"~
+@550309 = ~"Głupcy sądzą, że pisana im przeszłość Zannastera."~
+@550310 = ~"Tamto nie było mieczem, ale *to* nim jest!"~
+@550311 = ~"Tak jest, słaba istoto. Używaj przedmiotów o ograniczonej ilości ładunków."~
+@550312 = ~"Skróć go o głowę!"~
+@550313 = ~"Nie dożyjesz następnego starcia!"~
+@550314 = ~"Zmierzasz ku upadkowi!"~
+@550315 = ~"Tak jest! Tak jest! Dostaliśmy ich!"~
+@550400 = ~Mam cię! Berek! Teraz ty!~
+@550401 = ~I znowu mam cię! Berek!!~
+@550402 = ~Znowu cię mam, Imoen! Berek!~
+@550403 = ~Mam cię, <CHARNAME>!~
+@550404 = ~Kiedy wkraczasz do tych bezdennych podziemi, natychmiast przenika cię do głębi lęk. Czai się tu wielkie i potężne zło, które nieomal możesz dotknąć i poczuć. Nie ma rady: posiadasz znaczne umiejętności i możesz użyć pełni swych umiejętności klasowych, by pokonać wszelkie potwory, które zastąpią ci drogę w ciemnych tunelach.~
+@550500 = ~Znakomite!~
+@550501 = ~Brawo! Brawo!~
+@550502 = ~Bis! Bis!~
+@550503 = ~Znakomicie zagrane.~
+@550504 = ~Tak, dramaturg zasługuje na najwyższe uznanie za to.~
+@550505 = ~Wyśmienite!~
+@550506 = ~Hurra!~
+@550507 = ~Bis!~
+@550508 = ~Zdecydowanie warte swej ceny!~
+@550509 = ~Jeden z najlepszych tegorocznych fil... ee, spektakli!~
+@550510 = ~        Tak jest!
+Brawa dla Króla piratów!
+Brawa dla Króla piratów!~
+@550511 = ~Naprawdę nienawidzę musicali.~
+@550512 = ~Brawo!~
+@550513 = ~Ładne przedstawienie.~
+@550514 = ~Znakomite. W rzeczy samej, znakomite.~
+@550515 = ~Mogłoby być nieco bardziej zbliżone do oryginału.~
+@550516 = ~        Witajcie!
+Brawa dla Króla piratów!~
+@550517 = ~A z Pinafory piekielnego nonsensu wygwiżdżę wszystkie arie.~
+@550518 = ~Cóż, jest przypływ i musimy ruszać. Żegnaj Fryderyku. Kiedy nadejdzie czas rozpoczęcia przez ciebie naszej eksterminacji, niech nasz koniec będzie na tyle szybki i pozbawiony bólu na ile delikatnie możesz to uczynić.~
+@550519 = ~Taki będzie! Na moją miłość do ciebie, przysięgam ci to! Jednak mógłbyś zapomnieć o niepotrzebnej eksterminacji przez zgodę na towarzyszenie mi z powrotem do cywilizowanego świata!~
+@550520 = ~Nie, Fryderyku, tak się nie stanie. Staram się unikać rozważań dotyczących naszych profesji, jednak, kontrastują nieco ze sobą pod względem szacunku społecznego, jakkolwiek by tego rzetelnie nie porównywać. Nie, Fryderyku, będę żył i umrę jako Król piratów.~
+@550521 = ~W skrócie, o florze i faunie informacji sypię gradem,
+Współczesnego komandora najlepszym jestem przykładem.~
+@550522 = ~Nieobce są mi równań kwadratowych wytyczne!~
+@550523 = ~Stać! Zakładać chcą swój piracki harem,
+			jak go nazywają.
+		Do zaślubin potwory nas dziś zmuszają.
+	A jednak niech rozważą, żeśmy kancelarii chronione czarem,
+		A ojcem naszym jest komandor!~
+@550524 = ~Zatrzymajmy się, bo widzę jak problemem się stają,
+			wszak ich ojcem jest komandor.~
+@550525 = ~Tak, tak, jest nim komandor!~
+@550526 = ~Tak, tak, jestem komandor!~
+@550527 = ~Bowiem on to komandor!~
+@550528 = ~Niech żyje komandor!~
+@550529 = ~A i jest to wielka rzecz nim być, bo to komandor!~
+@550530 = ~Tak jest! Niech żyje komandor!~
+@550531 = ~To było ohydne!~
+@550532 = ~Domagam się zwrotu moich pieniędzy!~
+@550533 = ~Oba kciuki w dół!~
+@550534 = ~To miało niby być napisane przez jednego z największych bardów? Mój kuzyn Neeber zrobiłby to lepiej.~
+@550535 = ~Niech ktoś znajdzie jakąś pętlę dla tego scenarzysty.~
+@550536 = ~Powiedziałem, żebyście nie przeszkadzali! Ośmielacie się bezcześcić mój ceremoniał?~
+@550537 = ~Zabić ich! Zabić ich wszystkich!~
+@550538 = ~Zzzzabiję cię, przysssięgam.~
+@550539 = ~Chodź, moja Pani, musimy uchodzić! Straże! Zabić tych skrytobójców!~
+@550600 = ~Z pewnych przyczyn, bariera nie rozprasza się uniemożliwiając ci przejście.~
+@550601 = ~Z pewnych przyczyn, bariera zezwala ci na przejście.~
+@550602 = ~Ta bariera aż trzeszczy magiczną energią. Nierozsądnym byłoby dotykać jej lub ją rozpraszać, nie wiedząc, czego strzeże.~
+@550603 = ~Wiatr wydziera spod ciebie twoje stopy, a ty trzymasz się z uwagi na swój cenny żywot, modląc się, by nie spaść z krawędzi.~
+@550604 = ~Stanowiący podłoże łupek wskutek wzrostu korzeni popękał, ty zaś się na nim potykasz, czyniąc wystarczająco hałasu, by obudzić smoka.~
+@550605 = ~Nagle wyczuwasz bezpośrednie zagrożenie. Hałas, który właśnie został przez ciebie uczyniony, ostrzegł każdą żyjącą w obrębie wielu mil istotę w tych górach.~
+@550606 = ~Kiedy wchodzisz na stromy stok, twoja stopa ześlizguje się z kawałka luźnej skały.~
+@550607 = ~Podłoże ustępuje, skały i rumowisko opadają w dół klifu na zachód od ciebie.~
+@550608 = ~Skały przetaczają się przez krawędź, czyniąc gromkie echo wraz z upadkiem u stóp ściany urwiska.~
+
+@550624 = ~Potężnym pchnięciem ostatecznie zabijasz potężnego drakolisza, a jego szkielet upada gwałtownie i na twoich oczach zamienia się w czarny pył.~
+@550625 = ~Mechanizmy działające w tym miejscu dysponują własną magią. Labirynt Maxa Masona nie zezwoli wkroczyć na swój obszar więcej niż jednej osobie. Każdy z twoich towarzyszy musi przebyć labirynt samodzielnie.~
+
+
+//Uaktualnienie komponentu Chores
+@550626 = ~Wskutek dokładnego zbadania spostrzeżonych śladów, zauważasz, że pewne wydeptane ścieżki wiodą w pobliże północno-wschodniego odcinka muru; blisko terenu budowy. Zastanawia cię, cóż tam też może przyciągać ich uwagę w tak znacznym stopniu, że przyczynia się do regularnych odwiedzin tego miejsca...~
+@550627 = ~Czerwone kwiaty~
+@550628 = ~Te nieznane ci kwiaty prezentują się osobliwie; obdarzone są też miłym, choć nieco przesyconym zapachem. Wydaje się być oczywistym, że zasmakowało w nich miejscowe bydło, dlatego też być może udałoby się ich użyć dla obłaskawienia tych wybrednych krów...~
+@550629 = ~Wstaje nowy dzień. Czujesz, że należy zapytać Goriona o dzisiejsze prace...~
+@550630 = ~Stosując nowopoznaną zdolność, z łatwością kopiujesz wszystkie otrzymane w tym celu od Thalantyra zwoje...~
+@550631 = ~Dreppin! Co się stało twoim krowom? Nie struły się aby czym? Ich mleko smakuje równie paskudnie jak wiadro pajęczych flaków!!!~
+@550632 = ~Nie wiem, Clarisso... Jestem naprawdę zawstydzony...~
+@550633 = ~Pilnuj jej, Clar---Hej, cóż to..? To są jakoś dziwnie wyglądające kwiaty...~
+@550634 = ~Wygląda jak....?..!!!~
+@550635 = ~<CHARNAME>!!!~
+@550636 = ~UWAŻAJ!!!!~
+@550637 = ~Och... to tak bardzo przypomina mi Candlekeep. Stare, zakurzone tomiszcza, bliskie rozpadnięcia się regały. To tak... jakbyśmy go nigdy nie opuścili...~

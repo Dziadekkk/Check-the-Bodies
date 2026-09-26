@@ -1,0 +1,129 @@
+@3   = ~W sumie, wiem, że potrafisz wykuwać całkiem niezłą broń. Zastanawiam się, czy radzisz tak sobie ze wszystkimi wyrobami metalowymi, także srebrnymi, czy zajmujesz się tylko orężem.~
+@5   = ~Potrzebuję, abyś uczynił coś dla mnie, zacny Cromwellu. Ten artefakt należy zniszczyć. Przesycony jest wielkim złem i nie można dopuścić, aby ktoś go odnalazł. Weź to. Weź i zniszcz.~
+@38  = ~Hmmm... a cóż to? Łuski jakiejś bestii, nieprawdaż?~
+@40  = ~Z czym byłoby to związane?~
+@41  = ~Nie, raczej nie. Czy mam jeszcze coś użytecznego?~
+@61  = ~Z czym byłoby to związane?~
+@74  = ~Nie, raczej nie. Czy mam jeszcze coś użytecznego?~
+@89  = ~To brzmi rozsądnie. Zróbmy to.~
+@90  = ~Nie, raczej nie. Czy mam jeszcze coś użytecznego?~
+@91  = ~Nie, raczej nie. Chyba już pójdę.~
+@99  = ~Tak, to łuski błękitnego smoka. Na Kowala Dusz, to musiało być trudne do zdobycia. Jeśli chcesz, to mogę zrobić zbroję z tych łusek.~
+@100 = ~Z dwoma sprawami. Będzie cię to kosztowało 8000 sztuk złota. Nie mam też terminatora, więc będziesz musiał<HESHE> zostać tu przez cały dzień, by pomóc mi w kuźni.~
+@101 = ~Tak, mój przyjacielu, potrafię to zrobić. Ojciec wyuczył mnie sztuki i umiem wykonać niemal wszystko, od łyżki aż po posąg.~ ~Tak, moja przyjaciółko, potrafię to zrobić. Ojciec wyuczył mnie sztuki i umiem wykonać niemal wszystko, od łyżki aż po posąg.~
+@102 = ~Widzi mi się, że zależy ci na czymś ładnym. Tak, i założę się, że masz jakiś plan. Co mam dla ciebie wykonać?~
+@103 = ~Koronę. Potrzebna mi korona, która będzie bardzo podobna do pewnej magicznej rzeczy. Nie wiem jednak, jak ta rzecz wygląda. Nazywają ją Rogatą koroną i jest dość rzadka.~
+@104 = ~Jeśli nie wiesz, jak ta przeklęta rzecz wygląda, to jak, na brodę Clangeddina, możesz oczekiwać, że ją dla ciebie zrobię?~
+@105 = ~Nie wiem, Cromwellu. Ale to naprawdę ważne. Pewien mag posiada oryginał i planuje coś niebezpiecznego. Muszę go powstrzymać.~
+@106 = ~No to mamy problem. Masz jakiś pomysł, jak zrobić tę rzecz?~
+@107 = ~Wiem jedynie o pewnym magu, który przekazał mi formułę. Mam odszukać części, a następnie przedmiot winien być zaklęty. Czy będziesz mógł to zrobić, jeśli znajdę komponenty?~
+@108 = ~W rzeczy samej. Powiedziano mi, jakie części będą potrzebne do stworzenia falsyfikatu i mam je tu ze sobą. Myślisz, że mógłbyś go z nich wykonać?~
+@109 = ~Tego nie wiem, mój przyjacielu. Wydaje się, że to ważna sprawa i zrobię, co w mojej mocy, ale nie widząc wcześniej tego, co miałbym wykuć, raczej nie stworzę kopii zdolnej kogoś oszukać.~ ~Tego nie wiem, moja przyjaciółko. Wydaje się, że to ważna sprawa i zrobię, co w mojej mocy, ale nie widząc wcześniej tego, co miałbym wykuć, raczej nie stworzę kopii zdolnej kogoś oszukać.~
+@110 = ~Liczy się tylko to, Cromwellu, że zrobisz, co w twojej mocy.~
+@111 = ~Skoro tak mówisz. Uważaj na ten bałagan po drodze do wyjścia, <GIRLBOY>.~
+@112 = ~Tego nie wiem, <GABBER>. Możemy spróbować, ale nie obiecuję, że uda mi się stworzyć coś, co oszuka maga, o którym mówisz.~
+@113 = ~No dobrze, weź te wszystkie rzeczy. Spróbujmy, a się przekonamy.~
+@114 = ~No cóż, nie wiem, czy się powiedzie, a nie chcę tych rzeczy zmarnować. Lepiej sprawdzę, czy uda mi się znaleźć więcej informacji o prawdziwej Rogatej koronie.~
+@115 = ~Tak pewnie będzie najlepiej, <GABBER>. Może trafisz na oryginał albo jakiś obraz czy coś innego. Muszę wiedzieć, jak ta korona wygląda, jeśli ktokolwiek ma się nabrać na to, co wykuję.~
+@116 = ~I jak zawsze, <GIRLBOY>, uważaj na ten bałagan po drodze do wyjścia.~
+@117 = ~Skoro jesteś pewny, to spróbuję. Nie oznacza to, że obiecuję sukces, ale zrobię dla ciebie, co w mojej mocy.~ ~Skoro jesteś pewna, to spróbuję. Nie oznacza to, że obiecuję sukces, ale zrobię dla ciebie, co w mojej mocy.~
+@118 = ~Wygląda na to, że cokolwiek tam miałeś, zadziałało. Zdaje się, że ta korona może posłużyć do tego, co planujesz zrobić z tym magiem.~ ~Wygląda na to, że cokolwiek tam miałaś, zadziałało. Zdaje się, że ta korona może posłużyć do tego, co planujesz zrobić z tym magiem.~
+@119 = ~Dziękuję, Cromwellu. Mam nadzieję, że weźmie ją za prawdziwą.~
+@120 = ~Wygląda na to, że cokolwiek tam miałeś, nie zadziałało jak trzeba. Zdaje się, że albo potrzebowałbym więcej części, albo musiałbym obejrzeć oryginał. Jeśli chcesz, abym spróbował jeszcze raz, przynieś mi części, a podejmę kolejną próbę.~ ~Wygląda na to, że cokolwiek tam miałaś, nie zadziałało jak trzeba. Zdaje się, że albo potrzebowałbym więcej części, albo musiałbym obejrzeć oryginał. Jeśli chcesz, abym spróbował jeszcze raz, przynieś mi części, a podejmę kolejną próbę.~
+@121 = ~Mimo wszystko dziękuję, Cromwellu. Jeszcze nie wiem, co z tym zrobię.~
+@122 = ~Zazwyczaj zajmuję się tworzeniem dzieł sztuki - ze srebra, żelaza czy stali - a nie ich niszczeniem. Jeśli jednak twierdzisz, że ten przedmiot należy zniszczyć, to mogę to dla ciebie zrobić. Podaj mi to, niech się temu przyjrzę.~
+@123 = ~Spójrzmy tutaj, jakaś rękojeść. Niestety paskudnie uszkodzona. Jak ty to zrobiłeś?~ ~Spójrzmy tutaj, jakaś rękojeść. Niestety paskudnie uszkodzona. Jak ty to zrobiłaś?~
+@124 = ~I do czego to może służyć?~
+@125 = ~To część miecza, Cromwellu. A właściwie to Księżycowego ostrza, które chcę odbudować.~
+@126 = ~Księżycowe ostrze, powiadasz? Ten świat nigdy nie przestanie mnie zadziwiać! Nie widziałem żadnego od długiego czasu. Jak udało ci się je uszkodzić?~
+@127 = ~Nie ja je uszkodziłem. Mam je naprawić, ale nie wiem, co będzie mi do tego potrzebne. Może ty wiesz?~ ~Nie ja je uszkodziłam. Mam je naprawić, ale nie wiem, co będzie mi do tego potrzebne. Może ty wiesz?~
+@128 = ~Jest tylko jedna rzecz, której można użyć do przekucia Księżycowego ostrza. Persefon. Będziesz musiał<HESHE> trochę tego zdobyć z kopalń Eaerlann. Ascalhorn wydobywał kiedyś persefon, ale przeklęte demony położyły temu kres.~
+@129 = ~Przyniesiesz mi trochę persefonu, a ja, co pewne jak młot w łapie Clangeddina, wykuję z tego ostrze. Może nawet rękojeść zachowała swoją magię i w rzeczy samej otrzymasz piękny elfi miecz.~
+@130 = ~W porządku, Cromwellu. Postaram się zdobyć nieco persefonu. Dziękuję ci.~
+@131 = ~Spójrzmy no tutaj. Masz rękojeść. Jest co prawda uszkodzona, ale - co pewne jak to, że moja broda jest długa - wiem, co to za rzecz i jak ją naprawić. Masz nawet metal do jej przekucia!~
+@132 = ~Jest to rękojeść Księżycowego ostrza, <GABBER>, potężnego elfiego miecza. Nie widziałem nigdy uszkodzonego egzemplarza, ale masz też persefon, jedyny metal, którego można użyć do wykucia takich ostrzy.~
+@133 = ~Nie wiem, czy byłeś w Eaerlann czy Everlund. Założę się też o swój młot, że nie byłeś na Evermeet, ale jakimś sposobem zdobyłeś tę rudę.~ ~Nie wiem, czy byłaś w Eaerlann czy Everlund. Założę się też o swój młot, że nie byłaś na Evermeet, ale jakimś sposobem zdobyłaś tę rudę.~
+@134 = ~Chcesz zatem, abym przekuł to ostrze?~
+@135 = ~No cóż, majstrowanie przy księżycowych ostrzach, i w ogóle przy elfich broniach, to niełatwa sprawa. Kilka dni potrwa, zanim wszystko przygotuję, a ty musiał<HESHE>byś wtedy tu wrócić i pomóc mi przy pracy. Mój terminator jest w Abdar i nie ma mi kto pomóc. Ponadto kosztowałoby cię to 25000 sztuk złota. Nadal chcesz to robić?~
+@136 = ~Tak, Cromwellu. Tu masz złoto i części. Wrócę za kilka dni i ci pomogę.~
+@137 = ~Tak, Cromwellu, ale nie mam teraz pieniędzy. Wrócę tu, kiedy będę je miał<HESHE>.~
+@138 = ~Nie teraz, Cromwellu. Może później.~
+@139 = ~Jasna sprawa, <GABBER>. Do tego czasu wszystko przygotuję.~
+@140 = ~Zajrzyj do mnie, kiedy zbierzesz wystarczającą kwotę. Nie zacznę przygotowań, zanim ty nie wyłożysz pieniędzy.~
+@141 = ~Jak sobie życzysz, <GABBER>. Ale Księżycowe ostrze to coś, co należy pielęgnować, i im wcześniej je zdobędziesz, tym lepiej dla ciebie.~
+@142 = ~Jeszcze nie skończyłem przygotowań do wykucia twojego Księżycowego ostrza. Wróć za jakiś czas.~
+@143 = ~Przychodzisz w samą porę, <GABBER>. Wszystko już niemal przygotowane do wykucia twojego Księżycowego ostrza. Jesteś gotów, żeby mi pomóc?~ ~Przychodzisz w samą porę, <GABBER>. Wszystko już niemal przygotowane do wykucia twojego Księżycowego ostrza. Jesteś gotowa, żeby mi pomóc?~
+@144 = ~Tak, Cromwellu. Zaczynajmy.~
+@145 = ~Jeszcze nie, Cromwellu. Daj mi kilka godzin.~
+@146 = ~Dobrze, <GABBER>. Słuchaj dokładnie moich wskazówek, inaczej zaklęcia się nie powiodą...~
+@147 = ~Oczywiście, <GABBER>. Płacisz za mój czas, więc zaczekam tak długo, ile będzie trzeba.~
+@148 = ~Zrobione, <GABBER>. Księżycowe ostrze jest kompletne.~
+@149 = ~To wielki zaszczyt posiadać taką broń, a dla mnie równie wielkim zaszczytem było móc podjąć się tak wspaniałego kowalskiego zadania. Dziękuję ci, <GABBER>.~
+@150 = ~To część miecza, Cromwellu. A właściwie to Klinga śpiewnych czarów, którą chcę odbudować.~
+@151 = ~Klinga śpiewnych czarów, powiadasz? Ten świat nigdy nie przestanie mnie zadziwiać! Nie widziałem żadnego od długiego czasu. Jak udało ci się je uszkodzić?~
+@152 = ~Nie ja je uszkodziłem. Mam je naprawić i posiadam nieco persefonu, by odtworzyć rękojeść. Potrafiłbyś to zrobić?~ ~Nie ja je uszkodziłam. Mam je naprawić i posiadam nieco persefonu, by odtworzyć rękojeść. Potrafiłbyś to zrobić?~
+@153 = ~Jest tylko jedna rzecz, której można użyć do przekucia Klingi śpiewnych czarów. Persefon. Będziesz musiał<HESHE> zdobyć tego trochę z kopalń Eaerlann. Persefon wydobywał niegdyś Ascalhorn, ale przeklęte demony położyły temu kres.~
+@154 = ~Przyniesiesz mi trochę persefonu, a ja, co pewne jak młot w łapie Clangeddina, wykuję z tego ostrze. Może nawet rękojeść zachowała swoją magię i w rzeczy samej otrzymasz piękny miecz.~
+@155 = ~Zrobione, <GABBER>. Klinga śpiewnych czarów jest kompletna.~
+@156 = ~Dobrze, <GABBER>, niech no spojrzę, co tu masz.~
+@157 = ~Masz tu niezgorszy kostur, acz nieobrobiony. Trzeba by przy nim trochę popracować. Może, gdybym miał jakąś solidną lagę z dębu, mógłbym go dla ciebie wykończyć, jednak bez dębiny się nie obędzie. Przynieś mi jej trochę - jakiś ładny, długi konar, byleby nie miał sęków - a naprawimy tę rzecz.~
+@158 = ~Masz, jak widzę, kawał porządnej dębiny - ładną żerdź bez sęków. Mógłbym z niej zrobić dla ciebie dobry dębowy kostur, ale musiałbym mieć coś, co posłuży mi za wzór. Przyniesiesz mi jakąś laskę, a ja - klnę się na mą brodę - wystrugam ci lagę do grzmocenia ludzi po zadkach.~
+@159 = ~Masz tu solidny dębowy drąg i uszkodzony kostur, <GABBER>. Mogę nad tym popracować, jeśli zechcesz mi z tym pomóc. Nie dam rady bez twojej pomocy. Co ty na to?~
+@160 = ~Zrobisz to za 1000 sztuk złota?~
+@161 = ~Nie, Cromwellu. Czy mam jeszcze coś, z czego mógłbyś zrobić użytek?~
+@162 = ~Pewnie, przyjacielu. Zrobię to za ni mniej, ni więcej, jak 1000 sztuk złota. Będziesz jednak musiał zostać tu przez jakiś czas i pomóc mi w kuźni.~ ~Pewnie, przyjaciółko. Zrobię to za ni mniej, ni więcej, jak 1000 sztuk złota. Będziesz jednak musiała zostać tu przez jakiś czas i pomóc mi w kuźni.~
+@163 = ~Niech będzie, Cromwellu. Bierz się do dzieła.~
+@164 = ~Jak sobie życzysz. Możemy zaczynać od razu.~
+@165 = ~Cóż, proszę, przyjacielu. Ładny kostur. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~ ~Cóż, proszę, przyjaciółko. Ładny kostur. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~
+@166 = ~Masz tu ładny topór, ale jego ostrze jest stępione. Trzeba by nad nim popracować. Gdybym tak miał trochę przetopionej rudy, mógłbym go dla ciebie wyostrzyć i wypełnić ubytki. Nie da się jednak zrobić tego bez rudy. Przynieś mi jej trochę, przetopionej, ale jeszcze nie przekutej, a naprawię dla ciebie ten topór.~
+@167 = ~Masz, jak widzę, całkiem sporo przetopionej rudy. Mógłbym ją przerobić w niezłą broń, ale rudy nie wystarczy na całe ostrze. Potrzebowałbym zatem czegoś jeszcze. Przyniesiesz mi inną broń, a ja - klnę się na mą brodę - przekuję to wszystko w odpowiednie ostrze, może w topór do odrąbywania ludziom głów.~
+@168 = ~Masz tu ładny topór, ale jego ostrze jest stępione. Posiadasz także trochę przetopionej rudy, <GABBER>. Mógłbym dla ciebie połączyć te rzeczy, jeżeli zechcesz mi pomóc. Nie dam sobie rady bez twojej pomocy. Co ty na to?~
+@169 = ~Zrobisz to za 10000 sztuk złota?~
+@170 = ~Pewnie, przyjacielu. Zrobię to za ni mniej, ni więcej, jak 10000 sztuk złota. Będziesz jednak musiał zostać tu przez jakiś czas i pomóc mi w kuźni.~ ~Pewnie, przyjaciółko. Zrobię to za ni mniej, ni więcej, jak 10000 sztuk złota. Będziesz jednak musiała zostać tu przez jakiś czas i pomóc mi w kuźni.~
+@171 = ~Cóż, proszę, przyjacielu. Ładny topór. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~ ~Cóż, proszę, przyjaciółko. Ładny topór. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~
+@172 = ~Masz ze sobą głowicę młota, ale brakuje trzonka. Trzeba by w to włożyć nieco pracy. Być może gdybym miał coś, do czego dałoby się zamocować tę głowicę, mógłbym z tego zbudować dla ciebie młot bojowy. Przynieś mi trzonek z takiego samego metalu, czyli tytanu, a naprawimy dla ciebie tę rzecz.~
+@173 = ~Masz tytanowy trzonek, świetna rzecz. Mógłbym przy jego użyciu wykonać dla ciebie młot. Nie masz jednak głowicy, którą można by osadzić na tym trzonku, zatem nie mogę tego zrobić. Przyniesiesz mi głowicę młota bojowego, a ja - klnę się na mą brodę - wykuję ci porządny młot bojowy do rozwalania czaszek.~
+@174 = ~Masz tu ładną głowicę młota, brak jednak trzonka do kompletu. Ależ nie, masz również tytanowy uchwyt! <GABBER>, mogę połączyć obie te części w ładny młot bojowy, jeśli mi z tym pomożesz. Nie dam sobie rady bez twojej pomocy. Co ty na to?~
+@175 = ~Możesz to zrobić za 20000 sztuk złota?~
+@176 = ~Nie, Cromwellu, w tej chwili nie mogę sobie na to pozwolić. Czy mam jeszcze coś, z czego mógłbyś zrobić użytek?~
+@177 = ~Pewnie, przyjacielu. Zrobię to za ni mniej ni więcej jak 20000 sztuk złota. Będziesz jednak musiał zostać tu przez jakiś czas i pomóc mi w kuźni.~ ~Pewnie, przyjaciółko. Zrobię to za ni mniej ni więcej jak 20000 sztuk złota. Będziesz jednak musiała zostać tu przez jakiś czas i pomóc mi w kuźni.~
+@178 = ~Cóż, proszę, przyjacielu. Ciężki młot, w sam raz, by rozgnieść na miazgę denerwujące gobliny. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~ ~Cóż, proszę, przyjaciółko. Ciężki młot, w sam raz, by rozgnieść na miazgę denerwujące gobliny. Niech ci dobrze służy. A jeśli natkniesz się na coś ciekawego, to wiesz gdzie to przynieść, co?~
+@179 = ~O elfach i artefaktach
+
+Znaleźliśmy przedmiot, o którym mówiła Eleonora, a następnie zanieśliśmy go Cromwellowi. Udało mu się stworzyć niemal identyczną kopię Rogatej korony, którą zabiorę na spotkanie z magiem. Mam nadzieję, że nie przejrzy tej mistyfikacji.~
+@180 = ~O elfach i artefaktach
+
+Znaleźliśmy, mające umożliwić stworzenie fałszywej Rogatej korony, części, o których powiedziała Eleonora; jednak nawet Cromwell, któremu je przynieśliśmy, nie potrafił stworzyć duplikatu. Mam do wyboru albo skłonić go do kolejnej próby, albo znaleźć inny sposób na powstrzymanie maga przed próbą Wiecznotrwałości.~
+@181 = ~O elfach i artefaktach
+
+Po opuszczeniu Świątyni Waukeen w Targowie, Eleonora została zaatakowana przez maga, o którym mi opowiadała. Miał ze sobą skromną obstawę, jednakże jej nie potrzebował. Jego magia była bowiem bez porównania potężniejsza niż Eleonory, którą zresztą zamordował w żywiołowej walce na magię, dla niej bardzo żywotnej. Uczczę jej poświęcenie i nie pozwolę, by uczyniła to na próżno.~
+@182 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać na łące nieopodal lasu Tethyr, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@183 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach nieopodal Wzgórz Umar, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@184 = ~O elfach i artefaktach
+
+Pogawędka z Eleonorą, elfią magiczką specjalizującą się w naukowych poszukiwaniach starożytnych artefaktów i przedmiotów magicznych, zajęła dłuższą chwilę. Wyjaśniła, że była w pełni pochłonięta ambicjami maga, imieniem Khaddyr, który zatrudnił ją do zbadania teorii zwanej Wiecznotrwałością; teorię, o której wielu sądzi, iż jest jedynie mitem. Takie było również i moje zdanie. Wygląda jednak na to, że Khaddyr znalazł się w posiadaniu artefaktu umożliwiającego przeprowadzenie rytuału Wiecznotrwałości; proces ten spowoduje oczywiście rozległe spustoszenia. Eleonora zaklinała mnie, bym udzielił<PRO_HESHE> jej pomocy, przedstawiła też plan udaremnienia zamiarów złego maga.
+Sądzi, że najlepszym rozwiązaniem byłoby stworzenie kopii artefaktu, która byłaby nieszkodliwa. Nie wiem, czy to dobry pomysł, powiedziała mi jednak, jakich przedmiotów będę potrzebować, jeśli chciał<PRO_HESHE>bym stworzyć odpowiednio doskonałą. Na szczęście komponenty są powszechnie dostępne, a potrzebuję diamentu, Mikstury ochrony przed magią, zwoju Zaklętej broni i jakiegokolwiek przedmiotu zawierającego nefryt. Powiedziała też, że kiedy skompletuję wymienione przedmioty i będę chciał<PRO_HESHE>, by stworzyła kopię, skontaktuje się ze mną w gdzieś w Athkatli.
+Oprócz sposobu ze stworzeniem duplikatu, zdradziła mi także miejsce pobytu maga. Powiedziała, że mogłaby się z nim spotkać w podziemiach pod Wzgórzami Wichrowych Włóczni, gdzie założył swoje podziemne laboratorium do prowadzenia eksperymentów. Jeśli wszystko inne zawiedzie, być może tam można by go znaleźć i pokonać, zanim w poszukiwaniu boskości, podejmie próbę kradzieży sił życiowych innych.~
+@185 = ~O elfach i artefaktach
+
+Otrzymana od pewnej elfki w Dzielnicy Mostów statuetka została zidentyfikowana, a magiczna wiadomość w niej przechowywana - odsłuchana. Głos, niewątpliwie elfi, chociaż przepełniony obawą i grozą, nie obfitował we wskazówki odnośnie przygody, o której wspominał. Wiem jedynie, że elfka ta może znajdować się w niebezpieczeństwie - jak, zgodnie z jej słowami, również całe Wybrzeże Mieczy - i, jeśli zdecyduję się z nią spotkać w Świątyni Waukeen w Targowie, postara się wytłumaczyć mi to dokładniej. Być może tak właśnie uczynię, jednak wcześniej wypadałoby zebrać o niej trochę informacji.~
+@186 = ~O elfach i artefaktach
+
+Kiedy przemierzaliśmy Dzielnicę Mostów nieznana elfka podeszła do mnie z dającym się zauważyć niepokojem. Nic nie powiedziała, jednak ukradkiem wsunęła do mojego ekwipunku małą statuetkę. Nie wiem jednak zarówno dlaczego, jak i jakie właściwości ma ten posążek. Powinniśmy to zbadać, a być może ta elfka poprowadzi nas ku kolejnej przygodzie.~
+@187 = ~O elfach i artefaktach
+
+Znaleźliśmy, mające umożliwić stworzenie fałszywej Rogatej korony, części, o których powiedziała Eleonora; jednak nawet Cromwell, któremu je przynieśliśmy, nie potrafił stworzyć duplikatu. Mam do wyboru albo skłonić go do kolejnej próby, albo znaleźć inny sposób na powstrzymanie maga przed próbą Wiecznotrwałości.~
+@188 = ~O elfach i artefaktach
+
+Zanieśliśmy Rogatą koronę Cromwellowi, któremu udało się zniszczyć przepełniające ją starożytne zło, coś, czego przed laty nie potrafił pokonać sam Khelben Arunsun. Khaddyr, mag, który chciał spróbować Wiecznotrwałości, nie stanowi już zagrożenia, a biedna Eleonora, elfka, spotkana, zanim się to wszystko zaczęło, może spocząć w spokoju. Sądzę, że po raz kolejny Faerun został przeze mnie ocalony przed pewnym zniszczeniem.~
+@189 = ~O elfach i artefaktach
+
+Udało się powstrzymać Khaddyra przed ukończeniem rytuału Wiecznotrwałości. To, co zapowiadało się na niejasną obietnicę zadania przerażonej elfki, było już niemal ukończone. Odzyskaliśmy prawdziwą Rogatą koronę, a ja muszę podjąć decyzję, co też powinno się z nią stać. Mogę ją zatrzymać, jednak spowoduje to, że zawarte w niej zło wciąż będzie istnieć w Faerunie. Być może więc najlepszym rozwiązaniem byłoby jej zniszczenie.~

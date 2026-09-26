@@ -1,0 +1,182 @@
+@1   = ~W rzeczy samej, to jeden z najpiękniejszych teatrów w jakim miałem przyjemność występować tu, w tym południowym Mieście Przepychu. Jestem pewien, że prawie każdy bard, który ukończył Akademię w Silverymoon - a niektórzy z nich byli moimi uczniami - zazdrościłby mi występu w takim miejscu.~ 
+@2   = ~Jest w teatrze coś, co porusza duszę, nie sądzisz? Zapach trocin na podłodze, świeżo pomalowana dekoracja, nieustanna paplanina mężów i dam przybyłych na występ, ułożone w nienagannym porządku nuty harfiarzy i lutnistów - to wszystko wynosi mego ducha na wyżyny.~
+@3   = ~Gdyby nie znużyło mnie nauczanie w kółko tego samego ambitnych muzyków czy aktorów, zapewne nadal pracowałbym w Akademii Bardów w Silverymoon. Chciałem jednak oddać się temu, co naprawdę kocham, powrócić na scenę, przed publiczność, do tej niepowtarzalnej więzi, która się między nimi tworzy.~ 
+@4   = ~Widzę po tobie: po zachowaniu, kroju spodni i płaszcza oraz nieskazitelnym uczesaniu, że też jesteś bardem. Zdradź mi, gdzie się uczyłeś?~ ~Widzę po tobie: po zachowaniu, kroju spodni i płaszcza oraz nieskazitelnym uczesaniu, że jesteś bardką. Zdradź mi, gdzie się uczyłaś?~
+@5   = ~Tak naprawdę, swoją oficjalną naukę na barda rozpocznę w ciągu tego roku.~ 
+@6   = ~Spędziłem kilka sezonów z Gildią Aktorów Kruczego Urwiska.~ ~Spędziłam kilka sezonów z Gildią Aktorów Kruczego Urwiska.~
+@7   = ~Z wyróżnieniem ukończyłem sembijską Akademię Bardów.~ ~Z wyróżnieniem ukończyłam sembijską Akademię Bardów.~
+@8   = ~Po wieloletniej pracy, wróciłem do Akademii Sztuk Pięknych Wspólnoty Cormyru w Suzail.~ ~Po wieloletniej pracy, wróciłam do Akademii Sztuk Pięknych Wspólnoty Cormyru w Suzail.~ 
+@9   = ~Zacząłem studia w Szkole dla Bardów, Karczmarzy i Stangretów w Waterdeep, ale conocne wycieczki po tawernach odbiły się na nauce i koniec końców, wyrzucono mnie.~ ~Zaczęłam studia w Szkole dla Bardów, Karczmarzy i Stangretów w Waterdeep, ale conocne wycieczki po tawernach odbiły się na nauce i koniec końców, wyrzucono mnie.~
+@10  = ~<GABBER>, powodzenia zatem. Już w tym momencie wiem, że całkiem nieźle sobie poradzisz. Jestem znawcą charakterów i widzę, że masz wszystko, czego potrzebuje Mistrz Bardów, taki jak ja.~ 
+@11  = ~I tak się w życiu zdarza. Niektórzy po przeprowadzce do któregoś z centrów kultury jak Silverymoon, Waterdeep, Suzail czy nawet Krucze Urwisko, nie mogą znaleźć dla siebie miejsca. Najważniejsze to pozostać sobą. Myślisz, że jeszcze kiedyś spróbujesz kształcić się w tym kierunku?~
+@12  = ~Jeszcze w tym roku chciałbym rozpocząć studia.~ ~Jeszcze w tym roku chciałabym rozpocząć studia.~
+@13  = ~Chciałbym spędzić kilka sezonów z Gildią Aktorów Kruczego Urwiska.~ ~Chciałabym spędzić kilka sezonów z Gildią Aktorów Kruczego Urwiska.~
+@14  = ~Mam nadzieję z wyróżnieniem ukończyć sembijską Akademię Bardów.~
+@15  = ~Chciałbym podjąć naukę na Akademii Sztuk Pięknych Wspólnoty Cormyru, szczególnie w instytucie w Suzail.~ ~Chciałabym podjąć naukę na Akademii Sztuk Pięknych Wspólnoty Cormyru, szczególnie w instytucie w Suzail.~
+@16  = ~<GABBER>, niech Pani Tymora ci błogosławi! To właśnie tam uzyskałem swoją licencję barda. To dobra szkoła, ale sam musisz przyznać, że niektórych rzeczy, które jako student Akademii w Silverymoon mógłbyś poznać, tam się nie nauczysz.~ ~<GABBER>, niech Pani Tymora ci błogosławi! To właśnie tam uzyskałem swoją licencję barda. To dobra szkoła, ale sama musisz przyznać, że niektórych rzeczy, które jako studentka Akademii w Silverymoon mogłabyś poznać, tam się nie nauczysz.~
+@17  = ~<GABBER>, podobasz mi się. Osiągniesz sukces jako bard. Jestem znawcą charakterów i sądzę, że mógłbym ci pomóc. Mógłbym nauczyć cię kilku przydatnych sztuczek jako że byłem wykładowcą w Akademii w Silverymoon, oczywiście jeśli zechcesz mi wpierw pomóc. Co powiesz na taką współpracę?~
+@18  = ~Jasne, z chęcią nauczę się czegoś nowego. Czego potrzebujesz?~
+@19  = ~Nie mam teraz na to czasu. Może później.~
+@20  = ~<GABBER>, jeśli naprawdę pragniesz zostać sławnym bardem, udzielone przeze mnie lekcje, będą dla ciebie z całą pewnością błogosławieństwem. W wypełnieniu moich zadań na pewno przydadzą ci się umiejętności, które już posiadasz i żadne z nich nie zabierze ci dużo czasu. Powiem ci najpierw czego potrzebuję.~ ~<GABBER>, jeśli naprawdę pragniesz zostać sławną bardką, udzielone przeze mnie lekcje, będą dla ciebie z całą pewnością błogosławieństwem. W wypełnieniu moich zadań na pewno przydadzą ci się umiejętności, które już posiadasz i żadne z nich nie zabierze ci dużo czasu. Powiem ci najpierw czego potrzebuję.~
+@21  = ~Szlachetny panie! Miło mi znów się z tobą spotkać. Musisz mi jednak wybaczyć, za chwilę mam występ, a powinienem jeszcze nastroić instrumenty. Odnalazłeś dla mnie harfę z Myth Drannor?~ ~Szlachetna pani! Miło mi znów się z tobą spotkać. Musisz mi jednak wybaczyć, za chwilę mam występ, a powinienem jeszcze nastroić instrumenty. Odnalazłaś dla mnie harfę z Myth Drannor?~
+@22  = ~Nie, mistrzu, jeszcze jej nie znalazłem. Wiesz, gdzie może być?~ ~Nie, Mistrzu, jeszcze jej nie znalazłam. Wiesz, gdzie może być?~
+@23  = ~Tak, mistrzu, odnalazłem harfę z Myth Drannor. Proszę, dam ci ją, jeśli w zamian mnie czegoś nauczysz.~ ~Tak, Mistrzu, odnalazłam harfę z Myth Drannor. Proszę, dam ci ją, jeśli w zamian mnie czegoś nauczysz.~
+@24  = ~Tak, mistrzu, odnalazłem harfę z Myth Drannor. Obawiam się jednak, że zachowam ją dla siebie.~ ~Tak, mistrzu, odnalazłam harfę z Myth Drannor. Obawiam się jednak, że zachowam ją dla siebie.~
+@25  = ~<GABBER>, na łaskę bogów, nie mam pojęcia. Nie znam tych barbarzyńskich terenów południa, mogę ci jedynie poradzić, żebyś popytał tutejszych handlarzy ekwipunkiem i artefaktami. Jeśli oni nie pomogą, mój przyjacielu, rozsądek podpowiada przeszukać starożytne krypty, lochy lub smocze legowiska.~ ~<GABBER>, na łaskę bogów, nie mam pojęcia. Nie znam tych barbarzyńskich terenów południa, mogę ci jedynie poradzić, żebyś popytała tutejszych handlarzy ekwipunkiem i artefaktami. Jeśli oni nie pomogą, moja przyjaciółko, rozsądek podpowiada przeszukać starożytne krypty, lochy lub smocze legowiska.~
+@26  = ~Posiadanie prawdziwej harfy z Myth Drannor byłoby dla mnie spełnieniem najskrytszych marzeń, nie dziw zatem, że chcesz ją dla siebie. Musisz jednak podjąć decyzję, mój przyjacielu, bo jeśli nie dobijemy targu, nie podzielę się z tobą moją wiedzą.~ ~Posiadanie prawdziwej harfy z Myth Drannor byłoby dla mnie spełnieniem najskrytszych marzeń, nie dziw zatem, że chcesz ją dla siebie. Musisz jednak podjąć decyzję, moja przyjaciółko, bo jeśli nie dobijemy targu, nie podzielę się z tobą moją wiedzą.~
+@27  = ~<GABBER>, cóż za wspaniałe wieści! Naprawdę, zachwyca mnie twoja hojność. Z harfą z Myth Drannor stanę się najsławniejszym bardem naszej ery, a może nawet w całej historii Faerunu.~
+@28  = ~<GABBER>, wyświadczyłeś mi wielką przysługę i chcę ci okazać moją wdzięczność. Obiecałem nauczyć cię czegoś, co mi pomogło, dotrzymam zatem danego słowa. Zaproponuję ci trzy lekcje, ale nauczę tylko jednej umiejętności, którą wybierzesz.~ ~<GABBER>, wyświadczyłaś mi wielką przysługę i chcę ci okazać moją wdzięczność. Obiecałem nauczyć cię czegoś, co mi pomogło, dotrzymam zatem danego słowa. Zaproponuję ci trzy lekcje, ale nauczę tylko jednej umiejętności, którą wybierzesz.~
+@29  = ~Z wielką przyjemnością pomogę kolejnemu ambitnemu bardowi, który z całą pewnością kiedyś będzie znany wszem wobec w Krainach. <GABBER>, powiedz mi, chciałbyś móc zapamiętywać więcej czarów niż zwyczajny bard na twoim poziomie, nauczyć się robienia skutecznych uników w walce czy, skoro umiesz zakładać pułapki, pokazać ci w jaki sposób rozrzucać po ziemi pajączki, by zadać wrogom jak najcięższe rany?~ ~Z wielką przyjemnością pomogę kolejnej ambitnej bardce, która z całą pewnością kiedyś będzie znana wszem wobec w Krainach. <GABBER>, powiedz mi, chciałabyś móc zapamiętywać więcej czarów niż zwyczajny bard na twoim poziomie, nauczyć się robienia skutecznych uników w walce czy, skoro umiesz zakładać pułapki, pokazać ci, w jaki sposób rozrzucać po ziemi kolczatkę, by zadać wrogom jak najcięższe rany?~
+@30  = ~Chciałbym móc zapamiętywać jeszcze więcej czarów.~ ~Chciałabym móc zapamiętywać jeszcze więcej czarów.~
+@31  = ~Sądzę, że przyda mi się umiejętność robienia zwodów. Możesz mnie tego nauczyć?~ 
+@32  = ~Chyba najbardziej pomocne będzie zastawianie nowych pułapek. Pokażesz mi, jak to się robi?~
+@33  = ~Wielu moim uzdolnionym magicznie studentom pokazałem, w jaki sposób rozwijać swój umysł, a w szczególności zdolności zapamiętywania. Jestem przekonany, że i tobie uda się to opanować.~
+@34  = ~<GABBER>, będziesz wspaniałym bardem. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki dodatkowym czarom, które możesz teraz zapamiętać, być może staniesz się sławnym iluzjonistą bądź prestidigitatorem.~ ~<GABBER>, będziesz wspaniałą bardką. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki dodatkowym czarom, które możesz teraz zapamiętać, być może staniesz się sławną iluzjonistką bądź prestidigitatorką.~
+@35  = ~Wielu moim studentom ze smykałką do walki pokazałem, jak rozwijać swoje umiejętności, a w szczególności jak skutecznie unikać wrogów. Jestem przekonany, że i tobie uda się to opanować.~
+@36  = ~<GABBER>, będziesz wspaniałym bardem. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki umiejętności robienia uników w walce będziesz żył wystarczająco długo, by stać się słynnym gawędziarzem.~ ~<GABBER>, będziesz wspaniałą bardką. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki umiejętności robienia uników w walce będziesz żyła wystarczająco długo, by stać się słynną gawędziarką.~
+@37  = ~Wielu moim studentom umiejącym zakładać pułapki pokazałem, w jaki sposób skutecznie rozrzucać kolczatkę i jestem przekonany, że tobie również uda się to opanować.~
+@38  = ~<GABBER>, będziesz wspaniałym bardem. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki umiejętności zatrzymania bądź spowolnienia marszu wrogów będziesz żył wystarczająco długo, by stać się słynnym gawędziarzem.~ ~<GABBER>, będziesz wspaniałą bardką. W rzeczy samej, już dziś świetnie sobie radzisz jako minstrel, ale dzięki umiejętności zatrzymania bądź spowolnienia marszu wrogów będziesz żyła wystarczająco długo, by stać się słynną gawędziarką.~
+@39  = ~<GABBER>, jak już mówiłem, podobasz mi się. Myślę, że zasłużysz się jako jeden z najsłynniejszych i najbardziej szanowanych bardów w Faerunie. To twój wybór czy udzielić mi pomocy, choć jestem przekonany, że przyniesie ci to w przyszłości wielkie korzyści. Pozostanę w Athkatli na jakiś czas, wystąpię raz czy dwa, więc jeśli zmienisz zdanie, nie zwlekaj z poinformowaniem mnie.~ ~<GABBER>, jak już mówiłem, podobasz mi się. Myślę, że zasłużysz się jako jedna z najsłynniejszych i najbardziej szanowanych bardek w Faerunie. To twój wybór czy udzielić mi pomocy, choć jestem przekonany, że przyniesie ci to w przyszłości wielkie korzyści. Pozostanę w Athkatli na jakiś czas, wystąpię raz czy dwa, więc jeśli zmienisz zdanie, nie zwlekaj z poinformowaniem mnie.~
+@40  = ~Skracając iście epicką opowieść, choć to bardowi nie przystoi, kiedy podróżowałem wzdłuż Wybrzeża Mieczy, zatrzymując się w drodze w licznych domach rozrywki, tawernach i teatrach jak ten, zgubiłem pewien cenny przedmiot. A dokładniej, harfę z Myth Drannor. Po twojej reakcji wnioskuję, że znana ci jest jej wartość. Tamtej pewnie już nigdy nie znajdę, lecz mimo to chciałbym mieć jakąś. Gdybyś się na owy instrument natknął i mi go przyniósł, obiecuję, że sowicie cię nagrodzę i nauczę czegoś, co poznać możesz jedynie w Akademii w Silverymoon.~ ~Skracając iście epicką opowieść, choć to bardowi nie przystoi, kiedy podróżowałem wzdłuż Wybrzeża Mieczy, zatrzymując się w drodze w licznych domach rozrywki, tawernach i teatrach jak ten, zgubiłem pewien cenny przedmiot. A dokładniej, harfę z Myth Drannor. Po twojej reakcji wnioskuję, że znana ci jest jej wartość. Tamtej pewnie już nigdy nie znajdę, lecz mimo to chciałbym mieć jakąś. Gdybyś się na owy instrument natknęła i mi go przyniosła, obiecuję, że sowicie cię nagrodzę i nauczę czegoś, co poznać możesz jedynie w Akademii w Silverymoon.~
+@41  = ~<GABBER>, męczy mnie powtarzanie tego, a i ciebie z pewnością nudzi, ale naprawdę wierzę, że kiedyś staniesz się najsłynniejszym bardem w Faerunie. Zaszczytem dla mnie będzie ułatwić ci drogę do tego, przez pokazanie paru sztuczek, ale najpierw będziesz musiał coś dla mnie zrobić. Jesteś gotów mi pomóc?~ ~<GABBER>, męczy mnie powtarzanie tego, a i ciebie z pewnością nudzi, ale naprawdę wierzę, że kiedyś staniesz się najsłynniejszą bardką w Faerunie. Zaszczytem dla mnie będzie ułatwić ci drogę do tego, przez pokazanie paru sztuczek, ale najpierw będziesz musiała coś dla mnie zrobić. Jesteś gotowa mi pomóc?~
+@42  = ~Tak, mistrzu. Powiedz mi, czego potrzebujesz.~
+@43  = ~Nie, mistrzu, potrzebuję jeszcze trochę czasu.~
+@44  = ~<GABBER>, jak mówiłem, zaszczytem i przywilejem będzie towarzyszenie ci w drodze do sławy, ale nie mogę ci pomóc, dopóki ty nie pomożesz mi. Wróć, kiedy będziesz gotowy. Póki co, pozwól mi przygotować się do występu.~ ~<GABBER>, jak mówiłem, zaszczytem i przywilejem będzie towarzyszenie ci w drodze do sławy, ale nie mogę ci pomóc, dopóki ty nie pomożesz mi. Wróć, kiedy będziesz gotowa. Póki co, pozwól mi przygotować się do występu.~
+@45  = ~<GABBER>, tak zrobię, a ty wysłuchaj mnie bardzo uważnie. Wiele mam ci do wytłumaczenia.~
+@46  = ~Jako bard interesuję się sprawami na świecie, a do moich uszu dociera wiele lokalnych problemów. Mam tu w Athkatli kilku przyjaciół po fachu i to oni poinformowali mnie o nadchodzącym niebezpieczeństwie. Nie znam wszystkich szczegółów, więc niektóre z nich mogą okazać się wyolbrzymionymi plotkami, ale powiedziano mi, że niebezpieczeństwo to jest wielkim złem.~
+@47  = ~Jest tu obecna zła siła, coś, czego pochodzenia ni intencji moi przyjaciele nie mogli odkryć. Są jednak pewni, że nie należy do tego świata i nie kryją obawy o przyszłość tego regionu, jeśli jej moc będzie wzrastać. <GABBER>, nie można pozwolić temu złu siać spustoszenia w Faerunie.~
+@48  = ~<GABBER>, jako uzdolnionego barda, proszę cię, żebyś użył wszelkich dostępnych środków, by zniszczyć tę istotę. Jeśli uznasz to za stosowne i konieczne, skorzystaj z pomocy sojuszników, potężnych przyjaciół lub starożytnych artefaktów, aby siłą zadać kres zagrożeniu.~ ~<GABBER>, jako uzdolnioną bardkę, proszę cię, żebyś użyła wszelkich dostępnych środków, by zniszczyć tę istotę. Jeśli uznasz to za stosowne i konieczne, skorzystaj z pomocy sojuszników, potężnych przyjaciół lub starożytnych artefaktów, aby siłą zadać kres zagrożeniu.~
+@49  = ~Gdzie mogę odnaleźć tę złą istotę, mistrzu?~
+@50  = ~Zrobię, co w mojej mocy, mistrzu.~
+@51  = ~Mistrzu, nie jestem pewien, czy moje umiejętności wystarczą do uporania się z tak złowieszczym zagrożeniem.~ ~Mistrzu, nie jestem pewna, czy moje umiejętności wystarczą do uporania się z tak złowieszczym zagrożeniem.~
+@52  = ~Moi przyjaciele, harfiarze, o których wspominałem, nie zdradzili, skąd w mieście emanuje zła siła i szczerze, wątpię by to wiedzieli. Są jednak pewni, że ‘czują’ ją gdzieś blisko, najprawdopodobniej w obrębie murów miasta.~
+@53  = ~<GABBER>, być może nasz los spoczywa w twoich rękach, niezależnie od koniecznych do poniesienia kosztów. Uwierz w siebie, mój dobry przyjacielu, a osiągniesz sukces.~ ~<GABBER>, być może nasz los spoczywa w twoich rękach, niezależnie od koniecznych do poniesienia kosztów. Uwierz w siebie, moja droga przyjaciółko, a osiągniesz sukces.~
+@54  = ~<GABBER>, wiem, że dasz z siebie wszystko. Życzę ci powodzenia. Wróć do mnie, kiedy odnajdziesz i zniszczysz źródło tej złej siły.~
+@55  = ~<GABBER>, jak dobrze znów cię widzieć. Musisz mi jednak wybaczyć, za chwilę mam kolejny występ. Przy okazji, moi przyjaciele poinformowaliby mnie, gdyby zniknęło płynące ze złej siły zagrożenie. A jednak tego nie zrobili. Czy wszystko w porządku?~
+@56  = ~Nie mogę jej odnaleźć. Wiesz, gdzie może znajdować się jej źródło?~
+@57  = ~Powiem ci wszystko, co wiem i co mi przekazano. Znajduje się gdzieś w Athkatli.~
+@58  = ~Moi przyjaciele nie byli w stanie dokładnie sprecyzować jego lokalizacji, ale powiedzieli, że najsilniej odczuwalna jest po zachodniej stronie Athkatli.~
+@59  = ~Moim przyjaciołom udało się zawęzić teren poszukiwań. Mówią, że źródło zła znajduje się gdzieś w pobliżu wody. Może rzeki? Ani oni, ani ja nie możemy być tego pewni.~
+@60  = ~Z tego co powiedzieli mi przyjaciele, źródło zła znajduje się gdzieś pod powierzchnią ziemi. Unosi się wokół niego zapach siarki, soli i zgnilizny.~
+@61  = ~<GABBER>, przykro mi. Nie mogę ci bardziej pomóc. Przyjaciele zdradzili mi tylko, że zło najsilniej emanuje z zachodniej części Athkatli, a jego źródło znajduje się gdzieś pod powierzchnią, w pobliżu wody.~
+@62  = ~<GABBER>, dobrze znów cię widzieć! Dotarły do moich uszu wspaniałe wieści. W rzeczy samej, wspaniałe wieści. Moi przyjaciele harfiarze nie wyczuwają już obecności zła i z wielką chęcią dowiem się, cóż się wydarzyło. Rozumiem, że zniszczyłeś jej źródło, lecz w jaki sposób?~ ~<GABBER>, dobrze znów cię widzieć! Dotarły do moich uszu wspaniałe wieści. W rzeczy samej, wspaniałe wieści. Moi przyjaciele harfiarze nie wyczuwają już obecności zła i z wielką chęcią dowiem się, cóż się wydarzyło. Rozumiem, że zniszczyłaś jej źródło, lecz w jaki sposób?~
+@63  = ~Wygnałem demona z Faerunu. Nie byłem jednak w stanie go zniszczyć.~ ~Wygnałam demona z Faerunu. Nie byłam jednak w stanie go zniszczyć.~
+@64  = ~Udało mi się zniszczyć demona i nic nie powinno już przysparzać zmartwień w Dokach.~
+@65  = ~<GABBER>, niezależnie od przebiegu udało ci się. Dobrze się spisałeś, co ucieszyło moich znajomych harfiarzy. I mnie także.~ ~<GABBER>, niezależnie od przebiegu udało ci się. Dobrze się spisałaś, co ucieszyło moich znajomych harfiarzy. I mnie także.~
+@66  = ~Idź. Znajdź źródło zła i zrób, co trzeba, by je zniszczyć.~
+@67  = ~<GABBER>, w rzeczy samej cieszy mnie fakt, że byłeś w stanie pokonać zło. Wiem, że sam nigdy bym tego nie dokonał, a najprawdopodobniej nigdy nawet nie zdecydowałbym się spróbować. Należy ci się pochwała, zamierzam więc dotrzymać obietnicy udzielenia ci lekcji. Jakiej, sam musisz wybrać.~ ~<GABBER>, w rzeczy samej cieszy mnie fakt, że byłaś w stanie pokonać zło. Wiem, że sam nigdy bym tego nie dokonał, a najprawdopodobniej nigdy nawet nie zdecydowałbym się spróbować. Należy ci się pochwała, zamierzam więc dotrzymać obietnicy udzielenia ci lekcji. Jakiej, sama musisz wybrać.~
+@68  = ~Pomogę ci zostać jeszcze lepszym bardem i nauczę cię czegoś, co poznać mógłbyś tylko w najlepszej z akademii. Czego chciałbyś się dowiedzieć: chcesz opanować sztukę wygrywania utworów w taki sposób, że publiczność nie będzie potrafiła skupić się na niczym poza nimi, chciałbyś móc zapamiętywać więcej zaklęć, czy pokazać ci w jaki sposób rozrzucać po ziemi kolczatkę, by zadać wrogom jak najcięższe rany?~ ~Pomogę ci zostać jeszcze lepszym bardem i nauczę cię czegoś, co poznać mogłabyś tylko na najlepszym uniwersytecie. Czego chciałabyś się dowiedzieć: chcesz opanować sztukę wygrywania utworów w taki sposób, że publiczność nie będzie potrafiła skupić się na niczym poza nimi, chciałabyś móc zapamiętywać więcej zaklęć, czy pokazać ci w jaki sposób rozrzucać po ziemi kolczatkę, by zadać wrogom jak najcięższe rany?~
+@69  = ~Chciałbym mocniej przyciągać uwagę widzów swoimi pieśniami.~ ~Chciałabym mocniej przyciągać uwagę widzów swoimi pieśniami.~
+@70  = ~Będę wdzięczny, jeśli nauczysz mnie jak zapamiętywać więcej czarów.~ ~Będę wdzięczna, jeśli nauczysz mnie jak zapamiętywać więcej czarów.~
+@71  = ~Proszę, Mistrzu, pokaż mi jak zastawiać pułapki za pomocą kolczatki.~
+@72  = ~<GABBER>, z wielką przyjemnością pokażę ci, w jaki sposób grać swoje pieśni.~
+@73  = ~Proszę. Teraz jesteś w stanie wprowadzić w trans publiczność swoją grą, a nawet jeszcze chwilę po niej będą oszołomieni.~
+@74  = ~<GABBER>, z wielką przyjemnością pokażę ci sposób na zapamiętywanie większej ilości czarów.~
+@75  = ~Proszę. Teraz możesz zapamiętywać więcej czarów niż zwyczajny bard na twoim poziomie.~
+@76  = ~<GABBER>, z wielką przyjemnością pokażę ci, w jaki sposób rozrzucać po ziemi kolczatkę.~
+@77  = ~Proszę. Teraz potrafisz umiejętnie pokryć kolczatką pewną przestrzeń. Dzięki temu, zranisz lub spowolnisz marsz swoich wrogów.~
+@78  = ~<GABBER>, dziękuję ci za pomoc i cieszę się, że mogłem się odwdzięczyć. Mogę cię nauczyć jeszcze czegoś, jeśli najpierw coś dla mnie zrobisz. Zgadzasz się?~
+@79  = ~Tak, mistrzu. Co mam zrobić?~
+@80  = ~Nie teraz, mistrzu. Potrzebuję więcej czasu.~
+@81  = ~Zaczekam więc, aż będziesz gotowy. Może nawet wystąpię raz czy dwa.~ ~Zaczekam więc, aż będziesz gotowa. Może nawet wystąpię raz czy dwa.~
+@82  = ~<GABBER>, wiem, że najpierw poprosiłem cię o coś niezbyt trudnego – znalezienie harfy z Myth Drannor – a potem o coś o wiele bardziej niebezpiecznego, czyli zabicie demona, jednak to ostatnie zadanie można uznać za proste tylko pod tym względem, że nie będziesz musiał dla jego wykonania ryzykować życiem. <GABBER>, dam ci rękojeść, rękojeść która była kiedyś częścią potężnego miecza, Klingi śpiewnych czarów. Uważano ją za niezniszczalną, magiczną broń, choć ta pierwsza część oczywiście okazała się nieprawdą.~ ~<GABBER>, wiem, że najpierw poprosiłem cię o coś niezbyt trudnego – znalezienie harfy z Myth Drannor – a potem o coś o wiele bardziej niebezpiecznego, czyli zabicie demona, jednak to ostatnie zadanie można uznać za proste tylko pod tym względem, że nie będziesz musiała dla jego wykonania ryzykować życiem. <GABBER>, dam ci rękojeść, rękojeść która była kiedyś częścią potężnego miecza, Klingi śpiewnych czarów. Uważano ją za niezniszczalną, magiczną broń, choć ta pierwsza część oczywiście okazała się nieprawdą.~
+@83  = ~Klinga sama w sobie jest stracona, ale można by ją przekuć we właściwym metalu, a z odpowiednią inkantacją ponownie umagicznić. Musisz znaleźć nadające się do tego materiały, a ja znam kogoś, kto mógłby na nowo wykuć Klingę śpiewnych czarów. <GABBER>, porozmawiaj z krasnoludem Cromwellem, a kiedy będziesz miał gotową broń, wróć do mnie.~ ~Klinga sama w sobie jest stracona, ale można by ją przekuć we właściwym metalu, a z odpowiednią inkantacją ponownie umagicznić. Musisz znaleźć nadające się do tego materiały, a ja znam kogoś, kto mógłby na nowo wykuć Klingę śpiewnych czarów. <GABBER>, porozmawiaj z krasnoludem Cromwellem, a kiedy będziesz miała gotową broń, wróć do mnie.~
+@84  = ~Spróbuję, mistrzu.~
+@85  = ~Mam nadzieję, że i tym razem mnie nie zawiedziesz. Powodzenia.~
+@86  = ~Ach, <GABBER>. Spóźniłeś się na mój występ. A było to dobre przedstawienie, naprawdę dobre. Masz jakieś nowe wiadomości? Co z Klingą śpiewnych czarów? Udało ci się ją przekuć?~
+@87  = ~Tak, mistrzu. Mam ją.~
+@88  = ~Nie, mistrzu. Jeszcze mi się to nie udało.~
+@89  = ~A taką miałem nadzieję, że już ją masz przy sobie. Nie tracę w ciebie wiary. Wróć do mnie, kiedy już pomożesz Cromwellowi odtworzyć Klingę śpiewnych czarów.~
+@90  = ~<GABBER>, zasłużyłeś sobie na ten miecz. O wiele bardziej niż ja. Proszę, pozwól mi rozwinąć jego magiczne cechy, zanim ci go oddam. Klinga śpiewnych czarów to wspaniała broń i to tobie powinien przypaść zaszczyt noszenia jej u boku.~ ~<GABBER>, zasłużyłaś sobie na ten miecz. O wiele bardziej niż ja. Proszę, pozwól mi rozwinąć jego magiczne cechy, zanim ci go oddam. Klinga śpiewnych czarów to wspaniała broń i to tobie powinien przypaść zaszczyt noszenia jej u boku.~
+@91  = ~<GABBER>, zaszczytem było cię spotkać i okłamałbym siebie, a także ciebie, gdybym jeszcze raz nie powtórzył, że kiedyś będziesz najsłynniejszym bardem w Faerunie, szczególnie jeśli jeszcze raz pozwolisz mi udzielić ci lekcji. Nauczę cię czegoś, co pomoże ci w podróżach po Krainach.~ ~<GABBER>, zaszczytem było cię spotkać i okłamałbym siebie, a także ciebie, gdybym jeszcze raz nie powtórzył, że kiedyś będziesz najsłynniejszą bardką w Faerunie, szczególnie jeśli jeszcze raz pozwolisz mi udzielić ci lekcji. Nauczę cię czegoś, co pomoże ci w podróżach po Krainach.~
+@92  = ~W rzeczy samej, nauczę cię czegoś – czego zwyczajny bard nie ma możliwości się nauczyć – jeśli tylko powiesz mi, co dokładnie chciałbyś wiedzieć. Pokazać ci jak unikać wrogów w walce czy, skoro umiesz zakładać pułapki, nauczyć cię rozrzucać po ziemi kolczatkę tak, by zadać wrogom jak najcięższe rany, a może chciałbyś móc używać absolutnie każdego przedmiotu?~ ~W rzeczy samej, nauczę cię czegoś – czego zwyczajny bard nie ma możliwości się nauczyć – jeśli tylko powiesz mi, co dokładnie chciałabyś wiedzieć. Pokazać ci jak unikać wrogów w walce czy, skoro umiesz zakładać pułapki, nauczyć cię rozrzucać po ziemi kolczatkę tak, by zadać wrogom jak najcięższe rany, a może chciałabyś móc używać absolutnie każdego przedmiotu?~
+@93  = ~Myślę, że największe korzyści przyniesie mi umiejętność używania każdego przedmiotu. Możesz mnie tego nauczyć?~
+@94  = ~Jak sobie życzysz. Nauczę cię jak skutecznie rozrzucać kolczatkę, by zranić lub spowolnić marsz wroga.~
+@95  = ~<GABBER>, udało się. Opanowałeś sztukę zastawiania pułapek za pomocą kolczatki.~ ~<GABBER>, udało się. Opanowałaś sztukę zastawiania pułapek za pomocą kolczatki.~
+@96  = ~Jak sobie życzysz. Nauczę cię jak unikać ciosów w czasie walki.~
+@97  = ~<GABBER>, udało się. Opanowałeś sztukę uników i twoim wrogom będzie o wiele trudniej cię zranić.~ ~<GABBER>, udało się. Opanowałaś sztukę uników i twoim wrogom będzie o wiele trudniej cię zranić.~
+@98  = ~Nauczenie barda używania każdego przedmiotu nie jest łatwe. <GABBER>, dam z siebie wszystko, ale nie mogę ci gwarantować sukcesu.~
+@99  = ~GABBER>, w rzeczy samej, jesteś kimś specjalnym. Bez wątpienia, uczenie cię było dla mnie zaszczytem. Pamiętaj, że niektóre przedmioty, jak zbroje, mogę uniemożliwić ci rzucanie czarów.~
+@100 = ~Witaj w teatrze gospody pod Pięcioma Dzbanami, dobry człowieku. Przybyłeś na przedstawienie? Za niedługo rozpocznie się mój występ, obiecuję ci więc wyśmienitą zabawę, jeśli zechcesz wrócić za chwilę.~ ~Witaj w teatrze gospody pod Pięcioma Dzbanami, zacna niewiasto. Przybyłaś na przedstawienie? Za niedługo rozpocznie się mój występ, obiecuję ci więc wyśmienitą zabawę, jeśli zechcesz wrócić za chwilę.~
+@101 = ~<GABBER>! Jak dobrze znów cię widzieć. Będę dziś pewnie występował, więc może zaglądniesz tu na chwilę przed rozpoczęciem przedstawienia. Jestem przekonany, że nie będziesz żałować.~
+@102 = ~Akademia Barda
+
+Odnalazłem harfę z Myth Drannor i oddałem ją mistrzowi, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami. Był naprawdę wdzięczny i nalegał, że w zamian pokaże mi coś, czego nauczał w Akademii Bardów w Silverymoon.~ ~Akademia Barda
+
+Odnalazłam harfę z Myth Drannor i oddałam ją mistrzowi, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami. Był naprawdę wdzięczny i nalegał, że w zamian pokaże mi coś, czego nauczał w Akademii Bardów w Silverymoon.~
+@103 = ~Akademia Barda: Obecność Zła
+
+Mistrz z teatru gospody pod Pięcioma Dzbanami poprosił, bym zlikwidował złą siłę, która, jak słyszał, promieniuje z tego regionu. Nie potrafił sprecyzować, gdzie może znajdować się jej źródło, ale to miejsce na pewno leży w Athkatli.
+Kiedy już się z tym uporam – albo niszcząc źródło zła, albo wyganiając je z Faerunu – mam poinformować o tym poetę, którego znajdę w pobliżu wyjścia z Podmroku. W zamian za to, mistrz obiecał nauczyć mnie czegoś, co rozwinie moje bardowskie umiejętności.~ ~Akademia Barda: Obecność Zła
+
+Mistrz z teatru gospody pod Pięcioma Dzbanami poprosił, bym zlikwidowała złą siłę, która, jak słyszał, promieniuje z tego regionu. Nie potrafił sprecyzować, gdzie może znajdować się jej źródło, ale to miejsce na pewno leży w Athkatli.
+Kiedy już się z tym uporam – albo niszcząc źródło zła, albo wyganiając je z Faerunu – mam poinformować o tym poetę, którego znajdę w pobliżu wyjścia z Podmroku. W zamian za to, mistrz obiecał nauczyć mnie czegoś, co rozwinie moje bardowskie umiejętności.~
+@104 = ~Akademia Barda: Przekucie Klingi śpiewnych czarów
+
+Mistrz, który nauczył mnie już kilku cennych sztuczek, ma dla mnie kolejne zadanie. Tym razem dał mi rękojeść Klingi śpiewnych czarów, która uważana była niegdyś za niezniszczalną broń. Roztrzaskać ją mogła tylko naprawdę ogromna siła, czymkolwiek była.
+Moim zdaniem jest odnalezienie materiału nadającego się do połączenia z klingą i odtworzenie miecza jako zdatnej do użytku broni. Nie wiem, gdzie mogę taki surowiec zdobyć, ale były nauczyciel Akademii Bardów w Silverymoon powiedział, że pomóc może mi w tym krasnolud Cromwell.~
+@105 = ~Akademia Barda
+
+Odnalazłem harfę z Myth Drannor i oddałem ją mistrzowi, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami. Był naprawdę wdzięczny i nalegał, że w zamian pokaże mi coś, czego nauczał w Akademii Bardów w Silverymoon.~ ~Akademia Barda
+
+Odnalazłam harfę z Myth Drannor i oddałam ją mistrzowi, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami. Był naprawdę wdzięczny i nalegał, że w zamian pokaże mi coś, czego nauczał w Akademii Bardów w Silverymoon.~
+@106 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie sposobu na zapamiętywanie większej ilości czarów niż zwykły bard.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie sposobu na zapamiętywanie większej ilości czarów niż zwykły bard.~
+@107 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak skutecznie robić zwody i unikać zranienia w czasie walki.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak skutecznie robić zwody i unikać zranienia w czasie walki.~
+@108 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak zakładać pułapki za pomocą kolczatki, dzięki czemu będę w stanie spowolnić marsz wroga, a nawet zadać mu rany.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak zakładać pułapki za pomocą kolczatki, dzięki czemu będę w stanie spowolnić marsz wroga, a nawet zadać mu rany.~
+@109 = ~Akademia Barda: Harfa z Myth Drannor
+
+Były wykładowca na Akademii Bardów w Silverymoon zaoferował mi prywatne lekcje, jednak, jak to zawsze bywa w tym zepsutym mieście, najpierw muszę coś dla niego zrobić. 
+Najwyraźniej, podczas podróży przez Amn zepsuł się jego instrument i bardzo zależy mu na zdobyciu nowego. Prosił o coś umagicznionego, mam więc do niego wrócić, kiedy odnajdę harfę z Myth Drannor. Nie mam pojęcia, gdzie taki relikt może się znajdować, ale i tak go zdobędę. Mistrza odnajdę w teatrze gospody pod Pięcioma Dzbanami.~
+@110 = ~Akademia Barda: Obecność Zła
+
+Mistrz z teatru gospody pod Pięcioma Dzbanami poprosił, bym zlikwidował złą siłę, która, jak słyszał, promieniuje z tego regionu. Nie potrafił sprecyzować, gdzie może znajdować się jej źródło, ale to miejsce na pewno leży w Athkatli.
+Kiedy już się z tym uporam – albo niszcząc źródło zła, albo wyganiając je z Faerunu – mam poinformować o tym poetę, którego znajdę w pobliżu wyjścia z Podmroku. W zamian za to, mistrz obiecał nauczyć mnie czegoś, co rozwinie moje bardowskie umiejętności.~ ~Akademia Barda: Obecność Zła
+
+Mistrz z teatru gospody pod Pięcioma Dzbanami poprosił, bym zlikwidowała złą siłę, która, jak słyszał, promieniuje z tego regionu. Nie potrafił sprecyzować, gdzie może znajdować się jej źródło, ale to miejsce na pewno leży w Athkatli.
+Kiedy już się z tym uporam – albo niszcząc źródło zła, albo wyganiając je z Faerunu – mam poinformować o tym poetę, którego znajdę w pobliżu wyjścia z Podmroku. W zamian za to, mistrz obiecał nauczyć mnie czegoś, co rozwinie moje bardowskie umiejętności.~
+@111 = ~Akademia Barda: Obecność Zła
+
+Pokonałem demona ukrywającego się pod Dokami w Athkatli, o którym opowiadał mi mistrz. Z radością poinformował mnie, że nie może się doczekać czasu, kiedy zagra balladę opiewającą moje heroiczne czyny i obiecał nauczyć mnie jednej nowej umiejętności.~ ~Akademia Barda: Obecność Zła
+
+Pokonałam demona ukrywającego się pod Dokami w Athkatli, o którym opowiadał mi mistrz. Z radością poinformował mnie, że nie może się doczekać czasu, kiedy zagra balladę opiewającą moje heroiczne czyny i obiecał nauczyć mnie jednej nowej umiejętności.~
+@112 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak wygrywać niektóre pieśni i melodie, by wprowadzić wszystkich słuchaczy w trans.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak wygrywać niektóre pieśni i melodie, by wprowadzić wszystkich słuchaczy w trans.~
+@113 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie sposobu na zapamiętywanie większej ilości czarów niż zwykły bard.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie sposobu na zapamiętywanie większej ilości czarów niż zwykły bard.~
+@114 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak zakładać pułapki za pomocą kolczatki, dzięki czemu będę w stanie spowolnić marsz wroga, a nawet zadać mu rany.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak zakładać pułapki za pomocą kolczatki, dzięki czemu będę w stanie spowolnić marsz wroga, a nawet zadać mu rany.~
+@115 = ~Akademia Barda: Przekucie Klingi śpiewnych czarów
+
+Mistrz, który nauczył mnie już kilku cennych sztuczek, ma dla mnie kolejne zadanie. Tym razem dał mi rękojeść Klingi śpiewnych czarów, która uważana była niegdyś za niezniszczalną broń. Roztrzaskać ją mogła tylko naprawdę ogromna siła, czymkolwiek była.
+Moim zdaniem jest odnalezienie materiału nadającego się do połączenia z klingą i odtworzenie miecza jako zdatnej do użytku broni. Nie wiem, gdzie mogę taki surowiec zdobyć, ale były nauczyciel Akademii Bardów w Silverymoon powiedział, że pomóc może mi w tym krasnolud Cromwell.~
+@116 = ~Akademia Barda: Przekucie Klingi śpiewnych czarów
+
+Z pomocą Cromwella, udało mi się odtworzyć starożytną Klingę śpiewnych czarów. Kiedy przyniosłem ją jednak Mistrzowi do teatru gospody pod Pięcioma Dzbanami, nagrodził mnie dodatkowym umagicznieniem broni i oddał mi ją, wspominając, że noszenie tego miecza u boku jest zaszczytem dla każdego barda i poety.~ ~Akademia Barda: Przekucie Klingi śpiewnych czarów
+
+Z pomocą Cromwella, udało mi się odtworzyć starożytną Klingę śpiewnych czarów. Kiedy przyniosłam ją jednak Mistrzowi do teatru gospody pod Pięcioma Dzbanami, nagrodził mnie dodatkowym umagicznieniem broni i oddał mi ją, wspominając, że noszenie tego miecza u boku jest zaszczytem dla każdego barda i poety.~
+@117 = ~Akademia Barda
+
+Mistrz, którego spotkałem w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak używać każdego przedmiotu, który znajdę bądź zakupię.~ ~Akademia Barda
+
+Mistrz, którego spotkałam w teatrze gospody pod Pięcioma Dzbanami, nauczył mnie jak używać każdego przedmiotu, który znajdę bądź zakupię.~

@@ -1,0 +1,54 @@
+@1   = ~Tardecie! Zszargałeś mój honor! Domagam się satysfakcji!~
+@2   = ~Wolałbym pozostać tutaj, Tardecie, jednak jeśli naprawdę chcesz pójść, rozejrzeć się za kimś do walki, przypuszczam, że mógłbym być pomocny dla was wszystkich.~
+@3   = ~Nie martw się, Marilyn. Oczywiście, że potraktuję to poważnie. Jestem przygotowany, tak jak zwykle.~
+@4   = ~Naprawdę, Sylvanusie? Nie wiedziałem, że powiedziałeś to panu Johnowi Johnsowi.~
+@5   = ~Cześć. Jestem Paddy Niezłomny. Masz coś słodkiego?~
+@6   = ~Być może tamci ludzie w jaskini mają słodycze.~
+@7   = ~Tardeth życzy sobie, żebyśmy poszli go stłuc. Powinieneś wybrać się z nami, by pomóc.~ ~Tardeth życzy sobie, żebyśmy poszli go stłuc. Powinnaś wybrać się z nami, by pomóc.~
+@8   = ~Jeśli chcesz się przyłączyć, przygotuj swój ekwipunek i porozmawiaj z Tardethem.~
+@9   = ~Bez urazy, jednak zdaje się, że mój sznurek wpadł mi do twojej kieszeni. O tutaj, nie miej mi za złe.~
+@10  = ~Po prostu sam go wyciągnę.~
+@11  = ~Tardeth zawsze ma w zanadrzu jakąś robotę albo coś, co musimy zrobić. Naprawdę życzyłbym sobie chwili odpoczynku.~
+@12  = ~No wiesz, wydaje mu się, że będziemy zdolni pokonać potężnych wrogów, tych, którzy przynależą do Kultu Smoka.~
+@13  = ~Cóż, nie chciałbym zostać zmieniony w drakolisza. Tak właśnie powiem, do protokołu.~
+@14  = ~Masz czas na partyjkę kości? Mam tu ich parę. Możemy użyć moich.~
+@15  = ~Nie masz nic przeciwko użyciu do gry moich, prawda?~
+@16  = ~Więc, jak mówiłeś, skąd jesteś?~ ~Więc, jak mówiłaś, skąd jesteś?~
+@17  = ~Z Waterdeep.~
+@18  = ~Pochodzę z Candlekeep.~
+@19  = ~Nie twoja sprawa.~
+@20  = ~Candlekeep, co? Ja jestem z Purpurowych Wzgórz... bądź co bądź, to znacznie dalej z tego miejsca niż Candlekeep.~
+@21  = ~Założę się, że naczytałeś się całkiem sporo, kiedy tam byłeś.~ ~Założę się, że naczytałaś się całkiem sporo, kiedy tam byłaś.~
+@22  = ~Waterdeep, co? Zatem zapewne wolisz waterdeepską zupę flisacką od luskańskiej. Zaraz, może powinienem to wymawiać 'fli-sa-ckom'?~
+@23  = ~Nie twoja sprawa? Nigdy nie słyszałem o czymś takim. Czy to na północy, w pobliżu Doliny Lodowego Wichru? Założę się, że jest tam zimno, gdziekolwiek by to nie było.~
+@24  = ~Cóż, od jak dawna jesteś poszukiwaczem przygód?~ ~Cóż, od jak dawna jesteś poszukiwaczką przygód?~
+@25  = ~Od zawsze.~
+@26  = ~Od chwili, gdy mój przybrany ojciec zginął poza murami Candlekeep.~
+@27  = ~Od paru raptem dni, nie dłużej.~
+@28  = ~Doprawdy? Ja jestem poszukiwaczem przygód, odkąd pomogłem Marilyn umknąć Zazesspurowi podczas Dziesięciu Czarnych Dni.~
+@29  = ~A, prawda. To nie byłaś ty. To był mój dobry przyjaciel Bieluch Długobaki. Cały czas mylę was ze sobą.~
+@30  = ~Jestem z Kompanią już ponad dwa lata. To prawie tak samo długo, jak długo żyje Manny.~
+@31  = ~O tak, zgadza się, Manny. Niemalże osiągnąłeś wiek, w którym możesz nadskakiwać calimshańskim magom, prawda?~
+@32  = ~Och, hmm, nie wiedziałem. Przepraszam, że przywołałem te smutne wspomnienia.~
+@33  = ~Nie przejmuj się tym, Paddy. Wszystko w porządku.~
+@34  = ~Jest dobrze, Paddy. Opłakiwałem jego stratę, ale pomściłem jego śmierć.~ ~Jest dobrze, Paddy. Opłakiwałam jego stratę, ale pomściłam jego śmierć.~
+@35  = ~No, to było świetne! To była potyczka godna moich bojowych umiejętności.~
+@36  = ~Cóż za szkoda, że nie było ich więcej.~
+@37  = ~Cóż, nie chcemy przebywać tu ani chwili dłużej, niż to konieczne. <CHARNAME>, spotkajmy się wszyscy na zewnątrz, gdzie opatrzymy nasze rany.~
+@38  = ~<CHARNAME>, nie pozwól, aby ktokolwiek kiedykolwiek mówił ci, że jesteś marnym poszukiwaczem przygód.~ ~<CHARNAME>, nie pozwól, aby ktokolwiek kiedykolwiek mówił ci, że jesteś marną poszukiwaczką przygód.~
+@39  = ~Gdyby nie twoja pomoc, przypuszczam, że mógłbym utknąć tu na dole na resztę mojego życia, jeśli nie dłużej.~
+@40  = ~Okazałeś się dla nas niezwykle pomocny. Proszę, nie mam zwyczaju rozdawania ekwipunku, dlaczego jednak nie miałbyś tego zatrzymać?~ ~Okazałaś się dla nas niezwykle pomocna. Proszę, nie mam zwyczaju rozdawania ekwipunku, dlaczego jednak nie miałabyś tego zatrzymać?~
+@41  = ~To specjalistyczne narzędzia niziołków, ja jednak zawsze mogę zdobyć ich więcej.~
+@42  = ~<CHARNAME>, trzymaj się. Dalej, ludzie, zbieramy się!~
+@43  = ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłem walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miał jeszcze okazję stanąć kiedyś u ich boku.~ ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłam walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miała jeszcze okazję stanąć kiedyś u ich boku.~
+@44  = ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałem. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałem poproszony o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowy na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~ ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałam. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałam poproszona o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowa na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~

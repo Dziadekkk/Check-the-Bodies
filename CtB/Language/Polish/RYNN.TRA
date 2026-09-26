@@ -1,0 +1,81 @@
+@1   = ~Chyba nie walczyłeś po naszej stronie. Zabij parę węży, a może zapracujesz na uwagę Oddzielenia.~ ~Chyba nie walczyłaś po naszej stronie. Zabij parę węży, a może zapracujesz na uwagę Oddzielenia.~
+@2   = ~Zatem, jesteś albo z Siedliszczem Ekstaminów, albo z Oddzieleniem. Kiedy podejmiesz decyzję i postanowisz zabijać te przeklęte węże, daj mi znać.~
+@3   = ~Jeśli jednak zdecydujesz się kiedykolwiek dołączyć do Oddzielenia, wiedz, że węże płacą 500 sztuk złota za głowę każdego jego członka. Miej oczy szeroko otwarte.~
+@4   = ~Nie zdradzę żadnego z moich przełożonych, dopóki nie dowiem się po czyjej jesteś stronie. Pomóż yuan-ti, a będziesz moim wrogiem. Wybierz nas, a może porozmawiamy.~
+@5   = ~Myślisz więc, że jesteś wystarczająco dobry, by dołączyć do Oddzielenia?~ ~Myślisz więc, że jesteś wystarczająco dobra, by dołączyć do Oddzielenia?~
+@6   = ~Jestem wystarczająco dobry, by zrobić wszystko, czego zapragnę. Do czego zmierzasz?~ ~Jestem wystarczająco dobra, by zrobić wszystko, czego zapragnę. Do czego zmierzasz?~
+@7   = ~Czym jest to Oddzielenie, o którym mówisz?~
+@8   = ~Jesteś członkiem Oddzielenia Węża?~
+@9   = ~Cóż, musisz udowodnić swoją wartość, zanim zaczniemy ci ufać.~
+@10  = ~Oddzielenie Węża. Zgromadzenie wolnych wojowników, którzy walczą, by wybawić Hlondeth od yuan-ti. Być może byłeś świadkiem jakichś utarczek z oddziałami z Hlondeth?~ ~Oddzielenie Węża. Zgromadzenie wolnych wojowników, którzy walczą, by wybawić Hlondeth od yuan-ti. Być może byłaś świadkiem jakichś utarczek z oddziałami z Hlondeth?~
+@11  = ~Póki co, naszym jedynym osiągnięciem jest ustanowienie nagrody za głowę każdego członka Oddzielenia, więc jeśli sądzisz, że stać cię walkę z Ekstaminami, będziesz musiał na siebie uważać.~ ~Póki co, naszym jedynym osiągnięciem jest ustanowienie nagrody za głowę każdego członka Oddzielenia, więc jeśli sądzisz, że stać cię na walkę z Ekstaminami, będziesz musiała na siebie uważać.~
+@12  = ~Oczywiście, przyznaję się do tego, ale nigdy nie otrzymasz więcej informacji o moich towarzyszach, które mógłbyś wykorzystać na naszą szkodę.~ ~Oczywiście, przyznaję się do tego, ale nigdy nie otrzymasz więcej informacji o moich towarzyszach, które mogłabyś wykorzystać na naszą szkodę.~
+@13  = ~Więc, jak powiedziałam, musisz pokazać, co potrafisz, zanim zdobędziesz choć odrobinę naszego zaufania. Udowodnij, że jesteś go godzien, a pozwolimy ci razem z nami przebijać mieczem serca złych węży.~ ~Więc, jak powiedziałam, musisz pokazać, co potrafisz, zanim zdobędziesz choć odrobinę naszego zaufania. Udowodnij, że jesteś go godna, a pozwolimy ci razem z nami przebijać mieczem serca złych węży.~
+@14  = ~Oto twoje pierwsze zadanie. Kojarzysz znajdującą się po drugiej stronie miasta Świątynię Mystry? Idź tam i przynieś mi szkatułkę. Będzie zamknięta, ale zabranie jej nie powinno przysporzyć ci wiele trudu. Poznasz ją, kiedy ją zobaczysz. Na złoceniach ma emblemat węża. Idź i nie wracaj bez niej.~ 
+@15  = ~Jeśli nie przyniesiesz szkatułki, nie udowodnisz swojej wartości. Jeśli ją jednak zdobędziesz, być może skontaktuję cię z przywódcą Oddzielenia Węża.~
+@16  = ~Słowem, przyniosłeś szkatułkę. Dobra robota. Dalej, oddaj mi ją.~ ~Słowem, przyniosłaś szkatułkę. Dobra robota. Dalej, oddaj mi ją.~
+@17  = ~Dobrze, posłuchaj. Nie było to trudne zadanie, niemniej jednak moi kompani są zadowoleni. Ta szkatułka pomoże sfinansować nasz ruch.~
+@18  = ~Jest ktoś szczególnie zadowolony z twojej pracy. Ukrywa się poza miastem - Ekstamini wyznaczyli nagrodę za jego głowę w wysokości 10 000 sztuk złota. Jest przywódcą Oddzielenia Węża, dobrze znanym w okolicy. Skontaktowanie się z tobą nie będzie dla niego łatwe, ale nie martw się. Odnajdzie cię, kiedy będzie bezpiecznie.~
+@19  = ~Ma klucz do Siedliszcza, w którym znajdują się yuan-ti, a ty musisz go zdobyć, jeśli chcesz się przedostać na ich grunty i zniszczyć Ekstaminów.~
+@20  = ~Nie martw się. Przywódca znajdzie cię na czas. Ma oczywiście powód, by nie pokazywać się zbyt często, ale rozglądnij się trochę po mieście. Znajdzie cię, kiedy będzie bezpiecznie.~
+@21  = ~Co? Nie zdobyłeś klucza?~ ~Co? Nie zdobyłaś klucza?~
+@22  = ~Nie, choć odnalazł nas Astinar. Chce, abyś nam towarzyszyła – najprawdopodobniej, żeby 'mieć nas na oku' - kiedy będziemy walczyć z wężami. Pójdziesz ze mną?~
+@23  = ~Oddam życie, żeby pozbyć się tych podłych istot z Hlondeth. Jeśli Gonthril chce zrobić ze mnie opiekunkę, proszę bardzo. Znajdźmy go i zdobądźmy klucz. Musimy jak najszybciej pozbyć się Siedliszcza Ekstaminów.~
+@24  = ~<CHARNAME>, już podjąłeś decyzję, ale wiedz, że zaraz na zawsze zapiszemy się w annałach historii. Niepewni przyszłości zaatakujemy rządzące Hlondeth Siedliszcze. Wierzę – mocno wierzę – że to głęboko zmieni nasze życie. Wystarczy, nadszedł czas. Musimy pozbyć się węży i uwolnić Hlondeth.~ ~<CHARNAME>, już podjęłaś decyzję, ale wiedz, że zaraz na zawsze zapiszemy się w annałach historii. Niepewni przyszłości zaatakujemy rządzące Hlondeth Siedliszcze. Wierzę – mocno wierzę – że to głęboko zmieni nasze życie. Wystarczy, nadszedł czas. Musimy pozbyć się węży i uwolnić Hlondeth.~
+@25  = ~Udało się, <CHARNAME>. Hlondeth jest krok bliżej wolności. Mam nadzieję, że dobrze postąpiliśmy. Gonthril powinien jak najszybciej usłyszeć wieści, muszę więc go poszukać. Dziękuję za pomoc, <CHARNAME>.~
+@26  = ~Potrawka z węża
+
+Rynn ma skontaktować się z przywódcą Oddzielenia, który spotka się ze mną w mieście. Wyznaczono za jego głowę wysoką nagrodę, Astinar musi się więc ukrywać. Z całą pewnością mnie znajdzie, ale póki co, powinienem mieć oczy dookoła głowy. Kiedy go spotkam, dostanę klucz otwierający zamkniętą bramę, która prowadzi na teren Siedliszcza Ekstaminów.~ ~Potrawka z węża
+
+Rynn ma skontaktować się z przywódcą Oddzielenia, który spotka się ze mną w mieście. Wyznaczono za jego głowę wysoką nagrodę, Astinar musi się więc ukrywać. Z całą pewnością mnie znajdzie, ale póki co, powinnam mieć oczy dookoła głowy. Kiedy go spotkam, dostanę klucz otwierający zamkniętą bramę, która prowadzi na teren Siedliszcza Ekstaminów.~
+@27  = ~Potrawka z węża
+
+Pokonanie Siedliszcza Ekstaminów wydaje się o wiele bardziej skomplikowane, niż mój plan wtargnięcia na ich teren i siania spustoszenia wśród wężów. Jest ze mną Rynn, która zapewnia mnie, że Astinar znajdzie nas, jeśli będziemy się rozglądać po mieście. Mam nadzieję, że za moją głowę nie wyznaczą nagrody.~
+@28  = ~Potrawka z węża
+
+Astinar dał nam klucz do bramy strzegącej terenu Siedliszcza Ekstaminów. Zaatakujemy jutro i wyzwolimy Hlondeth od plagi yuan-ti.~
+@29  = ~Potrawka z węża
+
+Rynn, najwyraźniej jedna z członkiń podziemia Hlondeth, twierdzi, że mogę pomóc jej i jej Oddzieleniu Węża poprzez zgładzenie Siedliszcza Ekstaminów. Nie jestem do końca przekonany, czy zadzieranie z ośrodkiem władzy w mieście jest dobrym pomysłem, ale tutejsi mieszkańcy nie wydają się być zadowoleni ze sposobu, w jaki yuan-ti sprawują władzę. Tak czy inaczej, jeśli chcę pomóc Oddzieleniu, Rynn rozkazała mi przynieść zamkniętą szkatułkę ze Świątyni Mystry znajdującej się w zachodniej części miasta. Nie mam pojęcia, gdzie dokładnie jest ona ukryta, więc przejście się do świątyni wydaje się być najmądrzejszym rozwiązaniem.~ ~Potrawka z węża
+
+Rynn, najwyraźniej jedna z członkiń podziemia Hlondeth, twierdzi, że mogę pomóc jej i jej Oddzieleniu Węża poprzez zgładzenie Siedliszcza Ekstaminów. Nie jestem do końca przekonana, czy zadzieranie z ośrodkiem władzy w mieście jest dobrym pomysłem, ale tutejsi mieszkańcy nie wydają się być zadowoleni ze sposobu, w jaki yuan-ti sprawują władzę. Tak czy inaczej, jeśli chcę pomóc Oddzieleniu, Rynn rozkazała mi przynieść zamkniętą szkatułkę ze Świątyni Mystry znajdującej się w zachodniej części miasta. Nie mam pojęcia, gdzie dokładnie jest ona ukryta, więc przejście się do świątyni wydaje się być najmądrzejszym rozwiązaniem.~
+@30  = ~Potrawka z węża
+
+W końcu spotkałem się z Gonthrilem Astinarem w Hlondeth. Rozmawialiśmy krótko i wyjaśniłem mu, że chcę pomóc Oddzieleniu w walce z Siedliszczem Ekstaminów. Zgodził się oddać nam klucz do fortecy, ale pod warunkiem, że weźmiemy ze sobą jedną spośród członków Oddzielenia Węża – zapewne, by pilnowała, czy nie złamię danego słowa – sądzę więc, że będę musiał wrócić do sklepu z bronią i odnaleźć tę bezduszną Rynn. Astinar obiecał, że spotka się ze mną ponownie, jak tylko z nią porozmawiam.~ ~Potrawka z węża
+
+W końcu spotkałam się z Gonthrilem Astinarem w Hlondeth. Rozmawialiśmy krótko i wyjaśniłam mu, że chcę pomóc Oddzieleniu w walce z Siedliszczem Ekstaminów. Zgodził się oddać nam klucz do fortecy, ale pod warunkiem, że weźmiemy ze sobą jedną spośród członków Oddzielenia Węża – zapewne, by pilnowała, czy nie złamię danego słowa – sądzę więc, że będę musiała wrócić do sklepu z bronią i odnaleźć tę bezduszną Rynn. Astinar obiecał, że spotka się ze mną ponownie, jak tylko z nią porozmawiam.~
+@31  = ~Potrawka z węża
+
+Yuan-ti z Siedliszcza Ekstaminów nie żyją. Nie mam pojęcia, co to oznacza dla miasta. Od polityków tego regionu trąci fałszem, a mnie z całą pewnością nie na rękę jest wmieszanie się w wojnę domową. Rynn odeszła odszukać Astinara, a ja powinienem jak najszybciej opuścić miasto.~ ~Potrawka z węża
+
+Yuan-ti z Siedliszcza Ekstaminów nie żyją. Nie mam pojęcia, co to oznacza dla miasta. Od polityków tego regionu trąci fałszem, a mnie z całą pewnością nie na rękę jest wmieszanie się w wojnę domową. Rynn odeszła odszukać Astinara, a ja powinnam jak najszybciej opuścić miasto.~
+@32  = ~<CHARNAME>, jeśli postanowisz podjąć walkę z Siedliszczem Ekstaminów, na pewno wplączemy się w jakąś kabałę. Polityka to moja działka, <CHARNAME>, i powinniśmy trzymać się od niej z daleka. Zniszczenie Siedliszcza Ekstaminów nie jest naszym zadaniem, choć temu nie brak szlachetności i bez tego.~
+@33  = ~Te obślizgłe węże pozostawiają niesmak w ustach Minsca i Boo.~
+@34  = ~Wojownicy o wolność potrzebują ostrego ostrza łowcy i mocnego krasnoludzkiego napitku, żeby pozbyć się smrodu węży, prawda, mój tęgi przyjacielu?~
+@35  = ~Wojownicy o wolność potrzebują ostrego ostrza łowcy żeby pozbyć się smrodu węży, powiedziałbym.~
+@36  = ~Zawsze jest czas na mocny krasnoludzki napitek, łowco. Jeszcze raz nazwiesz mnie tęgim, a pobawimy się w kotka i myszkę, i to ja będę kotem.~
+@37  = ~Jestem za zgładzeniem yuan-ti nawet bez krasnoludzkiej mocy.~
+@38  = ~Jakkolwiek nie postąpimy, <CHARNAME>, ta sprawa wymaga przemyślenia. Naprawdę chcesz się dać wciągnąć w tryby lokalnej polityki, której konsekwencje, niezależnie od efektu, mogą zajść tak daleko jak w Cormyrze?~
+@39  = ~Błagam, <CHARNAME>, przemyśl to jeszcze.~
+@40  = ~Łatwe zadanie. Ale powiedz mi, Rynn, na co ci ta szkatułka?~
+@41  = ~Jesteś ślepy, paladynie. Honor złagodził twe serce. Jeśli ta szkatułka jest rzeczywiście tak wyszukana, jak twierdzi ta kobieta, z całą pewnością będzie wypełniona złotem i kosztownościami. Pieniędzmi, które wspomogą ich sprawę. Nie mam racji?~
+@42  = ~Więc Rynn chce użyć pieniędzy yuan-ti przeciwko nim? Wchodzę w to! Ruszajmy, <CHARNAME>!~
+@43  = ~Kogo to obchodzi, Kel? Chodźmy po szkatułkę i przekonajmy się, co jest w środku!~
+@44  = ~Mamy udowodnić ci swoją wartość? Głupia abbil! Starasz się ratować biednych obywateli Hlondath, a jednak koncentrujesz się na ciągłym ukrywaniu i wystawianiu na próbę tych, którzy chcą ci pomóc. Wydajesz się nie wiedzieć po co, a raczej... jak obalić rządzące miastem Siedliszcze.~
+@45  = ~Głupia drowka! Gdybyś tylko mogła, bez wahania zabiłabyś wszystkich obywateli Hlondeth. W szkatułce mogą znajdować się pieniądze, <CHARNAME>. Pieniądze, których potrzebują zwykli ludzie.~
+@46  = ~W porządku, <CHARNAME>. Zdobądźmy tę szkatułkę i przekonajmy się, jak jeszcze możemy pomóc Hlondeth.~
+@47  = ~Jakby nie było to oczywiste. Szkatułka i jej zawartość zostaną podzielone między tych, który tego potrzebują: uciskanych mieszkańców Hlondeth, choć część także zostanie przekazana na Oddzielenie Węża, by skuteczniej walczyć z yuan-ti.~
+@48  = ~Obalenie Siedliszcza Ekstaminów nie jest wyłącznie moim planem, ale także innych członków. Teraz, jeśli skończyliście obrażać mnie i Oddzielenie, idźcie po szkatułkę.~
+@49  = ~Oczywiście, że masz rację, mroczna elfko. Pieniądze zostaną jednak rozdzielone między potrzebujących w Hlondeth, choć część z nich wspomoże także nasze zgromadzenie.~
+@50  = ~Masz serce do tej sprawy, niziołko. Wróćcie, kiedy zdobędziecie szkatułkę.~
+@51  = ~Mam nadzieję, że szkatułka dotrze do mnie w nienaruszonym stanie, niziołko. Wróćcie, kiedy będziecie ją mieli, a ja głęboko wierzę, że nie będę musiała odwrócić cię do góry nogami i sprawdzić, co masz w kieszeniach, moja mała przyjaciółko.~
+@52  = ~Mroczna elfka słusznie wytyka moje wady. Nie pracujemy jednak tylko dla siebie. Mam nadzieję, że zawartość szkatułki pomoże nie tylko nam, ale także mieszkańcom Hlondeth.~
+@53  = ~Ja... myślę, że powinniśmy już wyruszyć, jeśli chcemy odnaleźć wspominanego przez Rynn człowieka. Możemy się znaleźć w niebezpieczeństwie... e, to znaczy, jeśli członkowie Siedliszcza dowiedzą się, że pomagamy Oddzieleniu, i za nami mogą wysłać listy gończe.~
+@54  = ~Cóż, może uśmiechnie się do nas Pani Fortuna; niech to szlag. Sądzę, że najmądrzej będzie zachowywać się jak gdyby nigdy nic, <CHARNAME>, człowiek, o którym mówi Rynn, na pewno znajdzie nas w odpowiednim momencie.~
+@55  = ~Bzdura. To jedna, wielka bzdura. Jeśli naprawdę chcecie pozbyć się członków rządzącego miastem Siedliszcza, proszę bardzo. Weźmiemy ich siłą, a te knowania i sekretne rendez vous lepiej zostawmy nocnym kochankom.~
+@56  = ~Przykro mi, <CHARNAME>. Wystarczająco długo siedziałam cicho. Wysłuchaj mnie dokładnie, bo nie będę się powtarzała. Jeśli nie pomożesz Oddzieleniu pozbyć się Siedliszcza Ekstaminów z Hlondeth, yuan-ti wciąż będą koncentrowali się jedynie na zdobywaniu władzy i bogactwa, ulice miasta zaludnią umierające z głodu kobiety i dzieci, a mężczyźni wcale nie będą w lepszym stanie. Przeciwstawiaj się niesprawiedliwości, <CHARNAME>, rób to jednak mądrze i z troską.~
+@57  = ~<CHARNAME>, znasz moje zdanie. My, harfiarze, zawsze staramy się zachowywać dystans do polityki miast i nacji, a jednak czuję w sercu, że musimy pomóc Hlondeth pozbyć się Ekstaminów. Ale odnaleźć kogoś, za czyją głowę została wyznaczona nagroda – i to niemała - nie będzie łatwo, szczególnie jeśli nie chce on być widziany. Chodźmy, wystarczy tej gadaniny. Czeka na nas praca.~
+@58  = ~Prowadzisz nas ku chwalebnym czynom, <CHARNAME>. Modlę się, aby nasze decyzje były słuszne.~
+@59  = ~<CHARNAME>! Boo z całego serca zgadza się z tobą. Spójrz! Uśmiecha się i piszczy z aprobatą.~
+@60  = ~Niezależnie co z tego wyniknie, <CHARNAME>, pamiętaj, że wszystko wróci do stanu równowagi.~
+@61  = ~Zanim cię zostawię, udzielę ci jeszcze jednej informacji, <CHARNAME>. Być może zauważyłeś, że na parterze tej willi są schody prowadzące w dół. Pod budynkiem znajdują się starożytne ruiny, których strzegą yuan-ti. Do lochów zejdź jednak na własne ryzyko, ja nie zamierzam ci tam towarzyszyć. Powodzenia, <CHARNAME>.~ ~Zanim cię zostawię, udzielę ci jeszcze jednej informacji, <CHARNAME>. Być może zauważyłaś, że na parterze tej willi są schody prowadzące w dół. Pod budynkiem znajdują się starożytne ruiny, których strzegą yuan-ti. Do lochów zejdź jednak na własne ryzyko, ja nie zamierzam ci tam towarzyszyć. Powodzenia, <CHARNAME>.~

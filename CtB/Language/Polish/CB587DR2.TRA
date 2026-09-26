@@ -1,0 +1,70 @@
+@1   = ~Nie udało mi się jeszcze ukończyć praktyk u arcydruidki, bracie druidzie. Może powinieneś porozmawiać z nią.~
+@2   = ~Arcydruidka jest zadowolona z twoich wyników. Zezwoliła mi poszerzyć twoją wiedzę o sztuce druidzkiej.~
+@3   = ~Zrobię to, bracie druidzie, ale musisz wybrać, czego chcesz się ode mnie nauczyć. Wolałbyś nauczyć się, jak zapamiętywać dodatkowe zaklęcia, jak szybciej rzucać zaklęcia, czy też zyskać zdolność przemiany w panterę bądź lamparta?~
+@4   = ~Chciałbym się nauczyć, jak zapamiętywać jeden dodatkowy czar na poziom.~ ~Chciałabym się nauczyć, jak zapamiętywać jeden dodatkowy czar na poziom.~
+@5   = ~Myślę, że chciałbym szybciej rzucać zaklęcia.~ ~Myślę, że chciałabym szybciej rzucać zaklęcia.~
+@6   = ~Myślę, że chciałbym się nauczyć zmiany swojego kształtu w wielkiego kota.~ ~Myślę, że chciałabym się nauczyć zmiany swojego kształtu w wielkiego kota.~
+@7   = ~Jak sobie życzysz, bracie druidzie. Nauczę cię tego.~
+@8   = ~Szybko się uczysz, bracie druidzie. Jesteś teraz w stanie zapamiętywać większą liczbę zaklęć. Możesz jednak nauczyć się jeszcze więcej.~
+@9   = ~Szybko się uczysz, bracie druidzie. Udało ci się zyskać umiejętność szybszego rzucania czarów. Możesz jednak nauczyć się jeszcze więcej.~
+@10  = ~Szybko się uczysz, bracie druidzie. Udało ci się uzyskać zdolność przemiany w wielkiego kota. Połowę czasu poświęconego na przemianę spędzisz w postaci lamparta, a drugą jako pantera. Możesz jednak nauczyć się jeszcze więcej.~
+@11  = ~Dobrze ci poszło, bracie druidzie. Bardzo uradowało mnie to, że mogłam ci nieco w tym pomóc. Arcydruidka powiedziała mi, że zostaniesz poddany dalszym próbom. Czy jesteś gotowy na następne zadanie?~
+@12  = ~Tak, elfia pani. Powiedz mi, co należy zrobić.~
+@13  = ~Nie, elfia pani. Potrzebuję więcej czasu.~
+@14  = ~Bracie druidzie, dopóki nie dowiedziesz swojej wartości jako druid, twój czas w Krainach jest ograniczony do tego, co w nim dokonasz. Przygotuj się najlepiej jak potrafisz i wróć, kiedy będziesz gotowy.~
+@15  = ~Bardzo dobrze. Słuchaj uważnie, ponieważ muszę ci wiele wyjaśnić, zanim przystąpisz do kolejnego zadania.~
+@16  = ~W ostatnich miesiącach arcydruidka wyczuła w oddali jakąś rosnącą w siłę obecność. Nie wie, czym jest ten byt, jest jednak przekonana o jego złej naturze.~
+@17  = ~Bracie druidzie, arcydruidka obawia się o bezpieczeństwo tego regionu, jeśli ta istota stanie się zbyt potężna. To coś nie pochodzi z naszego świata i musi zostać powstrzymane, zanim spustoszy Faerun.~
+@18  = ~Wybrała cię, bracie druidzie, abyś wyeliminował to coś, przy pomocy wszelkich dostępnych ci środków. Jeżeli zajdzie taka konieczność, pozyskaj pomoc sojuszników, znajdź potężnych przyjaciół albo zdobądź magiczny oręż, by pokonać to zagrożenie. Bezpieczeństwo Faerunu raz jeszcze zależy od ciebie.~
+@19  = ~Gdzie mogę znaleźć tę istotę, druidko?~
+@20  = ~Zrobię, co w mojej mocy, elfia pani.~
+@21  = ~Elfia pani, nie wiem, czy moje umiejętności wystarczą, aby pokonać tak poważne zagrożenie.~
+@22  = ~Arcydruidka nie wie dokładnie gdzie, jednakże to coś jest mocno wyczuwalne w mieście na południu - w ludzkiej osadzie znanej jako Athkatla.~
+@23  = ~Bez względu na koszt, bracie druidzie, los nas wszystkich spoczywa w twoich rękach. Nasza trójka, podobnie jak arcydruidka, pokłada w tobie zaufanie. Nawet ci wszyscy, którzy znają twoje czyny tylko z obozowych opowieści również wierzyliby w ciebie, gdyby wiedzieli o zagrożeniu. Pamiętaj, żeby nie tracić wiary w siebie, a wtedy ci się powiedzie.~
+@24  = ~Wiem, że zrobisz co w twojej mocy. To wszystko, na co możemy mieć nadzieję. Powodzenia, bracie druidzie. Wróć do mnie, gdy ta istota zostanie unicestwiona.~
+@25  = ~Arcydruidka wciąż wyczuwa zło na tym obszarze. Wie, że nie udało ci się jeszcze wypełnić zadania.~
+@26  = ~Nie mogę odnaleźć tej istoty. Czy wiesz, gdzie ona jest?~
+@27  = ~Powiedziałam ci, bracie, że arcydruidka wyczuwa ją w Athkatli.~
+@28  = ~Nie potrafię być bardziej precyzyjna, ale ta istota przebywa prawdopodobnie gdzieś w zachodniej części miasta.~
+@29  = ~Arcydruidka wyczuwa tę istotę gdzieś w okolicach wody. Może to rzeka? Nie potrafi tego powiedzieć z całą pewnością.~
+@30  = ~Zło znajduje się pod powierzchnią, bracie druidzie. Arcydruidka wyczuwa zapach mieszaniny siarki, soli i zgnilizny.~
+@31  = ~Nie potrafię być bardziej precyzyjna, bracie druidzie. Zło emanuje silnie w zachodniej części Athkatli, niedaleko wody, pod powierzchnią.~
+@32  = ~Arcydruidka nie wyczuwa już narastającej obecności zła. Czy zostało ono zniszczone?~
+@33  = ~Nie. Zostało wygnane, ale nie zniszczone.~
+@34  = ~Tak, wielka pani. Zniszczyłem to, czymkolwiek było.~ ~Tak, wielka pani. Zniszczyłam to, czymkolwiek było.~
+@35  = ~W takim razie uznajmy zadanie za wykonane, niezależnie od rezultatu. Dobrze ci poszło, bracie druidzie. Przybliżyłeś się do momentu, w którym będziesz mógł nauczyć się czegoś więcej o harmonii natury.~
+@36  = ~Idź, bracie druidzie, i pokonaj zło, jeśli potrafisz.~
+@37  = ~Nie udało mi się jeszcze ukończyć praktyk u arcydruidki, <GABBER>. Jestem zbyt zajęta, aby przerywać moje medytacje.~
+@38  = ~Nie udało mi się jeszcze ukończyć praktyk u arcydruidki, siostro druidko. Może powinnaś porozmawiać z nią.~
+@39  = ~Zrobię to, siostro druidko, ale musisz wybrać, czego chcesz się ode mnie nauczyć. Wolałabyś nauczyć się, jak zapamiętywać dodatkowe zaklęcia, jak szybciej rzucać zaklęcia, czy też zyskać zdolność przemiany w panterę bądź lamparta?~
+@40  = ~Jak sobie życzysz, siostro druidko. Nauczę cię tego.~
+@41  = ~Szybko się uczysz, siostro druidko. Jesteś teraz w stanie zapamiętywać większą liczbę zaklęć. Możesz jednak nauczyć się jeszcze więcej.~
+@42  = ~Szybko się uczysz, siostro druidko. Udało ci się uzyskać umiejętność szybszego rzucania czarów. Możesz jednak nauczyć się jeszcze więcej.~
+@43  = ~Szybko się uczysz, siostro druidko. Udało ci się uzyskać zdolność przemiany w wielkiego kota. Połowę czasu poświęconego na przemianę spędzisz w postaci lamparta, a drugą jako pantera. Możesz jednak nauczyć się jeszcze więcej.~
+@44  = ~Dobrze ci poszło, siostro druidko. Bardzo uradowało mnie to, że mogłam ci nieco w tym pomóc. Arcydruidka powiedziała mi, że zostaniesz poddana dalszym próbom. Czy jesteś gotowa na następne zadanie?~
+@45  = ~Siostro druidko, dopóki nie dowiedziesz swojej wartości jako druidka, twój czas w Krainach jest ograniczony do tego, co w nim dokonasz. Przygotuj się najlepiej jak potrafisz i wróć, kiedy będziesz gotowa.~
+@46  = ~Siostro druidko, arcydruidka obawia się o bezpieczeństwo tego regionu, jeśli ta istota stanie się zbyt potężna. To coś nie pochodzi z naszego świata i musi zostać powstrzymane, zanim spustoszy Faerun.~
+@47  = ~Wybrała cię, siostro druidko, abyś wyeliminowała to coś, przy pomocy wszelkich dostępnych ci środków. Jeżeli zajdzie taka konieczność, pozyskaj pomoc sojuszników, znajdź potężnych przyjaciół albo zdobądź magiczny oręż, by pokonać to zagrożenie. Bezpieczeństwo Faerunu raz jeszcze zależy od ciebie.~
+@48  = ~Bez względu na koszt, siostro druidko, los nas wszystkich spoczywa w twoich rękach. Nasza trójka, podobnie jak arcydruidka, pokłada w tobie zaufanie. Nawet ci wszyscy, którzy znają twoje czyny tylko z obozowych opowieści również wierzyliby w ciebie, gdyby wiedzieli o zagrożeniu. Pamiętaj, żeby nie tracić wiary w siebie, a wtedy ci się powiedzie.~
+@49  = ~Wiem, że zrobisz co w twojej mocy. To wszystko, na co możemy mieć nadzieję. Powodzenia, siostro druidko. Wróć do mnie, gdy ta istota zostanie unicestwiona.~
+@50  = ~Powiedziałam ci, siostro, że arcydruidka wyczuwa ją w Athkatli.~
+@51  = ~Zło znajduje się pod powierzchnią, siostro druidko. Arcydruidka wyczuwa zapach mieszaniny siarki, soli i zgnilizny.~
+@52  = ~Nie potrafię być bardziej precyzyjna, siostro druidko. Zło emanuje silnie w zachodniej części Athkatli, niedaleko wody, pod powierzchnią.~
+@53  = ~W takim razie uznajmy zadanie za wykonane, niezależnie od rezultatu. Dobrze ci poszło, siostro druidko. Przybliżyłaś się do momentu, w którym będziesz mogła nauczyć się czegoś więcej o harmonii natury.~
+@54  = ~Idź, siostro druidko, i pokonaj zło, jeśli potrafisz.~
+@55  = ~Arcydruidka: Obecność Zła
+
+Trzy opiekujące się północnym gajem druidki nakazały mi zniszczyć, dającą się wyczuć w okolicy, złą istotę. Nie są pewne, skąd dokładnie emanuje zło, ale znajduje się ono gdzieś w obrębie miasta Athkatla.
+Kiedy już pokonam tę istotę - albo poprzez zniszczenie jej, albo poprzez wygnanie z Faerunu - mam zgłosić się do druidek przebywających na południe od Wrót Baldura. Obiecały one, że nauczą mnie umiejętności, która ułatwi mi życie.~
+@56  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak zapamiętywać większą liczbę zaklęć.~
+@57  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak szybciej rzucać zaklęcia.~
+@58  = ~Arcydruidka: Nauka
+
+Arcydruidka i jej uczennice nauczyły mnie, jak zmieniać się w wielkiego kota - w panterę bądź lamparta.~
+@59  = ~Arcydruidka: Obecność Zła
+
+Trzy opiekujące się północnym gajem druidki nakazały mi zniszczyć, dająca się wyczuć w okolicy, złą istotę. Została ona odnaleziona przeze mnie pod dokami Athkatli. Była to trudna bitwa, ale udało mi się zwyciężyć. Elfie druidki obiecały mi, że nauczą mnie przydatnej umiejętności.~

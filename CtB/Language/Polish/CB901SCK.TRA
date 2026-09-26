@@ -1,0 +1,50 @@
+@1   = ~zzz... uhh... Kto? Czego chcesz?~ 
+@2   = ~Wszystko w porządku?~
+@3   = ~Nie, nie jest ze mną dobrze. Jestem chora.~ 
+@4   = ~Czy kapłani nie mogą ci pomóc?~
+@5   = ~Kapłani? Ci nieudolni ludzie? Oni nie mogą mi pomóc. Nie wiedzą, jak wyleczyć elfkę.~ 
+@6   = ~Ich żałosna magia obraca się wokół Splotu i w niczym mi nie pomaga.~
+@7   = ~Czy mogę w jakiś sposób ci pomóc?~
+@8   = ~Kapłani nie mają tego, czego mi potrzeba. Potrzebuję naturalnego leczenia, a oni dysponują jedynie pochodzącymi od bogów czarami leczącymi i miksturami.~ 
+@9   = ~Ale może ty mi pomożesz, jeśli zechcesz. Potrzebuję specyficznych ziół, które można znaleźć w dziczy. Te zioła i trawy mi pomogą, ale tylko pod warunkiem, że znajdziesz je wszystkie.~
+@10  = ~Przykro mi, ale nie sądzę, abym mógł znaleźć pęk jakichś ziół. Musisz poszukać kogoś innego, kto by ci je przyniósł.~ ~Przykro mi, ale nie sądzę, abym mogła znaleźć pęk jakichś ziół. Musisz poszukać kogoś innego, kto by ci je przyniósł.~ 
+@11  = ~Mogę spróbować przynieść ci trochę korzeni i ziół. Czego konkretnie ode mnie potrzebujesz?~
+@12  = ~Nie spodziewałam się niczego innego po takim samolubnym poszukiwaczu przygód jak ty.~ ~Nie spodziewałam się niczego innego po takiej samolubnej poszukiwaczce przygód jak ty.~
+@13  = ~Będę potrzebowała kilku bardzo szczególnych ziół i korzeni. Po pierwsze, żeby zrobić sobie okład potrzebuję Sambucus nigra - to elfia nazwa jagód dzikiego bzu. Nie wiem, gdzie w tej okolicy można je znaleźć. Zazwyczaj występują one na krzewach, które rosną w miejscach, gdzie jest dla nich dużo wolnej przestrzeni.~ 
+@14  = ~Potrzebuję też liści drzewa brzoskwiniowego, by zrobić z nich proszek. Jest ono znane wśród elfów jako Prunus persica, a stosuje się je jako środek uspokajający i wykrztuśny.~
+@15  = ~Widłak goździsty również będzie przydatny. Na ogół występuje on na bagnach i wrzosowiskach. Nie przynoś jednak mokrych roślin, jako że mech Lycopodium clavatum musi być całkiem suchy.~ 
+@16  = ~Artermisia absintuium, znana lepiej jako piołun, wspomaga trawienie pozostałych ziół, więc proszę, przynieś mi tego trochę.~
+@17  = ~No i w końcu korzenie perzu - innej moczopędnej rośliny, którą elfy nazywają Agropyron repens. Gdyby udało ci się zdobyć ich odpowiednią ilość, stworzyłoby to podstawę dla mikstury, która by mi pomogła.~
+@18  = ~Jeśli przyniesiesz mi te pięć ziół, będzie to dla mnie wielką pomocą.~
+@19  = ~Postaram się przynieść ci je tak szybko, jak to możliwe.~ 
+@20  = ~Nie wiem, gdzie mogę je znaleźć, ale spróbuję.~
+@21  = ~Dziękuję ci za twoją pomoc.~ 
+@22  = ~To rzeczywiście byłoby bardzo pomocne. Dziękuję ci za twoją pomoc.~ 
+@23  = ~Udało ci się znaleźć któreś z tych ziół leczniczych, których potrzebuję?~
+@24  = ~Jeszcze nie. Nie mogę znaleźć żadnego z ziół, o których mi mówiłaś.~ 
+@25  = ~Udało mi się znaleźć tylko jedno z ziół, o których mi mówiłaś.~
+@26  = ~Udało mi się znaleźć tylko dwa z ziół, o których mi mówiłaś.~
+@27  = ~Mam trzy zioła, o których mi mówiłaś. Nie mogę znaleźć pozostałych.~
+@28  = ~Nie do końca. Wciąż szukam jednego z ziół, o których mi mówiłaś. Nie mogę go znaleźć.~
+@29  = ~Tak, Ostrokrzew. Mam wszystko, czego potrzebujesz, aby poczuć się lepiej.~
+@30  = ~Musisz zatem uważniej szukać. Proszę cię, nie wiem, jak długo będę w stanie wytrzymać ten ból.~
+@31  = ~Tak?~
+@32  = ~Nie wiem, jak długo jeszcze bym wytrzymała będąc przykutą do łóżka tak jak teraz.~
+@33  = ~Proszę, daj mi te rzeczy. Kapłan według moich wskazówek przygotuje z nich miksturę.~
+@34  = ~Dziękuję ci za przyniesienie mi tych korzeni i traw. Przyjdź do mnie jutro, a będę się czuła znacznie lepiej.~
+@35  = ~Dziękuję ci za pomoc. Bez tych ziół w końcu bym umarła.~
+@36  = ~Proszę, weź to. Są to resztki mikstury, którą pomogłeś mi zrobić. Bądź bardzo ostrożny, bo jest ona niezwykle potężna i uleczy cię całkowicie, niezależnie od tego, jak ciężko byłbyś ranny. Wystarczy tego tylko na jedno użycie, więc korzystaj z tego mądrze.~ ~Proszę, weź to. Są to resztki mikstury, którą pomogłaś mi zrobić. Bądź bardzo ostrożna, bo jest ona niezwykle potężna i uleczy cię całkowicie, niezależnie od tego, jak ciężko byłabyś ranna. Wystarczy tego tylko na jedno użycie, więc korzystaj z tego mądrze.~
+@37  = ~Oprócz tego, jako dowód mojej wdzięczności, chciałabym, abyś to wziął. Jest to elfia mikstura, którą trzymałam dla swojego pierworodnego, ale bez ciebie bym się go nie doczekała. ~ ~Oprócz tego, jako dowód mojej wdzięczności, chciałabym, abyś to wzięła. Jest to elfia mikstura, którą trzymałam dla swojego pierworodnego, ale bez ciebie bym się go nie doczekała. ~
+@38  = ~Czuję się teraz znacznie lepiej i wkrótce powinnam być w pełni sił.~
+@39  = ~Chora elfka
+
+W świątyni Helma w Athkatli spotkałem elfkę cierpiącą na okropną chorobę. Wydała mi się na tyle miła, że zgodziłem się jej pomóc. Mam odnaleźć kilka naturalnych składników służących do stworzenia mikstury, która, jak powiedziała, mogłaby ją uleczyć, czego nie byli w stanie zrobić kapłani Helma.
+Elfka ta, Ostrokrzew, poprosiła mnie, bym przyniósł jej nieco jagód dzikiego bzu, liści drzewa brzoskwiniowego, widłaka goździstego, piołunu oraz korzeni perzu. Nie wiedziała, gdzie dokładnie można znaleźć te rośliny, będę zatem musiał się za nimi rozejrzeć.~ ~Chora elfka
+
+W świątyni Helma w Athkatli spotkałam elfkę cierpiącą na okropną chorobę. Wydała mi się na tyle miła, że zgodziłam się jej pomóc. Mam odnaleźć kilka naturalnych składników służących do stworzenia mikstury, która, jak powiedziała, mogłaby ją uleczyć, czego nie byli w stanie zrobić kapłani Helma.
+Elfka ta, Ostrokrzew, poprosiła mnie, bym przyniosła jej nieco jagód dzikiego bzu, liści drzewa brzoskwiniowego, widłaka goździstego, piołunu oraz korzeni perzu. Nie wiedziała, gdzie dokładnie można znaleźć te rośliny, będę zatem musiała się za nimi rozejrzeć.~
+@40  = ~Ostrokrzew czuje się lepiej
+
+Schorowana elfka, którą spotkałem w świątyni Helma w Athkatli, czuje się znacznie lepiej. Stanęła już na nogi i podziękowała mi za odnalezienie ziół, korzeni i traw. Dała mi pozostałości mikstury, którą przygotowała, jak również piękny elfi artefakt. Wypadałoby się dowiedzieć, ile ta rzecz może być warta u sprzedawcy.~ ~Ostrokrzew czuje się lepiej
+
+Schorowana elfka, którą spotkałam w świątyni Helma w Athkatli, czuje się znacznie lepiej. Stanęła już na nogi i podziękowała mi za odnalezienie ziół, korzeni i traw. Dała mi pozostałości mikstury, którą przygotowała, jak również piękny elfi artefakt. Wypadałoby się dowiedzieć, ile ta rzecz może być warta u sprzedawcy.~

@@ -1,0 +1,63 @@
+@1   = ~Na tym etapie mojej podróży przez Faerun nie mogę nic dla ciebie zrobić.~ 
+@2   = ~<GABBER>. Dziękuję ci, za pomoc w uczynieniu kolejnego kroku do wypełnienia naszego zadania tutaj, w Faerunie. Teraz musimy pomóc ci wypełnić twoje przeznaczenie, ale tak jak ze wszystkim co robisz, wybór należy do ciebie. Pomożemy ci ucząc cię jednej umiejętności.~
+@3   = ~<GABBER>, czego chciałbyś się nauczyć: jak zapamiętywać dodatkowe zaklęcia, jak szybciej rzucać czary, czy też jak magicznie zaklinać ostrze broni?~ ~<GABBER>, czego chciałabyś się nauczyć: jak zapamiętywać dodatkowe zaklęcia, jak szybciej rzucać czary, czy też jak magicznie zaklinać ostrze broni?~ 
+@4   = ~Chciałbym zapamiętywać większą liczbę zaklęć na poziom.~ ~Chciałabym zapamiętywać większą liczbę zaklęć na poziom.~
+@5   = ~Najbardziej odpowiadałoby mi zwiększenie szybkości rzucania zaklęć.~ 
+@6   = ~Chciałbym posiąść umiejętność umagiczniania broni.~ ~Chciałabym posiąść umiejętność umagiczniania broni.~
+@7   = ~Bardzo dobrze. To dla mnie zaszczyt, móc cię nauczyć, jak zwiększyć pojemność twojego umysłu.~
+@8   = ~<GABBER>, jestem o jeden krok bliżej do zakończenia mojej pracy. Szybko się uczysz, i pomoc w zwiększeniu pojemności twojego umysłu była dla mnie zaszczytem.~ 
+@9   = ~Bardzo dobrze. To dla mnie zaszczyt, móc cię nauczyć, jak szybko i skutecznie rzucać zaklęcia.~
+@10  = ~<GABBER>, jestem o jeden krok bliżej do zakończenia mojej pracy. Szybko się uczysz, i pomoc w zwiększeniu twojej szybkości rzucania czarów była dla mnie zaszczytem.~ 
+@11  = ~Bardzo dobrze. To dla mnie zaszczyt, móc cię nauczyć, jak magicznie zaklinać ostrze broni - może to być miecz, sztylet, topór albo halabarda.~
+@12  = ~<GABBER>, jestem o jeden krok bliżej do zakończenia mojej pracy. Szybko się uczysz, i pomoc w nauczeniu cię, jak umagiczniać broń, była dla mnie zaszczytem. Pamiętaj tylko, że przedmiot, który chcesz zaczarować, musisz mieć przy sobie, bo inaczej umagicznienie nie powiedzie się. Zapamiętaj również, że działa to tylko z bronią trzymaną w ręku, i że nie może być to broń miotana.~
+@13  = ~<GABBER>, dobrze ci poszło i my trzy jesteśmy ci wdzięczne za pomoc. Teraz jednak czekają cię kolejne próby. Jesteś gotowy?~ ~<GABBER>, dobrze ci poszło i my trzy jesteśmy ci wdzięczne za pomoc. Teraz jednak czekają cię kolejne próby. Jesteś gotowa?~ 
+@14  = ~Tak, czcigodna pani. Powiedz mi, co należy zrobić.~
+@15  = ~Nie, czcigodna pani. Potrzebuję więcej czasu.~ 
+@16  = ~<GABBER>, nie możemy dopełnić swojego przeznaczenia w Faerunie, dopóki ty nie będziesz gotów. Przygotuj się najlepiej, jak potrafisz i wróć, kiedy będziesz mógł.~ ~<GABBER>, nie możemy dopełnić swojego przeznaczenia w Faerunie, dopóki ty nie będziesz gotowa. Przygotuj się najlepiej, jak potrafisz i wróć, kiedy będziesz mogła.~
+@17  = ~Bardzo dobrze. Słuchaj uważnie, ponieważ muszę ci wiele wyjaśnić, zanim przystąpisz do kolejnego zadania.~
+@18  = ~W ostatnich miesiącach wyczułam w oddali jakąś rosnącą w siłę obecność. Nie wiem, czym jest ten byt, ale jestem przekonana o jego złej naturze.~
+@19  = ~<GABBER>, obawiam się o bezpieczeństwo tego regionu, jeśli ta istota stanie się zbyt potężna. To coś nie pochodzi z naszego świata i musi zostać powstrzymane, zanim zacznie siać spustoszenie.~ 
+@20  = ~<GABBER>! Nakazuję ci, abyś wyeliminował to coś przy pomocy wszelkich dostępnych ci środków. Jeżeli zajdzie taka konieczność, pozyskaj pomoc sojuszników, znajdź potężnych przyjaciół albo zdobądź magiczny oręż, by pokonać to zagrożenie. Bezpieczeństwo Faerunu raz jeszcze zależy od ciebie.~ ~<GABBER>! Nakazuję ci, abyś wyeliminowała to coś przy pomocy wszelkich dostępnych ci środków. Jeżeli zajdzie taka konieczność, pozyskaj pomoc sojuszników, znajdź potężnych przyjaciół albo zdobądź magiczny oręż, by pokonać to zagrożenie. Bezpieczeństwo Faerunu raz jeszcze zależy od ciebie.~
+@21  = ~Gdzie mogę odnaleźć tę istotę, pani?~ 
+@22  = ~Zrobię, co w mojej mocy, pani.~ 
+@23  = ~Pani, nie wiem, czy moje umiejętności wystarczą, aby pokonać tak poważne zagrożenie.~
+@24  = ~Nie wiem, gdzie dokładnie, ale wyczuwam ją najmocniej w mieście na północy, ludzkim siedlisku znanym jako Athkatla.~ 
+@25  = ~<GABBER>! Bez względu na koszt, los nas wszystkich spoczywa w twoich rękach. Nasza trójka pokłada w tobie zaufanie, podobnie jak Elhan. Nawet ci wszyscy, którzy znają twoje czyny tylko z obozowych opowieści również wierzyliby w ciebie, gdyby wiedzieli o zagrożeniu. Pamiętaj, żeby nie tracić wiary w siebie, a wtedy ci się powiedzie.~
+@26  = ~<GABBER>! Wiem, że zrobisz, co w twojej mocy. To wszystko, o co możemy się modlić. Oby szczęście cię nie opuszczało. Wróć do mnie, gdy ta istota zostanie unicestwiona. Niech Seldarine się tobą opiekuje i niesie cię w swoich dłoniach.~
+@27  = ~Wciąż wyczuwam zły byt na tym obszarze. Czuję, że nie wypełniłeś jeszcze swojego zadania.~ ~Wciąż wyczuwam zły byt na tym obszarze. Czuję, że nie wypełniłaś jeszcze swojego zadania.~
+@28  = ~Nie mogę odnaleźć tej istoty. Czy wiesz, gdzie ona jest?~
+@29  = ~Powiedziałam ci, wyczuwam ją w Athkatli.~
+@30  = ~Nie potrafię być bardziej precyzyjna, ale ta istota znajduje się prawdopodobnie gdzieś w zachodniej części miasta.~
+@31  = ~Wyczuwam tę istotę gdzieś w okolicach wody. Może to rzeka? Nie potrafię tego powiedzieć z całą pewnością.~
+@32  = ~Zło znajduje się gdzieś pod powierzchnią ziemi. Zdaje mi się, że wyczuwam zapach siarki, soli i zgnilizny.~
+@33  = ~<GABBER>, nie potrafię być bardziej precyzyjna. Zło emanuje silnie w zachodniej części Athkatli, niedaleko wody, pod powierzchnią.~
+@34  = ~Nie wyczuwam już narastającej obecności zła. Zniszczyłeś je?~ ~Nie wyczuwam już narastającej obecności zła. Zniszczyłaś je?~
+@35  = ~Nie. Zło zostało wygnane, ale nie zniszczone.~
+@36  = ~Tak, pani, zniszczyłem to, czymkolwiek było.~ ~Tak, pani, zniszczyłam to, czymkolwiek było.~
+@37  = ~W takim razie uznajmy zadanie za wykonane, niezależnie od rezultatu. Dobrze ci poszło. Dziękuję ci za przybliżenie mnie do chwili, w której będę mogła odejść na zachód.~
+@38  = ~<GABBER>! Idź! Pokonaj zło, jeśli potrafisz.~
+@39  = ~Oczekujemy na moment, w którym udamy się w ostatnią podróż z Faerunu do Evermeet. <GABBER>, niech Corellan Lotharian cię prowadzi.~
+@40  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zwiększyć liczbę zaklęć, które mogę zapamiętać.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zwiększyć liczbę zaklęć, które mogę zapamiętać.~
+@41  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak rzucać zaklęcia znacznie szybciej.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak rzucać zaklęcia znacznie szybciej.~
+@42  = ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałem na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zaczarowywać ostrza zwykłych broni pomniejszą magią.~ ~Starszyzna elfów: Nauka magicznych umiejętności
+
+Trzy czarodziejki, które spotkałam na zachodnim krańcu lasu Tethyr, niedaleko podziemnego wejścia do Podmroku, były na tyle miłe, że nauczyły mnie, jak zaczarowywać ostrza zwykłych broni pomniejszą magią.~
+@43  = ~Starszyzna elfów: Obecność Zła
+
+Trzy starsze czarodziejki przygotowujące się do Odwrotu, poprosiły mnie o pokonanie złej istoty, którą wyczuły w okolicy. Nie są pewne, skąd dokładnie emanuje to zło, ale znajduje się ono gdzieś w obrębie miasta Athkatla.
+Kiedy już pokonam złą istotę - albo poprzez zniszczenie jej, albo poprzez wygnanie z Faerunu - mam o tym poinformować przebywające niedaleko wejścia do Podmroku, czarodziejki. Obiecały one nauczyć mnie przydatnej umiejętności.~
+@44  = ~Starszyzna elfów: Obecność Zła
+
+Pokonałem złego demona pod dzielnicą portową w Athkatli, którego wyczuły mądre elfie czarodziejki. Poinformowały mnie, że przewidują chwilę, w której udadzą się do Evermeet i obiecały nauczyć mnie nowej umiejętności.~ ~Starszyzna elfów: Obecność Zła
+
+Pokonałam złego demona pod dzielnicą portową w Athkatli, którego wyczuły mądre elfie czarodziejki. Poinformowały mnie, że przewidują chwilę, w której udadzą się do Evermeet i obiecały nauczyć mnie nowej umiejętności.~

@@ -1,0 +1,73 @@
+@1   = ~Oczywiście, że tak, Tardecie. Witajcie, nowi przyjaciele.~
+@2   = ~Jeśli kiedyś zechcesz spróbować się ze mną na łuki, podejdź tą ścieżką, a będziemy mogli poćwiczyć.~
+@3   = ~Jestem z Marilyn, Tardecie. Pozwól im pomóc.~
+@4   = ~Dopóty jestem gotowy, dopóki jestem w stanie coś ustrzelić.~
+@5   = ~Tak, Arkaneusie? Co się stało?~
+@6   = ~Mieszka tam jakiś podgatunek elfa księżycowego; jest one całkowicie odporny na zaklęcia przemiany, jak polimorfia czy wskrzeszenie. Nie wiem, co to powoduje, ale raczej nie chodzi o ich rośliny.~
+@7   = ~Chcę poćwiczyć łucznictwo, co ty na to?~
+@8   = ~Pewnie! Spróbuję swych sił.~
+@9   = ~Nie teraz, dzięki.~
+@10  = ~Powodzenia, przyjacielu. Pozwól, że strzelę kilka razy.~ ~Powodzenia, przyjaciółko. Pozwól, że strzelę kilka razy.~
+@11  = ~Dobrze, jeśli zmienisz zdanie, wiesz gdzie mnie szukać.~
+@12  = ~Sprawdź, czy potrafisz uderzyć w cel. Marylin myśli, że ona jest lepsza niż ja, ale niemożliwe jest, by człowiek prześcignął elfa, jeśli chodzi o łucznictwo.~
+@13  = ~Jeśli będziesz chciała się zmierzyć, Marylin, wiesz, gdzie mnie znaleźć.~
+@14  = ~Ciekawi mnie, na co Tardeth czeka. Powinniśmy robić coś wartościowego, zamiast siedzieć tutaj. Obozujemy tu już od kilku dni.~
+@15  = ~Byliśmy na południu kilka tygodni temu. Las Mir roi się od ne'Tel'Quessar.~
+@16  = ~Jeśli zamierzasz podążyć tą ścieżką, to uważaj na swoje plecy. Słyszałem, że szykuje się wojna.~
+@17  = ~Mam nadzieję, że Elhan znajdzie wkrótce Latarnię. Nie mogę się doczekać chwili, gdy znów zobaczę piękno Suldanessellaru, ale bez Latarni, my - Piękny Lud - jesteśmy jedynie zagubionymi dziećmi.~
+@18  = ~Zatem rozmawiałeś z Tardethem. Cieszę się, że pomożesz nam w walce z tym Kultem.~ ~Zatem rozmawiałaś z Tardethem. Cieszę się, że pomożesz nam w walce z tym Kultem.~
+@19  = ~Jest coś, co możesz powiedzieć mi o tym Kulcie?~
+@20  = ~Cóż, nie wiem wiele więcej niż ty lub Tardeth, myślę jednak, że Marilyn i Lawantha wierzą, iż jego lider pod lasami Tethyru utworzył nową komórkę Kultu Smoka.~
+@21  = ~Myślałem, że Kult Smoka pierwotnie miał siedzibę w Sembii.~ ~Myślałam, że Kult Smoka pierwotnie miał siedzibę w Sembii.~
+@22  = ~O ile mi wiadomo, Kult jest naprawdę potężną grupą ze wschodniego Śródziemia, prosperującą w miastach dookoła Morza Spadających Gwiazd. Ale jestem pewny, że Kult chce, by złe smoki przyłączyły się do ich sprawy. Wiem, że Harfiarze wielokrotnie walczyli z Kultem i jego członkami, więc to oni wiedzą więcej o ich działaniach.~
+@23  = ~Jeśli to prawda, że Kult chce pozyskać złe smoki, to las Mir i lasy Tethyru są doskonałymi miejscami do działania.~
+@24  = ~Dlaczego?~
+@25  = ~No cóż; tu, w tych dwóch lasach jest wiele smoków - zarówno dobrych jak i złych - znacznie więcej niż w większości innych dużych obszarów Faerunu.~
+@26  = ~Możesz mi powiedzieć jeszcze coś, co pomogłoby mi w tej sprawie?~
+@27  = ~Jestem pewien, że to będzie ciężka bitwa, więc jeśli chcesz to możesz tu przygotować zaklęcia i naostrzyć broń. Tutaj trzymamy dodatkowe uzbrojenie, dlaczegóż więc nie miałbyś zająć w tym celu jednego z naszych namiotów?~ ~Jestem pewien, że to będzie ciężka bitwa, więc jeśli chcesz to możesz tu przygotować zaklęcia i naostrzyć broń. Tutaj trzymamy dodatkowe uzbrojenie, dlaczegóż więc nie miałabyś zająć w tym celu jednego z naszych namiotów?~
+@28  = ~Jesteśmy prawie gotowi, by zaatakować Kult w ich fortecy. Mam nadzieję, że twoje własne przygotowania przebiegają równie pomyślnie.~
+@29  = ~Tak, wszystko jest w porządku. Wkrótce będziemy gotowi.~
+@30  = ~Chciałbym się chwilę zdrzemnąć. Czy miałbyś coś przeciwko przerwaniu twoich ćwiczeń łuczniczych?~ ~Chciałabym się chwilę zdrzemnąć. Czy miałbyś coś przeciwko przerwaniu twoich ćwiczeń łuczniczych?~
+@31  = ~Skończ te piekielne hałasy! Próbuję spać!~
+@32  = ~Dzięki za przerwanie ćwiczeń. Skończyłem spać, więc możesz do nich wrócić, jeśli chcesz.~ ~Dzięki za przerwanie ćwiczeń. Skończyłam spać, więc możesz do nich wrócić, jeśli chcesz.~
+@33  = ~Dzięki za przerwanie ćwiczeń. Chciałbym się teraz położyć.~ ~Dzięki za przerwanie ćwiczeń. Chciałabym się teraz położyć.~
+@34  = ~Kto jest naprawdę lepszym łucznikiem: ty czy Marilyn?~
+@35  = ~Dlaczego nazwałeś swego konia pan John Johns?~
+@36  = ~Jak to się stało, że jesteś jedyną osobą z Kompanii, która ma konia?~
+@37  = ~Oczywiście. Wybacz, że przeszkadzałem.~
+@38  = ~Żaden problem. Pójdę teraz postrzelać. Jeśli chcesz poćwiczyć, znajdziesz mnie przy celach, jeśli chcesz dalej spać - daj mi znać.~
+@39  = ~Mógłbyś poprosić grzeczniej. Gdybyś trochę spuścił z tonu, mógłbym zachowywać się ciszej.~ ~Mogłabyś poprosić grzeczniej. Gdybyś trochę spuściła z tonu, mógłbym zachowywać się ciszej.~
+@40  = ~Dopóki nie nauczysz się dobrych manier, będziesz musiał<HESHE> z tym żyć.~
+@41  = ~Ciężko powiedzieć. Wbrew temu, że droczymy się ze sobą, oboje jesteśmy doskonałymi strzelcami.~
+@42  = ~Marilyn jest dużo lepsza, jeśli chodzi o krótkie dystanse, ale ja mogę strzelić przez gliniane ucho kufla z odległości stu kroków.~
+@43  = ~To nieprawda, Lawantho. Wiesz, że nigdy bym cię nie zranił. Poza tym, miejsca na strzał miałem mniej niż na grubość trzech palców. Trochę dalej od ciebie i grot ześliznąłby się po zbroi.~
+@44  = ~To lepsza nazwa niż "Fabryka kleju"?~
+@45  = ~Och, nie zrobiłbyś mu tego, prawda?~
+@46  = ~Bezsprzecznie.~
+@47  = ~Oczywiście, nie zrobiłbym tego.~
+@48  = ~Właściwie, mój pierwszy koń był ciemnobrązowy, prawie czerwonawy i nazwaliśmy go Czerwoną Zasłoną. To jest mój drugi koń, więc nazwałem go pan John Johns po jego ojcu, tylko dwa razy.~
+@49  = ~W ostatnim roku spłodził źrebię, które nazwaliśmy I.JA.I.JA.Ołtarz.~
+@50  = ~Dziwne imiona dajesz swym koniom.~
+@51  = ~Cóż, pan John Johns jest moim koniem, ale służy całej kompanii.~
+@52  = ~Nie pozwala się dosiąść jedynie Lawancie. Wydaje się nie znosić jej magii, za to nie ma nic przeciwko czarom druidów.~
+@53  = ~To nieprawda, Paddy. Lawantha znowu kłamie. <CHARNAME>, nie wierz jej!~
+@54  = ~Tardecie! Spójrz w lewo!~
+@55  = ~Dobra robota, Kompanio. Dobra robota, przyjaciele. Wszyscy są cali?~
+@56  = ~Bierzmy nasz ekwipunek i wynośmy się stąd. <CHARNAME>, spotkamy się w Lesie.~
+@57  = ~<CHARNAME>, cóż to była za walka, czyż nie? Naprawdę pokazaliśmy temu Kultowi.~
+@58  = ~Nawet nie zdawali sobie sprawy z tego, co ich czeka.~
+@59  = ~Cieszę się, że wolicie pomagać Kompanii, niż stać się jednym z jej wrogów.~
+@60  = ~<CHARNAME>, przyjmij ten prezent ode mnie, to całkiem potężny elfi przedmiot. Korzystaj z niego dobrze.~
+@61  = ~Kompanio! Czas na nas!~
+@62  = ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłem walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miał jeszcze okazję stanąć kiedyś u ich boku.~ ~Prześwietna Kompania Ośmiorga
+
+Ostatnią ze swych przygód odbyłam walcząc u boku Kompanii Ośmiorga. Próbowaliśmy zlikwidować komórkę Kultu Smoka, który urządził sobie siedzibę w opuszczonym lochu pod lasem Tethyr. Wszyscy z Kompanii - Marilyn, Paddy, elf Sylvanus, Lawantha, dwoje druidów: Manny i Arkaneus, a także Tardeth - okazali się być świetnie wyszkolonymi wojownikami i pomyślnie udało nam się pokonać Kult. Muszę przyznać, że walka u boku tak doświadczonej grupy poszukiwaczy przygód była dla mnie przyjemnością i mam nadzieję, że będę miała jeszcze okazję stanąć kiedyś u ich boku.~
+@63  = ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałem. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałem poproszony o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowy na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~ ~Prześwietna Kompania Ośmiorga
+
+W końcu udało mi się spotkać Kompanię Ośmiorga, o której tyle słyszałam. Ta legendarna grupa poszukiwaczy przygód z Tethyru natknęła się na twierdzę zajętą przez Kult Smoka. Zostałam poproszona o pomoc w zwalczeniu Kultu, na co przystałem. Kiedy będę gotowa na to wyzwanie, mam porozmawiać z przywódcą Kompanii, Tardethem.
+Mam nadzieję, że poszukiwanie przygód i walka u boku Kompanii Ośmiorga okaże się czymś wartym moich umiejętności.~

@@ -1,0 +1,112 @@
+@1   = ~Zbyt długo honor swój zaniedbywałeś. Witać cię w plemieniu chcemy.~ ~Zbyt długo honor swój zaniedbywałaś. Witać cię w plemieniu chcemy.~ 
+@2   = ~Co znaczy być częścią naszego ludu nauczyć się ty musisz.~
+@3   = ~Żeby sobie przypomnieć, czas nadszedł. By na miejsce w plemieniu zasłużyć, poszukiwania zacząć musisz.~ 
+@4   = ~Kostur o wielkiej mocy dla nas stracony. Lenistwo i słabość do naszego plemienia przyszły. Odzyskasz ty go dla nas. Prosty szamana kostur jest to. Jego z powrotem chcemy.~
+@5   = ~Gdzie kostur albo kto posiada go, my nie wiemy. Odnaleźć będziesz go musiał.~ ~Gdzie kostur albo kto posiada go, my nie wiemy. Odnaleźć będziesz go musiała.~ 
+@6   = ~Radzić się nas jest dla ciebie dobre.~
+@7   = ~Radzić się nas młody chce. Co odkryłeś, powiedz nam.~ ~Radzić się nas młoda chce. Co odkryłaś, powiedz nam.~
+@8   = ~Tak, mam kostur, który miałem dla was odzyskać.~ ~Tak, mam kostur, który miałam dla was odzyskać.~ 
+@9   = ~Jeszcze nie znalazłem tego kostura.~ ~Jeszcze nie znalazłam tego kostura.~
+@10  = ~Powiedzcie mi raz jeszcze, co miałem dla was uczynić?~ ~Powiedzcie mi raz jeszcze, co miałam dla was uczynić?~ 
+@11  = ~Za szamana kostura odzyskanie dziękujemy ci. Uczyć się naszych ścieżek ty będziesz.~
+@12  = ~Niektórych z naszych obyczajów i umiejętności nauczymy ciebie. By medytować i ćwiczyć do dziczy pójdziesz.~
+@13  = ~Niektórych z naszych zwyczajów nauczyłeś się. Dla plemienia trenować znowu będziesz.~ ~Niektórych z naszych zwyczajów nauczyłaś się. Dla plemienia trenować znowu będziesz.~ 
+@14  = ~Niektórych z naszych zwyczajów nauczyłeś się. Dla plemienia trenować znowu będziesz.~ ~Niektórych z naszych zwyczajów nauczyłaś się. Dla plemienia trenować znowu będziesz.~
+@15  = ~Dobrze ci poszło, <GABBER>. Dalszym próbom poddany będziesz. Gotowy jesteś ty?~ ~Dobrze ci poszło, <GABBER>. Dalszym próbom poddana będziesz. Gotowa jesteś ty?~ 
+@16  = ~Tak. Powiedz mi, co mam zrobić.~
+@17  = ~Nie, potrzebuję więcej czasu.~
+@18  = ~Ścieżek ludzi Północy nauczyć się ty musisz. Ograniczona twoja wartość dla plemienia jest. Przygotuj ty się. Do nas wróć, kiedy gotowy będziesz.~ ~Ścieżek ludzi z Północy nauczyć się ty musisz. Ograniczona twoja wartość dla plemienia jest. Przygotuj ty się. Do nas wróć, kiedy gotowa będziesz.~
+@19  = ~Swoje następne zadanie ty zaczniesz. Do wyjaśnienia dużo mamy.~ 
+@20  = ~<GABBER>, o pomoc prosimy cię. Zagrożenie dla naszego plemienia zlikwidowane zostać musi. Od ciebie życie plemienia naszego zależy.~
+@21  = ~Gdzie mam to odnaleźć, Wszechwiedzący?~ 
+@22  = ~Zrobię, co w mojej mocy, Wszechwiedzący.~ 
+@23  = ~Wszechwiedzący, wątpię, czy moje umiejętności wystarczą, aby powstrzymać to zagrożenie.~
+@24  = ~Zło w tym rejonie wciąż wyczuwamy. Że zadania nie ukończyłeś, to wiemy.~ ~Zło w tym rejonie wciąż wyczuwamy. Że zadania nie ukończyłaś, to wiemy.~ 
+@25  = ~Nie mogę go odnaleźć. Czy wiesz, gdzie się ono znajduje?~
+@26  = ~Jeśli możesz, <GABBER>, idź, żeby zło zwyciężyć.~
+@27  = ~<GABBER>! Wojnę do naszych domów Luskanie przynieśli. Do oceanu zepchnąć ich musisz.~
+@28  = ~Z wyspy naszej Luskan wypędź!~
+@29  = ~Dużo do rozmowy my mamy. Obecności zła nie wyczuwam. Zniszczyłeś je ty?~ ~Dużo do rozmowy my mamy. Obecności zła nie wyczuwam. Zniszczyłaś je ty?~
+@30  = ~Nie, Wszechwiedzący, zło zostało wypędzone, ale nie zniszczone.~
+@31  = ~Tak, Wszechwiedzący, zniszczyłem to, czymkolwiek to było.~ ~Tak, Wszechwiedzący, zniszczyłam to, czymkolwiek to było.~
+@32  = ~Co z domami naszymi? Od Luskan bezpieczne one są?~
+@33  = ~Tak, Wszechwiedzący. Pokonałem najeźdźców i usunąłem zagrożenie dla Ruathym.~ ~Tak, Wszechwiedzący. Pokonałam najeźdźców i usunęłam zagrożenie dla Ruathym.~
+@34  = ~Skończone to jest. Dobrze ci poszło, <GABBER>. Do naszego plemienia bliżej ci.~
+@35  = ~Powiedz nam, <GABBER>, zanim odejdziesz. Co dzięki medytacjom osiągnąć chcesz?~
+@36  = ~Chcę się nauczyć, jak przetrwać w dziczy.~
+@37  = ~Chcę się nauczyć, jak przerazić wrogów za pomocą straszliwego okrzyku wojennego.~
+@38  = ~Chcę się nauczyć, jak zabić człowieka jednym ciosem śmierci.~
+@39  = ~Sukcesu w takim razie my życzymy ci. Z wiedzą, którą posiądziesz, do nas wróć.~
+@40  = ~Jak prawdziwy barbarzyńca z Północy, zwyczajów i tradycji się nauczysz. Zanim resztę naszej wiedzy posiądziesz, ostatnie zadanie dla ciebie mamy.~
+@41  = ~<GABBER>, zrobisz to, o tym wiemy.~
+@42  = ~Znowu, poszło ci dobrze. Dla ludu naszego pracowałeś i walczyłeś. Młot od ciebie wezmę. Uczynię go lepszym, niż teraz jest i oddam ci. W twoich podróżach niech ci dobrze służy.~ ~Znowu, poszło ci dobrze. Dla ludu naszego pracowałaś i walczyłaś. Młot od ciebie wezmę. Uczynię go lepszym niż teraz jest i oddam ci. W twoich podróżach niech ci dobrze służy.~
+@43  = ~Zawsze najlepszego oczekiwaliśmy od ciebie. Zawsze wszystko dawałeś z siebie. Nauczyć się ostatniej umiejętności, naszego zwyczaju ty musisz.~ ~Zawsze najlepszego oczekiwaliśmy od ciebie. Zawsze wszystko dawałaś z siebie. Nauczyć się ostatniej umiejętności, naszego zwyczaju ty musisz.~
+@44  = ~Na odludzie się udasz poznać siebie, <GABBER>. Nauczyć się walki na oślep.~
+@45  = ~Na odludzie się udasz poznać siebie, <GABBER>. Nauczyć się szału bitewnego.~
+@46  = ~Na odludzie się udasz poznać siebie, <GABBER>. Nauczyć się odporności.~
+@47  = ~Na odludzie się udasz poznać siebie, <GABBER>. Nauczyć się używania dowolnego przedmiotu.~
+@48  = ~Dowolnego przedmiotu używać ty się nauczyłeś.~ ~Dowolnego przedmiotu używać ty się nauczyłaś.~
+@49  = ~Dowolnego przedmiotu używać ty się nie nauczyłeś.~ ~Dowolnego przedmiotu używać ty się nie nauczyłaś.~
+@50  = ~W stan rozwścieczenia ty się wchodzić nauczyłeś.~ ~W stan rozwścieczenia ty się wchodzić nauczyłaś.~
+@51  = ~Stać się twardym jak stal ty się nauczyłeś.~ ~Stać się twardym jak stal ty się nauczyłaś.~
+@52  = ~Walki w ciemnościach ty się nauczyłeś.~ ~Walki w ciemnościach ty się nauczyłaś.~
+@53  = ~Członkiem plemienia się stałeś. W naszym domu z otwartymi rękoma witać cię będziemy. Zawsze czego się tu nauczyłeś pamiętaj, gdy nasz dom opuścisz.~ ~Członkiem plemienia się stałaś. W naszym domu z otwartymi rękoma witać cię będziemy. Zawsze czego się tu nauczyłaś pamiętaj, gdy nasz dom opuścisz.~
+@54  = ~Jednym z nas nie jesteś. O opuszczenie naszego domu proszę cię.~ ~Jedną z nas nie jesteś. O opuszczenie naszego domu proszę cię.~
+@55  = ~Teraz jednym z naszych braci wojowników jesteś, szanujesz nasze zwyczaje i tradycje. Z tego bardzo się raduję.~ ~Teraz jedna z naszych sióstr wojowniczek jesteś, szanujesz nasze zwyczaje i tradycje. Z tego bardzo się raduję.~
+@56  = ~Stosunki plemienne
+
+Rada Starszych ludzi Północy, dla której pracuję, żeby zostać przyjętym do tego plemienia barbarzyńców i wojowników, wyznaczyła mi kolejne zadanie do wypełnienia. Znowu muszę przebyć morza i powrócić do Athkatli, gdzie mam odnaleźć i usunąć zagrożenie, które wyczuła starszyzna. Nie są oni pewni, gdzie dokładnie znajduje się owo nieznane zagrożenie, ale mówią, że trzeba je odnaleźć, zanim będzie mogło zadać cios ludziom na Torilu.~ ~Stosunki plemienne
+
+Rada Starszych ludzi Północy, dla której pracuję, żeby zostać przyjętą do tego plemienia barbarzyńców i wojowników, wyznaczyła mi kolejne zadanie do wypełnienia. Znowu muszę przebyć morza i powrócić do Athkatli, gdzie mam odnaleźć i usunąć zagrożenie, które wyczuła starszyzna. Nie są oni pewni, gdzie dokładnie znajduje się owo nieznane zagrożenie, ale mówią, że trzeba je odnaleźć, zanim będzie mogło zadać cios ludziom na Torilu.~
+@57  = ~Stosunki plemienne
+
+Spotkałem plemię ludzi Północy: na wpół ucywilizowanych ludzi, którzy zamieszkują odizolowaną wyspę Ruathym, setki mil od Waterdeep i Wybrzeża Mieczy. Powiedzieli mi, że jeśli chcę dołączyć do ich społeczności, muszę wykonać kilka zadań. Pierwszym jest odzyskanie Kostura Szamana, przedmiotu posiadającego pomniejsze magiczne właściwości, i zwrócenie go Radzie Starszych najszybciej, jak to możliwe.~ ~Stosunki plemienne
+
+Spotkałam plemię ludzi Północy: na wpół ucywilizowanych ludzi, którzy zamieszkują odizolowaną wyspę Ruathym, setki mil od Waterdeep i Wybrzeża Mieczy. Powiedzieli mi, że jeśli chcę dołączyć do ich społeczności, muszę wykonać kilka zadań. Pierwszym jest odzyskanie Kostura Szamana, przedmiotu posiadającego pomniejsze magiczne właściwości, i zwrócenie go Radzie Starszych najszybciej, jak to możliwe.~
+@58  = ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkiem ich plemienia, tym razem poprzez nauczenie mnie, jak zastawiać różne pułapki oraz sidła, by chwytać i ranić moich wrogów.~ ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkinią ich plemienia, tym razem poprzez nauczenie mnie, jak zastawiać różne pułapki oraz sidła, by chwytać i ranić moich wrogów.~
+@59  = ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkiem ich plemienia, tym razem poprzez nauczenie mnie, jak używać potężnego ataku.~ ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkinią ich plemienia, tym razem poprzez nauczenie mnie, jak używać potężnego ataku.~
+@60  = ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkiem ich plemienia, tym razem poprzez nauczenie mnie, jak wejść w berserkerski szał.~ ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkinią ich plemienia, tym razem poprzez nauczenie mnie, jak wejść w berserkerski szał.~
+@61  = ~Stosunki plemienne
+
+Zgodnie z życzeniem Rady ludzi Północy, powróciłem na kontynent, gdzie musiałem zmierzyć się z potężnym demonem, który w jakiś sposób znalazł przejście ze sfer eterycznych do Faerunu. Kiedy wróciłem na wyspę Ruathym okazało się, że wojska znajdującego się na północy Wybrzeża Mieczy miasta Luskan ponownie podjęły próbę podbicia wyspy, jak czynią to od lat. Odparłem atak nieprzyjacielskich sił i zostałem nagrodzony przez Radę Starszych po pokonaniu zagrożenia ze strony Luskan.~ ~Stosunki plemienne
+
+Zgodnie z życzeniem Rady ludzi Północy, powróciłam na kontynent, gdzie musiałam zmierzyć się z potężnym demonem, który w jakiś sposób znalazł przejście ze sfer eterycznych do Faerunu. Kiedy wróciłam na wyspę Ruathym okazało się, że wojska znajdującego się na północy Wybrzeża Mieczy miasta Luskan ponownie podjęły próbę podbicia wyspy, jak czynią to od lat. Odparłam atak nieprzyjacielskich sił i zostałam nagrodzona przez Radę Starszych po pokonaniu zagrożenia ze strony Luskan.~
+@62  = ~Stosunki plemienne
+
+Otrzymałem następne zadanie od Rady Starszych ludzi Północy. Tym razem mam znaleźć materiały potrzebne do przekucia potężnego młota bojowego. Kiedy odnajdę już odpowiednie składniki, mam je zanieść krasnoludowi Cromwellowi w Athkatli do przekucia.~ ~Stosunki plemienne
+
+Otrzymałam następne zadanie od Rady Starszych ludzi Północy. Tym razem mam znaleźć materiały potrzebne do przekucia potężnego młota bojowego. Kiedy odnajdę już odpowiednie składniki, mam je zanieść krasnoludowi Cromwellowi w Athkatli do przekucia.~
+@63  = ~Stosunki plemienne
+
+Po tym, jak otrzymałem od Cromwella przekuty magiczny Młot Lokina, zwróciłem go Radzie Starszych na Ruathym. Nagrodzili mnie nadając broni dodatkowe magiczne właściwości, a następnie wręczając mi zaklęty młot bojowy jako podarunek za moją pomoc plemieniu ludzi Północy. Starsi powiedzieli, żeby używać młota z honorem.~ ~Stosunki plemienne
+
+Po tym, jak otrzymałam od Cromwella przekuty magiczny Młot Lokina, zwróciłam go Radzie Starszych na Ruathym. Nagrodzili mnie nadając broni dodatkowe magiczne właściwości, a następnie wręczając mi zaklęty młot bojowy jako podarunek za moją pomoc plemieniu ludzi Północy. Starsi powiedzieli, żeby używać młota z honorem.~
+@64  = ~Nauki plemienne
+
+Za wykonanie zadań zleconych mi przez Radę Starszych ludzi Północy, nauczono mnie, jak używać dowolnego przedmiotu.~
+@65  = ~Nauki plemienne
+
+Za wykonanie zadań zleconych mi przez Radę Starszych ludzi Północy, próbowano nauczyć mnie, jak używać dowolnych przedmiotów, ale nie udało mi się pojąć tych nauk.~
+@66  = ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkiem ich plemienia, tym razem poprzez nauczenie mnie, jak wejść w berserkerski szał.~ ~Nauki plemienne
+
+Rada Starszych na Ruathym pomogła mi stać się członkinią ich plemienia, tym razem poprzez nauczenie mnie, jak wejść w berserkerski szał.~
+@67  = ~Nauki plemienne
+
+Za wykonanie zadań zleconych mi przez Radę Starszych ludzi Północy, nauczono mnie zdolności wytrzymałości.~
+@68  = ~Nauki plemienne
+
+Za wykonanie zadań zleconych mi przez Radę Starszych ludzi Północy, nauczono mnie, jak walczyć na oślep, to jest jak walczyć w ciemnościach albo przy słabym świetle.~

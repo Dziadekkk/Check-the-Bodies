@@ -1,0 +1,46 @@
+@1   = ~Cóż to? Intruzi na terytorium Mekratha? Co cię tu sprowadza, głupi<HESHE> <MANWOMAN>o... Mów chyżo, bo ciężko znoszę obecność głupców!~
+@2   = ~Wybacz to najście... udam się już w drogę.~
+@3   = ~Nie groź mi, czarodzieju... chodzę, gdzie tylko zechcę.~
+@4   = ~Szukam przygód i wiedzy. Ale widzę, że niewiele tu interesującego, więc nie przydasz mi się na nic.~
+@5   = ~A więc wyjdź stąd! Nie mam cierpliwości, aby znosić takie utrapienia, więc nie pozwolę, abyś nadal mnie nachodził<HESHE>!~
+@6   = ~Ośmielasz się rzucić mi wyzwanie?! W moim własnym sanktuarium?! Głupi<HESHE> <MANWOMAN>o! Z przyjemnością będę powolutku rozrywał cię na strzępy moim czarami!~
+@7   = ~Cha, cha... odważne słowa, <MANWOMAN>o. Mógłbym podzielić się z tobą wiedzą, jeśli naprawdę jej szukasz. Co konkretnie cię interesuje?~
+@8   = ~Za wiedzą podąża też jej cena... Określ, co wiesz, a ja pomyślę nad zapłatą.~
+@9   = ~Co mnie interesuje... W jakich sztukach byłeś uczony?~
+@10  = ~Nie, nie sądzę, aby interesowało mnie cokolwiek, w czym jesteś wyuczony.~
+@11  = ~Cóż, przede wszystkim wybaczę ci to nagłe wtargnięcie na moje terytorium. Jednak jestem pewien, że znajdę coś, co twój prosty umysł będzie w stanie pojąć, <MANWOMAN>o.~
+@12  = ~Wiem dużo o Zasłonie, jej podnoszeniu i o tym, co jest za nią. Czy interesuje cię któraś z tych rzeczy?~
+@13  = ~Nie potrzebuję twych lekcji, ale muszę zdobyć informację odnośnie tych rzeczy.~
+@14  = ~Nie, w ogóle nie chcę z tobą żadnych interesów.~
+@15  = ~Jestem jednym z największych nekromantów, jakich to miasto kiedykolwiek widziało. Wiem dużo o Zasłonie, jej podnoszeniu i o tym, co jest za nią. Czy interesuje cię któraś z tych rzeczy?~
+@16  = ~Lekcje? To byłaby tylko strata mojego czasu.~
+@17  = ~Nie, nędzny człowieku, będziesz musiał uczyć się samodzielnie. Ale bądź pewien, że pomogę ci w zgłębieniu tej sztuki, gdy zakończysz swój żywot... i to za niską cenę.~ ~Nie, nędzna kobieto, będziesz musiała uczyć się samodzielnie. Ale bądź pewna, że pomogę ci w zgłębieniu tej sztuki, gdy zakończysz swój żywot... i to za niską cenę.~
+@18  = ~Dam ci tę, napisaną przez nekromantę odkąd umarł, księgę "Ponad duchowe". Za odpowiednią cenę.~
+@19  = ~Wymień swoją cenę, magu.~
+@20  = ~Nie wiem, czy mógłbym sobie pozwolić na twoją cenę.~ ~Nie wiem, czy mogłabym sobie pozwolić na twoją cenę.~
+@21  = ~Nic ci nie zapłacę.~
+@22  = ~Chcę tylko dwóch rzeczy. Przynieś mi kamień łotrzyków i parę okularów - Okularów Identyfikacji, by być dokładnym - i będziemy mogli się wymienić.~
+@23  = ~Masz szczęście, magu, mam je ze sobą. Wymieńmy się i zakończmy to.~
+@24  = ~Bardzo dobrze, magu. Przyniosę ci rzeczy, o które prosisz.~
+@25  = ~Nie będę z tobą handlować. Sam kamień łotrzyków jest wart więcej niż jakakolwiek zakurzona książka.~
+@26  = ~Ty również masz szczęście. Daj mi te rzeczy, a oddam ci książkę.~
+@27  = ~To by było na tyle, <MANWOMAN>o. Zostaw mnie i nie nachodź więcej.~
+@28  = ~Nie ociągaj się, <MANWOMAN>o.~
+@29  = ~Jeżeli naprawdę pragniesz tej książki, to przyniesiesz mi te rzeczy. Jeżeli nie, zostaw mnie.~
+@30  = ~Może i mógłbyś. Nie pragnę wiele.~ ~Może i mogłabyś. Nie pragnę wiele.~
+@31  = ~Więc nie mam ci nic więcej do powiedzenia.~
+@32  = ~Znowu mi przeszkadzasz? Przyniosłeś rzeczy, o których ci mówiłem?~ ~Znowu mi przeszkadzasz? Przyniosłaś rzeczy, o których ci mówiłem?~
+@33  = ~Nie, nie zamierzam robić za chłopca na posyłki.~ ~Nie, nie zamierzam robić za dziewczę na posyłki.~
+@34  = ~Jeszcze nie. Nadal ich szukam.~
+@35  = ~Znalazłem tylko kamień łotrzyków.~ ~Znalazłam tylko kamień łotrzyków.~
+@36  = ~Mam okulary, których chciałeś, ale nie znalazłem kamienia łotrzyków.~ ~Mam okulary, których chciałeś, ale nie znalazłam kamienia łotrzyków.~
+@37  = ~Mam zarówno kamień łotrzyków, jak i okulary, których chciałeś.~
+@38  = ~zatem wyjdź stąd! Znajdź rzeczy i zakończmy tę sprawę.~
+@39  = ~Znajdź oba te przedmioty, <MANWOMAN>o i nie wracaj bez nich!~
+@40  = ~Daj mi zatem te przedmioty, a ja dam ci księgę.~
+@41  = ~Nie mam już nic więcej dla ciebie. Wyjdź! Opuść terytorium Mekratha!~
+@42  = ~Znalezienie księgi "Ponad duchowe"
+
+Znalazłem księgę, której poszukiwał mag Ceeb. Będę musiał wrócić do Doków i mu ją oddać.~ ~Znalezienie księgi "Ponad duchowe"
+
+Znalazłam księgę, której poszukiwał mag Ceeb. Będę musiała wrócić do Doków i mu ją oddać.~

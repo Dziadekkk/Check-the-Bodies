@@ -1,0 +1,15 @@
+@1   = ~(Wymiona tej krowy są pełne, bowiem nie została wydojona.)~
+@2   = ~(Gdybyś miał puste wiadro, mógłbyś ją wydoić.)~ ~(Gdybyś miała puste wiadro, mogłabyś ją wydoić.)~
+@3   = ~(Skoro masz puste wiadro, możesz ją wydoić, jeśli chcesz.)~
+@4   = ~(Zostaw krowę w spokoju, jednak jej wymiona eksplodują.)~
+@5   = ~(Wydój ją.)~
+@6   = ~(Musisz kontynuować dojenie krowy, póki wiadro nie zostanie napełnione świeżym mlekiem.)~
+@7   = ~(Wymię tej krowy jest puste, a ty ostrożnie zabierasz wiadro pełne mleka, starając się nie uronić ani kropli.)~
+@8   = ~(Ta krowa została już wydojona i nie ma więcej mleka.)~
+@9   = ~(Po prostu odejdź.)~
+@10  = ~(Nakarm krowę dziwnymi kwiatkami.)~
+@11  = ~(Krowa wyraźnie zasmakowała w twoim poczęstunku, trącając nosem rozpostartą dłoń w poszukiwaniu większej ilości. Teraz możesz ją bezpiecznie wydoić, bez obaw o kopnięcie którąś z tych potężnych racic. Może nawet stanie się ona bardziej wydajna. Po godzinie decydujesz się sprawdzić, co słychać u twojej nowej przyjaciółki...)~
+@12  = ~(Przeczucie cię nie myliło! Wydaje się, że te kwiaty mają przemożny wpływ na krowę, sprawiając, że jest ona trzykrotnie bardziej wydajna niż zwykle. Możliwe, że znalazłeś sposób na oszukanie losu i skończenie tych uciążliwych posług, co sprawi, że będziesz mieć więcej wolnego czasu niż kiedykolwiek wcześniej! Zastanawiasz się, czy nie należy powiedzieć Gorionowi o tym małym odkryciu... ale czy "laktacja" to aby na pewno właściwy temat do dyskusji?)~ ~(Przeczucie cię nie myliło! Wydaje się, że te kwiaty mają przemożny wpływ na krowę, sprawiając, że jest ona trzykrotnie bardziej wydajna niż zwykle. Możliwe, że znalazłaś sposób na oszukanie losu i skończenie tych uciążliwych posług, co sprawi, że będziesz mieć więcej wolnego czasu niż kiedykolwiek wcześniej! Zastanawiasz się, czy nie należy powiedzieć Gorionowi o swoim małym odkryciu... ale czy "laktacja" to aby na pewno właściwy temat do dyskusji?)~
+//@10  = ~(Nakarm krowę dziwnymi kwiatkami.)~
+//@11  = ~(Wygląda na to, że bardzo one krowie smakują. Zastanawiasz się, czy to przyspieszy produkcję mleka. Być może warto byłoby sprawdzić za godzinę...)~
+//@12  = ~(To jest to! Wygląda na to, że te kwiaty mogą pomóc ci w twych irytujących posługach, znacząco przyspieszając wytwarzanie mleka - aż trzykrotnie szybciej! Czy powinieneś jednak użyć słowa "laktacja", mówiąc Gorionowi o swoim małym odkryciu?)~ ~(To jest to! Wygląda na to, że te kwiaty mogą pomóc ci w twych irytujących posługach, znacząco przyspieszając wytwarzanie mleka - aż trzykrotnie szybciej! Czy powinnaś jednak użyć słowa "laktacja", mówiąc Gorionowi o swoim małym odkryciu?)~
